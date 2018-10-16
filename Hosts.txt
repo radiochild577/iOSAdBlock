@@ -4944,11 +4944,5 @@ yllix.com
 ::1 yieldmanager.com
 ::1 yjaxc.yahoo.co.jp
 ::1 yllix.com
-graph.facebook.com
-::1 graph.facebook.com
-external.xx.fbcdn.net
-scontent.xx.fbcdn.net
-::1 external.xx.fbcdn.net
-::1 scontent.xx.fbcdn.net
 ocsp.apple.com
 5.2.76.189
