@@ -9,8 +9,8 @@ To use this hosts file on iOS, install AdGuard/AdGuard Pro from the App Store, a
 
 The host files below were used in generating this custom list:
 
-  Minimal Hosts Blocker (https://www.ios-repo-updates.com/pack/92278/)
+  • Minimal Hosts Blocker (https://www.ios-repo-updates.com/pack/92278/)
   
-  AdMissile (http://pwn20wnd.science/repo)
+  • AdMissile (http://pwn20wnd.science/repo)
   
-  Thireus Untrusted Hosts Blocker (https://www.ios-repo-updates.com/pack/95899/)
+  • Thireus Untrusted Hosts Blocker (https://www.ios-repo-updates.com/pack/95899/)
