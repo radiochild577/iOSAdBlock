@@ -1,4 +1,4 @@
-iOS AdBlock hosts list
+# iOS AdBlock list
 
 My personal hosts file that I began creating back when I was jailbroken on iOS 11.3.1. I’m no longer jailbroken as I upgraded to an iPhone XS (and there is no iOS 12 jailbreak yet), so I took the jailbroken hosts file and converted it into a format that can be used on stock iOS to block ads in apps, on the web, prevent cert revokes, etc. 
 
