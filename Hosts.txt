@@ -33,6 +33,7 @@ marketingsolutions.yahoo.com
 :: ads.exoclick.com
 :: ads.heyzap.com
 :: ads.yimg.com
+:: ads.youtube.com
 :: adx.g.doubleclick.net
 :: affiliate.2mdn.net
 :: aka-cdn-ns.adtechus.com
@@ -252,6 +253,7 @@ ads.traffichunt.com
 ads.trafficjunky.net
 ads.yieldmo.com
 ads.yimg.com
+ads.youtube.com
 ads2.contentabc.com
 adsafeprotected.com
 adserver.adreactor.com
@@ -1586,6 +1588,7 @@ clickserve.dartsearch.net
 clickserve.eu.dartsearch.net
 clickserve.uk.dartsearch.net
 clickserve.us2.dartsearch.net
+www.youtube-nocookie.com
 doubleclick.shockwave.com
 n339.asp-cc.com
 www.destinationurl.com
@@ -2099,6 +2102,7 @@ ads.trafficjunky.net
 ads.yahoo.com
 ads.yieldmo.com
 ads.yimg.com
+ads.youtube.com
 ads1.msads.net
 ads1.msn.com
 ads2.contentabc.com
@@ -3694,6 +3698,7 @@ yllix.com
 ::1 ads.yahoo.com
 ::1 ads.yieldmo.com
 ::1 ads.yimg.com
+::1 ads.youtube.com
 ::1 ads1.msads.net
 ::1 ads1.msn.com
 ::1 ads2.contentabc.com
@@ -4939,5 +4944,11 @@ yllix.com
 ::1 yieldmanager.com
 ::1 yjaxc.yahoo.co.jp
 ::1 yllix.com
+graph.facebook.com
+::1 graph.facebook.com
+external.xx.fbcdn.net
+scontent.xx.fbcdn.net
+::1 external.xx.fbcdn.net
+::1 scontent.xx.fbcdn.net
 ocsp.apple.com
 5.2.76.189
