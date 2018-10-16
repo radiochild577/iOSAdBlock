@@ -1,48 +1,121 @@
-050003.voodoo.com
-050005.voodoo.com
-1049.b.akamai.net
-1197817332.peerclicktrk.com
-1681.engine.mobileapptracking.com
-22006.tlnk.io
-2517d.v.fwmrm.net
-2975c.v.fwmrm.net
-3ad.doubleclick.net
-4.afs.googleadservices.com
-4625910.fls.doubleclick.net
-5371908.fls.doubleclick.net
-a.admob.com
-a.applovin.com
-a.applovin.de
-a.applovin.net
-a.applovin.org
-a.applovin.uk
-a.applvn.com
-a.cheetahmobile.com
-a.cheetahmobile.de
-a.cheetahmobile.uk
-a.d.mojigaga.com
-a.medialytics.com
-a.unityads.com
-a.unityads.de
-a.vungle.com
-a.xanga.com
-a3.chartboost.com
-a32.g.a.yimg.com
-aarki.com
-aax-eu.amazon-adsystem.com
+ads.yahoo.com
+adserver.yahoo.com
+ymad.yql.yahoo.com
+ads.yap.yahoo.com
+beap.gemini.yahoo.com
+beap-bc.yahoo.com
+gemini.yahoo.com
+s.gycs.b.yahoodns.net
+m.yap.yahoo.com
+analytics.yahoo.com
+soundwave.mobile.yahoo.com
+marketingsolutions.yahoo.com
+:: admob.biz
+:: admob.co.kr
+:: admob.co.nz
+:: admob.co.uk
+:: admob.com
+:: admob.de
+:: admob.dk
+:: admob.es
+:: admob.fi
+:: admob.fr
+:: admob.gr
+:: admob.it
+:: admob.jp
+:: admob.kr
+:: admob.mobi
+:: admob.no
+:: admob.pt
+:: admob.sg
+:: admob.tw
+:: admob.vn
+:: ads.exoclick.com
+:: ads.heyzap.com
+:: ads.yimg.com
+:: ads.youtube.com
+:: adx.g.doubleclick.net
+:: affiliate.2mdn.net
+:: aka-cdn-ns.adtechus.com
+:: an.yandex.ru
+:: assets.applovin.com
+:: assets.kixer.com
+:: az708531.vo.msecnd.net
+:: cdn.adbrau.com
+:: cdn.adf.ly
+:: cdn.adshexa.com
+:: cdn.bidvertiser.com
+:: cdn.directtrk.com
+:: cdn.kixer.com
+:: cdn.pubexchange.com
+:: creatives.doubleclick.net
+:: dfp.doubleclick.net
+:: doubleclick.com
+:: doubleclick.de
+:: doubleclick.ne.jp
+:: doubleclick.net
+:: googleads.g.doubleclick.net
+:: ir.doubleclick.net
+:: m.2mdn.net
+:: m.admob.com
+:: m.doubleclick.net
+:: m1.2mdn.net
+:: mc.yandex.ru
+:: pagead2.googlesyndication.com
+:: q1mediahydraplatform.com
+:: s0.doubleclick.net
+:: s1.2mdn.net
+:: s2.video.doubleclick.net
+:: srv.bebi.com
+:: static.2mdn.net
+:: static.doubleclick.net
+:: static.exoclick.com
+:: static.getclicky.com
+:: stats.g.doubleclick.net
+:: tpc.googlesyndication.com
+:: traffic.trafficposse.com
+:: video-stats.video.google.com
+:: www.doubleclick.com
+:: www.doubleclick.net
+:: www2.doubleclick.com
+:: www3.doubleclick.com
+:: www3.doubleclick.net
+1app.blob.core.windows.net
+2912a.v.fwmrm.net
+29773.v.fwmrm.net
+5be16.v.fwmrm.net
+888casino.com
+888media.net
+9cf9.v.fwmrm.net
+a.ad-sys.com
+a.adnium.com
+a.adorika.net
+a.adroll.com
+a.adtech.de
+a.goember.com
+a.jumptap.com
+a.kat.cr
+a.ligatus.com
+a.scorecardresearch.com
+a.tribalfusion.com
+a.visualrevenue.com
+a02.korrelate.net
+aan.amazon.com
 aax-us-east.amazon-adsystem.com
-aax.amazon-adsystem.com
-abacho.net
-acdn.adnxs.com
-activeoffers.appromoters.com
+aax-us-west.amazon-adsystem.com
+ace.advertising.com
+activity.serving-sys.com
 ad-apac.doubleclick.net
-ad-creatives-public.commondatastorage.googleapis.com
+ad-ch.jp
 ad-emea.doubleclick.net
 ad-g.doubleclick.net
-ad-miner.com
-ad-yt-bfp.doubleclick.net
-ad.3au.doubleclick.net
+ad.360yield.com
+ad.a-ads.com
+ad.adtoma.com
+ad.adverticum.net
+ad.adxcore.com
 ad.ae.doubleclick.net
+ad.ams.mcdstorage.com
 ad.ar.doubleclick.net
 ad.at.doubleclick.net
 ad.au.doubleclick.net
@@ -53,17 +126,15 @@ ad.ca.doubleclick.net
 ad.ch.doubleclick.net
 ad.cl.doubleclick.net
 ad.cn.doubleclick.net
+ad.crwdcntrl.net
+ad.dc2.adtech.de
 ad.de.doubleclick.net
+ad.directrev.com
 ad.dk.doubleclick.net
-ad.domainfactory.de
 ad.doubleclick.net
 ad.es.doubleclick.net
-ad.eurosport.com
 ad.fi.doubleclick.net
-ad.flurry.com
-ad.foxnetworks.com
 ad.fr.doubleclick.net
-ad.gr.doubleclick.net
 ad.hk.doubleclick.net
 ad.hr.doubleclick.net
 ad.hu.doubleclick.net
@@ -71,26 +142,1778 @@ ad.ie.doubleclick.net
 ad.in.doubleclick.net
 ad.it.doubleclick.net
 ad.jp.doubleclick.net
+ad.kixer.com
+ad.kr.doubleclick.net
+ad.leadbolt.net
+ad.leadboltads.net
+ad.linkexchange.com
+ad.mo.doubleclick.net
+ad.n2434.doubleclick.net
+ad.nl.doubleclick.net
+ad.no.doubleclick.net
+ad.nz.doubleclick.net
+ad.omni.se
+ad.pl.doubleclick.net
+ad.pt.doubleclick.net
+ad.ro.doubleclick.net
+ad.rs.doubleclick.net
+ad.se.doubleclick.net
+ad.sg.doubleclick.net
+ad.si.doubleclick.net
+ad.taptica.com
+ad.terra.doubleclick.net
+ad.th.doubleclick.net
+ad.tw.doubleclick.net
+ad.uk.doubleclick.net
+ad.us.doubleclick.net
+ad.ve.doubleclick.net
+ad.yieldmanager.com
+ad.za.doubleclick.net
+ad1.emediate.dk
+ad1.netshelter.net
+ad2.doubleclick.net
+ad2.netshelter.net
+ad3.netshelter.net
+ad4.netshelter.net
+ad8.adfarm1.adition.com
+adb.nikkei.co.jp
+adcash.com
+adcel.vrvm.com
+adclick.g.doubleclick.net
+adcreative.naver.com
+addthis.com
+ade.clmbtech.com
+adf.send.microad.jp
+adition.com
+adkengage.com
+adledge.com
+adm.shinobi.jp
+admarvel.s3.amazonaws.com
+admaster.heyos.com
+admin.appnext.com
+admob.biz
+admob.co.kr
+admob.co.nz
+admob.co.uk
+admob.com
+admob.cz
+admob.de
+admob.dk
+admob.es
+admob.eu
+admob.fi
+admob.fr
+admob.gr
+admob.it
+admob.jp
+admob.kr
+admob.mobi
+admob.no
+admob.pt
+admob.sg
+admob.tk
+admob.tw
+admob.vn
+admomi.com
+adn.ebay.com
+adnxs.revsci.net
+adpriv.nikkei.com
+adrotator.se
+ads-by.madadsmedia.com
+ads-by.yieldselect.com
+ads.ad-center.com
+ads.addynamix.com
+ads.admarvel.com
+ads.aftonbladet.se
+ads.appia.com
+ads.bidvertiser.com
+ads.cb-cdn.com
+ads.celtra.com
+ads.cleveland.com
+ads.cricbuzz.com
+ads.exoclick.com
+ads.flurry.com
+ads.footballaddicts.com
+ads.heyzap.com
+ads.intergi.com
+ads.juicyads.com
+ads.lfstmedia.com
+ads.mocean.mobi
+ads.mopub.com
+ads.mp.mydas.mobi
+ads.nordichardware.se
+ads.pinger.com
+ads.pro-market.net
+ads.qadservice.com
+ads.reddit.com
+ads.rubiconproject.com
+ads.saymedia.com
+ads.servebom.com
+ads.traffichunt.com
+ads.trafficjunky.net
+ads.yieldmo.com
+ads.yimg.com
+ads.youtube.com
+ads2.contentabc.com
+adsafeprotected.com
+adserver.adreactor.com
+adserver.adtech.de
+adserver.adtechus.com
+adserver.exoticads.com
+adserver.juicyads.com
+adservices.picadmedia.com
+adshost2.com
+adspaces.ero-advertising.com
+adsx.greystripe.com
+adsyndication.msn.com
+adtgs.adk2x.com
+adtracker.inmobi.com
+adv.aftonbladet.se
+adv.svd.se
+advm.svd.se
+adx.g.doubleclick.net
+adzerk.net
+affiliate.2mdn.net
+agomwefq.com
+ah.yimg.jp
+aka-cdn-ns.adtechus.com
+amung.us
+an.yandex.ru
+ap.lijit.com
+api.adsnative.com
+api.content.ad
+api.gravity.com
+api.unthem.com
+api.viglink.com
+api9.net
+app.brightinfo.com
+appfly.mobi
+applab-sdk.amazon.com
+appnexus.com
+as.chango.com
+as.ebz.io
+assets.applovin.com
+assets.kixer.com
+at.atwola.com
+atdmt-a.akamaihd.net
+au-01.adtomafusion.com
+austria1.adverserve.net
+avnads.com
+az708531.vo.msecnd.net
+b.grvcdn.com
+ba2b687.se
+bannerfarm.ace.advertising.com
+banners.proboards.com
+banners.unibet.com
+bb.crwdcntrl.net
+bcp.crwdcntrl.net
+bdv.bidvertiser.com
+bea4.v.fwmrm.net
+beacon.scorecardresearch.com
+bidvertiser.com
+bluekai.com
+bn-01.adtomafusion.com
+bs.serving-sys.com
+build-cdn.liftoff.io
+bullseye.backbeatmedia.com
+buysellads.com
+buzzea.com
+c.admob.com
+c.amazon-adsystem.com
+c.betrad.com
+c.greystripe.com
+c.w.inmobi.com
+c1.nend.net
+c1.popads.net
+c2.popads.net
+cache.blogads.com
+cas.criteo.com
+cdn-01.yumenetworks.com
+cdn.adbrau.com
+cdn.adf.ly
+cdn.adk2.com
+cdn.adnotch.com
+cdn.adnxs.com
+cdn.adshexa.com
+cdn.adsrvmedia.net
+cdn.applift.com
+cdn.at.atwola.com
+cdn.bidvertiser.com
+cdn.bttrack.com
+cdn.castplatform.com
+cdn.cpmstar.com
+cdn.cpsoft86.com
+cdn.directrev.com
+cdn.directtrk.com
+cdn.elasticad.net
+cdn.engine.phn.doublepimp.com
+cdn.fastclick.net
+cdn.flashtalking.com
+cdn.hgdat.com
+cdn.kixer.com
+cdn.krxd.net
+cdn.mdotm.com
+cdn.media.innity.net
+cdn.mediative.ca
+cdn.merchenta.com
+cdn.millennialmedia.com
+cdn.mobicow.com
+cdn.mxpnl.com
+cdn.popcash.net
+cdn.pubexchange.com
+cdn.pubnative.net
+cdn.static.zdtag.com
+cdn.viglink.com
+cdn1.inner-active.mobi
+cdn1.media.trafficjunky.net
+cdn1.reporo.net
+cdn1.rhtag.com
+cdn1.smartadserver.com
+cdn2.cpmstar.com
+cdn2.inner-active.mobi
+cdn2.reporo.net
+cdn3.doubleverify.com
+ced.sascdn.com
+cf.cdn.inmobi.com
+china.inmobi.com
+choices.truste.com
+clickadu.com
+clkmon.com
+clkrev.com
+clktag.com
+cm.g.doubleclick.net
+coinurl.com
+connect.decknetwork.net
+content.yieldmanager.edgesuite.net
+contextual.media.net
+cre.adjust-net.jp
+creative.cc-dt.com
+creative.wwwpromoter.com
+creative1cdn.mobfox.com
+creatives.doubleclick.net
+crp-concursos.com
+crwdcntrl.net
+ctl1.buyt.in
+ctxt.tribalfusion.com
+cv.apprupt.com
+d-cache.microad.jp
+d.adroll.com
+d.plugrush.com
+dart-apac.l.doubleclick.net
+de.cisive.net
+deliver.ads2.iid.jp
+delivery.switchadhub.com
+delivery.trafficjunky.net
+delivery.us.myswitchads.com
+dev.visualwebsiteoptimizer.com
+dfp.doubleclick.net
+directrev.blob.core.windows.net
+disqusads.com
+doubleclick.com
+doubleclick.de
+doubleclick.ne.jp
+doubleclick.net
+dp.g.doubleclick.net
+dra.amazon-adsystem.com
+ds.serving-sys.com
+dsp.adledge.com
+dtm.advertising.com
+dynaserv.ads360.com
+e.admob.com
+e2.emediate.se
+ebdr3.com
+eclkmpbn.com
+eclkmpsa.com
+ecpmrocks.com
+edge.quantserve.com
+embed.insticator.com
+engine.4chan-ads.org
+engine.adzerk.net
+engine.rbc.medialand.ru
+engine.widespace.com
+engine2.adzerk.net
+et.w.inmobi.com
+etarg.ru
+eu2.madsone.com
+exchange.nativeads.com
+expo9.exponential.com
+exponential.com
+extra.thebigboss.org
+feedads.g.doubleclick.net
+fls-na.amazon.com
+fls.doubleclick.net
+fls.uk.doubleclick.net
+fresh8.co
+fusion.di.se
+fusion.dn.se
+fusion.expressen.se
+fusion.va.se
+g1.v.fwmrm.net
+g2.gumgum.com
+gam.adnxs.com
+gan.doubleclick.net
+go.goroost.com
+go.lfstmedia.com
+go.mobisla.com
+go.padsdel.com
+go.padstm.com
+gomotrak.com
+googleads.g.doubleclick.net
+googleads2.g.doubleclick.net
+herezera.com
+html5adkit.plusmo.s3.amazonaws.com
+i.ad-v.jp
+i.po.st
+i.t.webtracker.jp
+i.tapit.com
+i.w.inmobi.com
+i.w.sandbox.inmobi.com
+ib.adnxs.com
+igpiphone.gameloft.com
+imads.integral-marketing.com
+images.intellitxt.com
+images.outbrain.com
+images.revmob.com
+img-cdn.mediaplex.com
+img.adinte.jp
+img.ak.impact-ad.jp
+img1.nend.net
+impact.applifier.com
+ingameads.gameloft.com
+inmobisdk-a.akamaihd.net
+inneractive-assets.s3.amazonaws.com
+integral-marketing.com
+invitemedia.com
+ios.bcfads.com
+ir-na.amazon-adsystem.com
+ir.doubleclick.net
+iv.doubleclick.net
+j.adlooxtracking.com
+jadserve.postrelease.com
+japan.inmobi.com
+js.adsonar.com
+js.grt02.com
+js.moatads.com
+js.revsci.net
+jsc.adskeeper.co.uk
+jsc.dt07.net
+jsc.marketgid.com
+jsc.mgid.com
+jsn.dt07.net
+ko.snstatic.fi
+kona.kontera.com
+ktu.sv2.biz
+lax1.ib.adnxs.com
+leadback.advertising.com
+log.outbrain.com
+m.2mdn.net
+m.admob.com
+m.doubleclick.net
+m.servebom.com
+m1.2mdn.net
+m2m1.inner-active.mobi
+ma.inmobi.com
+mads.advertising.com
+mads.at.atwola.com
+marketing.888.com
+max.crwd.io
+mc.yandex.ru
+media.888.com
+media.admob.com
+media.fastclick.net
+media.trafficfactory.biz
+media.trafficjunky.net
+mediaplex.fr
+mm.chitika.net
+mobile.adnxs.com
+mobile.juicyads.com
+mobile.smartadserver.com
+modmyi.us.intellitxt.com
+motifcdn.doubleclick.net
+motifcdn2.doubleclick.net
+mresell.macworld.co.uk
+mv.ad.naver.com
+mxpopad.com
+my.hellobar.com
+my.mobfox.com
+mydas.mobi
+n4052ad.doubleclick.net
+n4061ad.hk.doubleclick.net
+n4403ad.doubleclick.net
+native.sharethrough.com
+novadune.com
+ns1.backbeatmedia.com
+ns2.backbeatmedia.com
+nym1.ib.adnxs.com
+nyyed.com
+odb.outbrain.com
+onceux.unicornmedia.com
+onclickads.net
+openad.tf1.fr
+origin.collective-media.net
+out.popads.net
+outbrain.com
+overture.com
+ox-d.wuv.servedbyopenx.com
+p22.atemda.com
+pagead.l.google.com
+pagead2.googleadservices.com
+pagead2.googlesyndication.com
+partner.googleadservices.com
+partnerad.l.doubleclick.net
+partners.swoop.com
+paypalssl.doubleclick.net
+pds.directrev.com
+pixel.adsafeprotected.com
+pixel.mathtag.com
+pixel.quantserve.com
+pixel.redditmedia.com
+pixel.rubiconproject.com
+pq-direct.revsci.net
+prm.europacash.com
+projectwonderful.com
+pt.trafficjunky.net
+pub.clicksor.net
+pub.mobiright.com
+pubads.g.doubleclick.net
+q1mediahydraplatform.com
+quantserve.com
+r.edge.inmobicdn.net
+r.w.inmobi.com
+rad.live.com
+rcm-images.amazon.com
+rcm-it.amazon.it
+rcm-na.amazon-adsystem.com
+req.startappservice.com
+resources.infolinks.com
+revmob-creatives.s3.amazonaws.com
+richmedia.yimg.com
+rma-api.gravity.com
+rmbn.net
+router.infolinks.com
+royale-ssl.spongecell.com
+rss.buysellads.com
+rtb.adgrx.com
+s-static.innovid.com
+s.ad131m.com
+s.amazon-adsystem.com
+s.moatads.com
+s.send.microad.jp
+s.skimresources.com
+s.zkcdn.net
+s0.doubleclick.net
+s1.2mdn.net
+s2.adform.net
+s2.video.doubleclick.net
+s3.buysellads.com
+scorecardresearch.com
+script.tailsweep.com
+sdt1.corp.inmobi.com
+secserv.adtech.de
+secure.adnxs.com
+secure.leadback.advertising.com
+securepubads.g.doubleclick.net
+serve.adplxmd.com
+serve.popads.net
+serve.vdopia.com
+servedby.hrnorth.se
+servedby2.advertising.com
+server.cpmstar.com
+sin1.g.adnxs.com
+smartadserver.com
+smartadserver.fr
+snap.snapmobile.asia
+softonicads.com
+spcdnsp.i-mobile.co.jp
+spdeliver.i-mobile.co.jp
+spnet5.i-mobile.co.jp
+spsvc3.i-mobile.co.jp
+srv.bebi.com
+srv.buysellads.com
+srv.clickfuse.com
+srv.juiceadv.com
+srvpub.com
+static.2mdn.net
+static.adzerk.net
+static.doubleclick.net
+static.emsservice.de
+static.exoclick.com
+static.fmpub.net
+static.getclicky.com
+static.trafficjunky.net
+static.yieldmo.com
+static.zucks.net.zimg.jp
+staticd.cdn.adblade.com
+stats.g.doubleclick.net
+strikeadcdn.s3.amazonaws.com
+syndication.exoclick.com
+t.neodatagroup.com
+tag.contextweb.com
+tags.bkrtx.com
+tap-cdn.rubiconproject.com
+tap.rubiconproject.com
+tcr.tynt.com
+tempest.services.disqus.com
+test.adpooh.com
+tpc.googlesyndication.com
+track.adform.net
+track.lfstmedia.com
+track.netshelter.net
+tracking.trafficjunky.net
+traffic.outbrain.com
+traffic.trafficposse.com
+trc.taboola.com
+trends.revcontent.com
+uac.advertising.com
+uedata.amazon.com
+veoxa.com
+video-stats.video.google.com
+videoslots.888.com
+w.inmobi.com
+w.sharethis.com
+wd.sharethis.com
+web-jp.ad-v.jp
+web.adblade.com
+widgets.outbrain.com
+widgets.progrids.com
+ws-na.amazon-adsystem.com
+ws.tapjoyads.com
+wv.inner-active.mobi
+ww251.smartadserver.com
+ww400.smartadserver.fr
+ww84.smartadserver.com
+www-lvs.veoxa.com
+www.888poker.com
+www.adcash.com
+www.adnxs.com
+www.adshost2.com
+www.appnexus.com
+www.awltovhc.com
+www.bidvertiser.com
+www.burstnet.com
+www.buysellads.com
+www.clickterra.net
+www.da-ads.com
+www.doubleclick.com
+www.doubleclick.net
+www.dpbolvw.net
+www.inmobi.com
+www.lduhtrp.net
+www.outbrain.com
+www.projectwonderful.com
+www.quantserve.com
+www.smartadserver.com
+www.terraclicks.com
+www.terrapops.com
+www.tqlkg.com
+www.yllix.com
+www.zergnet.com
+www2.doubleclick.com
+www3.doubleclick.com
+www3.doubleclick.net
+www4.smartadserver.com
+x.castanet.net
+x888x.myserver.org
+xads.zedo.com
+xp2.zedo.com
+yieldmanager.com
+yllix.com
+1phads.com
+201205igp.gameloft.com
+207.net
+24s.ru
+2o7.net
+360yield.com
+4chan-ads.org
+4dsply.com
+578756.gameloft.com
+a.huluad.com
+a8.com
+a8.net
+aag.yahooapis.jp
+acesstrade.net
+ackak.com
+actionads.ru
+actionpay.ru
+actionteaser.ru
+ad.about.co.kr
+ad.adworx.at
+ad.ettoday.net
+ad.flipboard.com
+ad.goo.ne.jp
+ad.gunosy.com
+ad.mail.ru
+ad.mist.jp
+ad.pr.ameba.jp
+ad.prismamediadigital.com
+ad1.on.cc
+ad1.ru
+ad120m.com
+ad127m.com
+ad131m.com
+ad132m.com
+ad2.on.cc
+ad2play.ftv-publicite.fr
+ad3.on.cc
+ad360.vn
+ad4.on.cc
+ad4989.co.kr
+ad4game.com
+ad5.on.cc
+ad6.on.cc
+ad7.on.cc
+adadvisor.net
+adap.tv
+adapi.about.co.kr
+adapi.addealsnetwork.com
+adapi.gunosy.com
+adblade.com
+adbn.ru
+adbomb.ru
+adbooth.com
+adbooth.net
+adbouc.com
+adbuddiz.com
+adcast.ru
+adcdn.goo.ne.jp
+ad-center.com
+adcloud.jp
+ad-cloud.jp
+adcolony.com
+adcomplete.ru
+adcv.jp
+addflow.ru
+addisp.com
+addnow.ru
+addweb.ru
+adelva.com
+adex.bmediaasia.com
+adex2.bmediaasia.com
+adexpert.com
+adfalcon.com
+adflow.ru
+adfog.ru
+adfonic.net
+adform.com
+adform.net
+adformdsp.net
+adfox.ru
+adgear.com
+adglare.net
+adhands.ru
+adhese.com
+adhub.ru
+adimg.net
+adinch.com
+adingo.jp
+adinte.jp
+adizer.ru
+adjuggler.net
+adjust-net.jp
+adjust-sp.jp
+adk2.co
+adk2x.com
+adkeeper.com
+adkontekst.pl
+adland.ru
+adlantis.jp
+adman.gr
+admarvel.com
+admaster.com.cn
+admaster.net
+admeasures.com
+admeta.com
+admicro.vn
+admitad.com
+admixer.net
+admngronline.com
+admobi.ru
+admost.com
+ad-move.jp
+admtpmp123.com
+admtpmp124.com
+admtpmp127.com
+admulti.ru
+adname.ru
+adnetworkpeformance.com
+adnium.com
+adnotch.com
+adntokyo.gunosy.com
+adnxs.com
+adocean.pl
+adorika.net
+adotube.com
+adpdx.com
+adpix.ru
+adpremium.ru
+adpro.com.ua
+adresult.jp
+adresult-sp.jp
+adriver.ru
+adrock.com.ua
+adrock.ru
+adrock.ua
+adroll.com
+adru.net
+ads.bhol.co.il
+ads.hulu.com
+ads.nicovideo.jp
+ads.ontarget.mobi
+ads1.jp.msn.com
+ads1-adnow.com
+ads2-adnow.com
+ads3-adnow.com
+ads4-adnow.com
+ads5-adnow.com
+ads6-adnow.com
+ads7-adnow.com
+ads8-adnow.com
+ads9-adnow.com
+ads-a-darwin.hulu.com
+adsclick.ru
+adselector.ru
+adsellers.net
+adserve.gzero.com
+adserver.mgsex.com
+adservone.com
+adsfactor.net
+adsinstant.com
+adsmarket.com
+adsmogo.mobi
+adsmogo.net
+adsnative.com
+adsniper.ru
+adspeed.com
+adspending01.bwnet.com.tw
+adspirit.de
+adsrocket.net
+adsrvr.org
+adstark.ru
+ad-stir.com
+adsupply.com
+ads-v-darwin.hulu.com
+adsymptotic.com
+ad-sys.com
+adtailor.com
+adtaily.com
+adtaily.pl
+adtaxinetworks.com
+adteaser.ru
+adtech.de
+adtechus.com
+adtilt.com
+adtime.ru
+adtoma.com
+adtop.com
+adtotal.pl
+adtrace.org
+adtraff.ru
+ad-v.jp
+adv.wp.pl
+advaction.ru
+advancets.org
+adver.mobi
+adversal.com
+adverserve.net
+advertbox.ru
+adverticum.net
+advertising.com
+advertising.jp.msn.com
+advertpay.ru
+advertserve.com
+advertstar.net
+advg.jp
+adview.pl
+advolution.de
+adwad.ru
+adzerk.com
+adztec.com
+affiliate.fc2.com
+aid-ad.jp
+aimatch.com
+aimg.fc2.com
+airpush.com
+akncdn.com
+alea.adam.daum.net
+alnet.jp
+altrooz.com
+am15.net
+amazemobilemedia.com
+amazon-adsystem.com
+amoad.com
+amobee.com
+andomedia.com
+app-adforce.jp
+appads.com
+app-c.net
+appclick.co
+appfilter.com
+appflood.com
+appnext.com
+appodeal.com
+apprupt.com
+appsdt.com
+appserver-ap.com
+appshelf.ttpsdk.info
+ard.yahoo.co.jp
+asp.animelab.com
+astrsk.net
+atdmt.com
+atech.ne.jp
+atedra.com
+atemda.com
+atlassbx.com
+atwola.com
+avocarrot.com
+awaps.yandex.ru
+awempire.com
+b92.yahoo.co.jp
+b97.yahoo.co.jp
+bannerbank.ru
+bannerflow.com
+bbelements.com
+bc.geocities.yahoo.co.ip
+bcfads.com
+bdzhhjnml.pw
+bead-ad.com
+bebi.com
+begun.ru
+behaviad.net
+billytesting.com
+bitcoin-kopen.com
+block.s5block.com
+bms.zeptolab.com
+bnmla.com
+bnr.rssad.jp
+bnserving.com
+bodyclick.net
+bounceexchange.com
+brightroll.com
+brightroll.de
+brucelead.com
+btrll.com
+bubblesmedia.ru
+buzzcity.net
+buzzurl.jp
+bypass.jp
+byzgoso.ru
+c.jp.msn.com
+c.jsrdn.com
+c.yjvfuzdr.pw
+carbonads.com
+carbonads.net
+castplatform.com
+cauly.co.kr
+cb.baidu.com
+cb-cdn.com
+cbjs.baidu.com
+cdn.caprofitx.com
+cdn.media.amp.avai.com
+chango.com
+chartboost.com
+chitika.net
+cityads.ru
+cj.com
+clickfuse.com
+clickmngr.com
+clickonometrics.pl
+clickterra.net
+clk1004.com
+clkdeals.com
+clmbtech.com
+cloudads-a.akamaihd.net
+cold-cold-freezing.com
+consearch.jp
+content.ad
+contentabc.com
+content-ad.net
+contentstream.pl
+conversantmedia.com
+cpmstar.com
+cpro.baidu.com
+criteo.com
+criteo.net
+crosspromo.zeptolab.com
+csr.onet.pl
+cszz.ru
+cyberwing.co.jp
+d2c.ne.jp
+damoh.spiegel.de
+de17a.com
+delivery.brokerbabe.com
+delivery.trafficforce.com
+directadvert.net
+directadvert.ru
+directrev.com
+dlski.space
+dlv.itmedia.co.jp
+domob.cn
+domobcdn.com
+doprads.jp
+dotandad.com
+dotomi.com
+doubleciick.net
+doubleverify.com
+drmcmm.baidu.com
+drnxs.com
+duiwai.baidu.com
+dynalyst.jp
+eacdn.com
+easyads.bg
+eclick.vn
+eiv.baidu.com
+emediate.dk
+emediate.eu
+emediate.se
+engine.a.redditmedia.com
+e-planning.net
+epom.com
+et-code.ru
+europacash.com
+everestads.net
+exelator.com
+exit-ad.com
+exoclick.com
+exoticads.com
+eyewonder.com
+fam-ad.com
+fancrew.jp
+fastclick.net
+fc.itmedia.co.jp
+feedback.promotionads.yahoo.co.jp
+firstimpression.io
+flashtalking.com
+fluct.jp
+fm-p.jp
+fout.jp
+fus.walla.co.il
+fus.yad2.co.il
+fwmrm.net
+fyber.com
+gdeslon.ru
+genieesspv.jp
+gigazine.asia
+globaltraffico.com
+glossom.co.jp
+gmossp-sp.jp
+goodadvert.com.ua
+googleadservices.com
+googletagservices.com
+gredinatib.info
+greystripe.com
+gsspat.jp
+gssprt.jp
+guile.jp
+gumgum.com
+h2.msn.com
+hao123union.baidu.com
+heyzap.com
+hghit.com
+hkg1.aastocks.com
+holder.com.ua
+hot-mob.com
+hotwords.com
+houseads.ttpsdk.info
+i.I.networld.hk
+i2i.jp
+ichi-ni-san.net
+iconpeek.com
+igp06.gameloft.com
+im.c.yimg.jp
+imadrep.co.kr
+image.click.livedoor.com
+imedia.cz
+i-mobile.co.jp
+imobile.jp
+impact-ad.jp
+info.a7.org
+infolinks.com
+inmobi.com
+inmobicdn.com
+inmobicdn.net
+inmobi-jp.com
+inner-active.mobi
+innity.net
+innovid.com
+insightexpressai.com
+intellitxt.com
+intermarkets.net
+interseek.si
+intowow.applefeed.com.tw
+ipla.hit.stat24.com
+i-stream.pl
+iwanad.baidu.com
+jlisting.jp
+jsmbaidu.com
+juicyads.com
+kadam.net
+kau.li
+ketads.com
+ketchapp.org
+keywordblocks.com
+kibirata.ru
+kiip.me
+kimia.es
+kixer.com
+kma.biz
+kochava.com
+ladycash.ru
+layalina.com
+lcads.ru
+lduhtrp.net
+leadbolt.com
+leadbolt.net
+leadboltapps.net
+leadgid.ru
+leads.su
+leadtrade.su
+leadzu.com
+lentionform.com
+lfstmedia.com
+liftoff.io
+ligatus.com
+lijit.com
+listing.yahoo.co.jp
+livead.jp
+liveadexchanger.com
+liveintent.com
+liverail.com
+livesmi.com
+lockerdome.com
+logly.co.jp
+luxup.ru
+m1-shop.ru
+m2pub.com
+mads.com
+madsone.com
+madvertise.de
+maist.jp
+manage.com
+marketgid.com
+marsads.com
+ma-static.ru
+mb-click.jp
+mbn.su
+mdotm.com
+media.net
+media-b.jp
+medialand.ru
+medialets.com
+medialytics.com
+mediamixad.com
+medianetworks.ru
+mediaplex.com
+media-rep.com
+mediba.jp
+medibaad.com
+medyanetads.com
+mellowads.com
+mg.dt00.net
+mgid.com
+microad.jp
+microad.net
+misterbell.com
+mixi.co.jp
+mng-ads.com
+moatads.com
+mobads.baidu.com
+mobclix.com
+mobfox.com
+mobi.yanosik.pl
+mobiads.ru
+mobile.yandexadexchange.net
+mobileader.ru
+mobilefuse.com
+mobilefuse.net
+mobiletheory.com
+mobioffers.ru
+mobiright.com
+mob-server.com
+mobtrks.com
+mobusi.com
+mobytrks.com
+mocean.mobi
+mojiva.com
+mopub.com
+movad.de
+movi11.com
+mpnrs.com
+mreco0.jp
+msads.net
+mtburn.com
+mucu.jp
+myragon.ru
+n208adserv.com
+nativex-sdk.appspot.com
+nclick.org
+nclick.ru
+nend.net
+neoban.su
+newzia.jp
+nex8.net
+nexage.com
+nextclick.pl
+novostimira.biz
+nspmotion.com
+nuggad.net
+omniture.com
+onclasrv.com
+onclkds.com
+onedmp.com
+online-dn.com
+openclick.com
+openvideoads.com
+openvideoads.org
+openx.com
+openx.jp
+openx.net
+openx.org
+openxenterprise.com
+openxmarket.jp
+opt.ximad.com
+otherlevels.com
+ov.yahoo.co.jp
+owb101.goo.ne.jp
+ox-d.advanceweb.com
+ox-d.majorgeeks.com
+padsdel.com
+pagead.googlesyndication.com
+pagead1.googlesyndication.com
+pagead3.googlesyndication.com
+partnerads.ysm.yahoo.com
+pay-click.ru
+pc2ads.ru
+performancehorizon.com
+pflexads.com
+pingmedia.ru
+pixels.asia
+playhaven.com
+playnomics.net
+plista.com
+popads.net
+popadscdn.net
+premium.2ch.net
+print.theyeshivaworld.info
+profitwizard.ru
+promotion.aliyun,com
+propellerads.com
+propellerpops.com
+psma01.com
+psma02.com
+psma03.com
+pubmatic.com
+pubnative.net
+pushnative.com
+quantcount.com
+questionmarket.com
+r0.mail.ru
+r0.mradx.net
+rad.msn.com
+rarenok.biz
+rd.ane.yahoo.co.jp
+readserver.net
+realssp.co.kr
+recreativ.ru
+redclick.ru
+redintelligence.net
+re-directme.com
+redirectnative.com
+redtram.com
+rek.www.wp.pl
+reklamport.com
+reporo.net
+revcontent.com
+revenue.com
+revmob.com
+revsci.net
+rnmd.net
+rotaban.ru
+rtbpop.com
+rubiconproject.com
+sa.entireweb.com
+sa2eh.com
+salesdoubler.com.ua
+san-ni-ichi.com
+sbs-ad.com
+scanscout.com
+seed.by
+sekindo.com
+seopult.ru
+servedbyopenx.com
+serving-sys.com
+sharethrough.com
+smaad.jp
+smaato.com
+smaato.net
+smartads.mobile.yahoo.co.jp
+smartadserver.ru
+smart-c.jp
+smartclip.net
+snapmobile.asia
+socdm.com
+soraad.jp
+spcode.baidu.com
+sponsorplay.com
+spotad.cn
+spotscenered.info
+sprout-ad.com
+spstaticimg.ameba.jp
+startapp.com
+startappexchange.com
+startappservice.com
+stjjp.msn.com
+supersonicads.com
+swrve.com
+taboola.com
+taboolasyndication.com
+tanx.com
+tapjoy.com
+tb.itmedia.co.jp
+teads.tv
+teasernet.com
+terraclicks.com
+theprimead.co.kr
+tokenads.com
+tpmn.co.kr
+tradeadexchange.com
+tradedoubler.com
+trafficfactory.biz
+trafficgate.net
+traffichaus.com
+trafficjunky.com
+trafficjunky.net
+trafficposse.com
+traffpartners.com
+trafmag.com
+transpera.com
+trax-ad.jp
+tremorhub.com
+tremormedia.com
+tribalfusion.com
+ttarget.ru
+turn.com
+uauniverse.com
+ubmcmm.baidustatic.com
+ucweb.com
+udc.msn.com
+uimserv.net
+ultraadserver.com
+unitedblades.co.jp
+unityads.unity3d.com
+untd.com
+unthem.com
+upsight-api.com
+user-agent-tracker.herokuapp.com
+userator.ru
+utm.sankei.jp.msn.com
+v.vsimasd.pw
+valuecommerce.com
+vcmedia.vn
+vdopia.com
+veeseo.com
+vendimob.pl
+videoplaza.com
+videoplaza.tv
+visitweb.com
+visualrevenue.com
+vkmonster.com
+vpon.com
+vserv.mobi
+vungle.com
+wafmedia3.com
+wafmedia5.com
+wbdds.jeuxvideo.com
+webtracker.jp
+widespace.com
+wigetmedia.com
+wmip.ru
+woobi.com
+wwwpromoter.com
+xtendmedia.com
+yad.yahoo.co.jp
+yadro.ru
+yads.c.yimg.jp
+yads.yahoo.co.jp
+yads.yjtag.yahoo.co.jp
+yeas.yahoo.co.jp
+yen.appsfire.net
+yicha.jp
+yieldlab.net
+yieldmo.com
+yluvo.com
+yoc.mobi
+yumenetworks.com
+zedo.com
+ziiporn.com
+zimg.jp
+zucks.co.jp
+zucks.net 
+zumobi.com
+zwaar.org
+tapjoyads.com
+www.google-analytics.com
+metrics.apple.com
+app.plusplus.com
+ads.mobclix.com
+a.mobclix.com
+s.mobclix.com
+data.mobclix.com
+www.adwhirl.com
+met.adwhirl.com
+mob.adwhirl.com
+ads2.greystripe.com
+d7.zedo.com
+d13.zedo.com
+fg.zedo.com
+tags.expo9.exponential.com
+simg.zedo.com
+cdn5.tribalfusion.com
+wobble.s3.amazonaws.com
+beacon.pinchmedia.com
+data.flurry.com
+confirmation.gameloft.com
+apps.ngmoco.com
+config.ngmoco.com
+assets.ngmoco.com
+storm8.com
+vl.storm8.com
+wwar.storm8.com
+rl.storm8.com
+kl.storm8.com
+zl.storm8.com
+rol.storm8.com
+static.storm8.com
+www.kenditech.com
+www.juxtaposer.info
+smasher.com
+www.icarusstudios.com
+services.resolution.se
+videoegg-images.adbureau.net
+connect.purpletalk.com
+www.limasky.com
+m.pinger.com
+www.karpediem.com
+touchrally.appspot.com
+i-connector.ebuddy.com
+ijet.iphone.sgn.com
+freetheapps.com
+budurl.com
+www.freeverse.com
+criticalthoughtgames.com
+www.bulkypix.com
+tpain.smule.com
+www.hottrixdownload.com
+widgets.amung.us
+whos.amung.us
+wau.tynt.com
+www.jugaari.com
+www.statcounter.com
+c.statcounter.com
+www.mobilityware.com
+mxtube.iphone.mxweas.com
+img1.iphone.mxweas.com
+web.me.com
+api.openfeint.com
+www.quickoffice.com
+kronosgo.com
+www.kronosgo.com
+www.tigerstylegames.com
+adtgr1.ilabs.nu
+blurst.com
+www.digitalchocolate.com
+tracker.fishlabs.net
+www.clickspan.com
+www.trippertlabs.com
+www.bitrino.com
+a.vserv.mobi
+admin.vserv.mobi
+c.vserv.mobi
+ads.vserv.mobi
+sf.vserv.mobi
+web64.jumptap.com
+web63.jumptap.com
+web65.jumptap.com
+bo.jumptap.com
+i.jumptap.com
+games.mobpartner.mobi
+vigloo.mobpartner.mobi
+mobpartner.mobi
+go.mobpartner.mobi
+r.mobpartner.mobi
+uk-ad2.adinfuse.com
+adinfuse.com
+go.adinfuse.com
+ad1.adinfuse.com
+ad2.adinfuse.com
+sky.adinfuse.com
+orange-fr.adinfuse.com
+sky-connect.adinfuse.com
+uk-go.adinfuse.com
+orangeuk-mc.adinfuse.com
+intouch.adinfuse.com
+funnel0.adinfuse.com
+cvt.mydas.mobi
+lp.mydas.mobi
+golds.lp.mydas.mobi
+suo.lp.mydas.mobi
+aio.lp.mydas.mobi
+lp.mp.mydas.mobi
+media.mydas.mobi
+neptune.appads.com
+saturn.appads.com
+jupiter.appads.com
+swappit.tapad.com
+campaign-tapad.s3.amazonaws.com
+adsrv1.tapad.com
+akamai.smartadserver.com
+diff.smartadserver.com
+eqx.smartadserver.com
+im2.smartadserver.com
+itx5-publicidad.smartadserver.com
+itx5.smartadserver.com
+ad.flurry.com
+adlog.flurry.com
+flurry.cachefly.net
+flurry.com
+www.flurry.com
+adwords.google.sk
+pagead-tpc.l.google.com
+partnerad.l.google.com
+toolbar.google.com
+rmcdn.2mdn.net
+rmcdn.f.2mdn.net
+ads.cc-dt.com
+clickserve.cc-dt.com
+clickserve.dartsearch.net
+clickserve.eu.dartsearch.net
+clickserve.uk.dartsearch.net
+clickserve.us2.dartsearch.net
+www.youtube-nocookie.com
+doubleclick.shockwave.com
+n339.asp-cc.com
+www.destinationurl.com
+www3.webhostingtalk.com
+apps5.oingo.com
+service.urchin.com
+www.appliedsemantics.com
+admob.me
+admob.net
+admob.ru
+ad.gr.doubleclick.net
+ad.ru.doubleclick.net
+p4-fgz4grek4mwv6-bbntrmhnnmf3q4vm-if-v6exp3-v4.metric.gstatic.com
+www.guohead.com
+c.appsdt.com
+d.appsdt.com
+hosting.sproutbuilder.com
+cast.ra.imocha.com
+analytics.tapad.com
+ad.gametower.com.tw
+yllier.comlu.com
+247realmedia.com
+a2dfp.net
+adnext.fr
+adulthosting.com
+adwhirl.com
+affilipub.com
+allosponsor.com
+assoc-amazon.com
+autoreflex.com
+avenir-affiliation.fr
+blogbang.com
+cashtrafic.com
+connect.cloudcell.com
+limasky.com
+nextstat.com
+outils.yesmessenger.com
+promobenef.com
+pubdirecte.com
+reactivpub.fr
+remotejr.com
+reussissonsensemble.fr
+ringtoneexpressions.com
+sbx.pagesjaunes.fr
+script.banstex.com
+smart.allocine.fr
+sochr.com
+softonic.fr
+static.p-comme-performance.com
+tag.regieci.com
+tootrash.com
+track.effiliation.com
+video.unrulymedia.com
+weborama.fr
+wedoo.com
+wipub.com
+adxpose.com
+adbrite.com
+entrecard.s3.amazonaws.com
+casino.com
+banner.com
+focalink.com
+adserver.com
+sofialys.com
+adverline.com
+proxy.novafusion.ea.com
+obdev.at
+www.obdev.at
+par.sgmobile.fr
+www.ptp22.com
+extmap.an.ace.advertising.com
+d.p-td.com
+cmap.ace.advertising.com
+user.lucidmedia.com
+apnx-match.dotomi.com
+dtm.venus.com
+ams1.ib.adnxs.com
+track.cliqrr.com
+web.fun-prize.com
+videosense.msaex.com
+www.888media.net
+bank-01.ads.mp.mydas.mobi
+ad.adorika.com
+ww1.collserve.com
+android.bonzai.mobi
+applovin.com
+netspiderads.indiatimes.com
+netspiderads2.indiatimes.com
+netspiderads3.indiatimes.com
+ad-x.co.uk
+iadc.qwapi.com
+iadfeed.qwapi.com
+iadfeedtest.qwapi.com
+analytics.fusepowered.com
+ads.fusepowered.com
+adtrack.king.com
+trk.a4.tl
+wsnotif.a4.tl
+t.appff.com
+ad6media.fr
+lmlicenses.wip4.adobe.com
+pagead46.l.doubleclick.net
+m.addthis.com
+e.crashlytics.com
+iosads24.adcolony.com
+be.sponsorpay.com
+engine.sponsorpay.com
+lbservices2.sponsorpay.com
+tracking.sponsorpay.com
+ticks2.bugsense.com
+usage.readdle.com
+pool.plymedia.iponweb.net
+ads.adsrvmedia.net
+adk2ads.tictacti.com
+mob.tictacti.com
+iphone-services.apple.com
+network.adsmarket.com
+c.mobpartner.mobi
+m.bestplay.mobi
+tictacti.adk2.co
+yxnet.co.uk
+# Requested by users
+www.addynamo.com
+apiweb.revmob.com
+ads.peasy.co
+s.ad132m.com
+rtbpopd.com
+aax-fe-sin.amazon-adsystem.com
+dispatcher.mng-ads.com
+ec2-204-236-234-229.compute-1.amazonaws.com
+ec2-23-21-109-149.compute-1.amazonaws.com
+ec2-23-21-214-70.compute-1.amazonaws.com
+ec2-23-21-49-197.compute-1.amazonaws.com
+ec2-23-21-60-163.compute-1.amazonaws.com
+ec2-23-21-62-138.compute-1.amazonaws.com
+ec2-23-21-64-85.compute-1.amazonaws.com
+ec2-54-225-149-60.compute-1.amazonaws.com
+ec2-54-225-156-155.compute-1.amazonaws.com
+ec2-54-243-125-251.compute-1.amazonaws.com
+ec2-54-243-164-70.compute-1.amazonaws.com
+external.xx.fbcdn.net
+mads.amazon-adsystem.com
+mmg-adsdis-02.ig-1.net
+mng-adsmob-02.ig-1.net
+mobile.mng-ads.com
+scontent.xx.fbcdn.net
+::1 aax-fe-sin.amazon-adsystem.com
+::1 dispatcher.mng-ads.com
+::1 ec2-204-236-234-229.compute-1.amazonaws.com
+::1 ec2-23-21-109-149.compute-1.amazonaws.com
+::1 ec2-23-21-214-70.compute-1.amazonaws.com
+::1 ec2-23-21-49-197.compute-1.amazonaws.com
+::1 ec2-23-21-60-163.compute-1.amazonaws.com
+::1 ec2-23-21-62-138.compute-1.amazonaws.com
+::1 ec2-23-21-64-85.compute-1.amazonaws.com
+::1 ec2-54-225-149-60.compute-1.amazonaws.com
+::1 ec2-54-225-156-155.compute-1.amazonaws.com
+::1 ec2-54-243-125-251.compute-1.amazonaws.com
+::1 ec2-54-243-164-70.compute-1.amazonaws.com
+::1 external.xx.fbcdn.net
+::1 mads.amazon-adsystem.com
+::1 mmg-adsdis-02.ig-1.net
+::1 mng-adsmob-02.ig-1.net
+::1 mobile.mng-ads.com
+::1 scontent.xx.fbcdn.net
+104749.sprout-ad.com
+1app.blob.core.windows.net
+201205igp.gameloft.com
+2912a.v.fwmrm.net
+29773.v.fwmrm.net
+32907.y.kau.li
+4.afs.googleadservices.com
+511.gsspcln.jp
+51983.y.kau.li
+52357.y.kau.li
+53093.y.kau.li
+53147.y.kau.li
+54173.y.kau.li
+55978.y.kau.li
+55979.y.kau.li
+578756.gameloft.com
+5be16.v.fwmrm.net
+888casino.com
+888media.net
+9cf9.v.fwmrm.net
+AdPostInjectAsync.nhn
+a.ad-sys.com
+a.adimg.net
+a.admob.com
+a.adorika.net
+a.adroll.com
+a.ads2.msads.net
+a.adtech.de
+a.appier.mobi
+a.dopr.net
+a.geniee.jp
+a.goember.com
+a.iogous.com
+a.jumptap.com
+a.kat.cr
+a.ligatus.com
+a.mx.openclick.com
+a.popin.cc
+a.rfihub.com
+a.scorecardresearch.com
+a.t.webtracker.jp
+a.tribalfusion.com
+a.visualrevenue.com
+a02.korrelate.net
+a1.goo.ne.jp
+aag.yahooapis.jp
+aan.amazon.com
+aax-us-east.amazon-adsystem.com
+aax-us-west.amazon-adsystem.com
+ac0.i2i.com
+ac0.i2i.jp
+ac1.i2i.com
+ac1.i2i.jp
+ac2.i2i.com
+ac2.i2i.jp
+ac3.i2i.com
+ac3.i2i.jp
+ac3.msn.com
+ac4.i2i.com
+ac4.i2i.jp
+ac5.i2i.com
+ac5.i2i.jp
+ac6.i2i.com
+ac6.i2i.jp
+ac7.i2i.com
+ac7.i2i.jp
+ac8.i2i.com
+ac8.i2i.jp
+ac9.i2i.com
+ac9.i2i.jp
+accesstrade.net
+ace.advertising.com
+action.adzcore.com
+action.popin.cc
+activity.serving-sys.com
+ad-apac.doubleclick.net
+ad-apec.doubleclick.net
+ad-api-v01.uliza.jp
+ad-banners.co
+ad-ch.jp
+ad-emea.doubleclick.net
+ad-g.doubleclick.net
+ad-house.mobi
+ad-move.jp
+ad-shot.com
+ad-stir.com
+ad-x.co.uk
+ad.360yield.com
+ad.adlantis.jp
+ad.adtoma.com
+ad.adverticum.net
+ad.adxcore.com
+ad.ae.doubleclick.net
+ad.ams.mcdstorage.com
+ad.app-liv.jp
+ad.applipromotion.com
+ad.ar.doubleclick.net
+ad.aspm.jp
+ad.at.doubleclick.net
+ad.au.doubleclick.net
+ad.bbc.com
+ad.be.doubleclick.net
+ad.bg.doubleclick.net
+ad.br.doubleclick.net
+ad.ca.doubleclick.net
+ad.cauly.co.kr
+ad.ch.doubleclick.net
+ad.cl.doubleclick.net
+ad.cn.doubleclick.net
+ad.cnn.com
+ad.cq-andc.jp
+ad.crwdcntrl.net
+ad.dc2.adtech.de
+ad.de.doubleclick.net
+ad.directrev.com
+ad.dk.doubleclick.net
+ad.dmm.com
+ad.doubleclick.net
+ad.es.doubleclick.net
+ad.extendmedia.com
+ad.fi.doubleclick.net
+ad.fout.jp
+ad.fr.doubleclick.net
+ad.gameloft.com
+ad.goodad.jp
+ad.gr.doubleclick.net
+ad.gunosy.com
+ad.hk.doubleclick.net
+ad.hr.doubleclick.net
+ad.hu.doubleclick.net
+ad.ie.doubleclick.net
+ad.im-ad.co.kr
+ad.in.doubleclick.net
+ad.it.doubleclick.net
+ad.jorudan.co.jp
+ad.jp.ap.valuecommerce.com
+ad.jp.doubleclick.net
+ad.jp.valuecommerce.com
+ad.kau.li
+ad.kixer.com
 ad.kr.doubleclick.net
 ad.leadbolt.net
 ad.leadboltads.net
 ad.leadboltapps.net
-ad.lionmobi.com
-ad.liveinternet.ru
-ad.lkqd.net
-ad.madvertise.de
-ad.media-servers.net
+ad.linkexchange.com
+ad.linksynergy.com
+ad.livepoint.co.kr
+ad.maist.jp
+ad.mdn.co.jp
+ad.mega-r.com
 ad.mo.doubleclick.net
-ad.moboclick01.com
-ad.myinstashot.com
+ad.msn.com
 ad.n2434.doubleclick.net
-ad.nexage.com
+ad.netowl.jp
 ad.nl.doubleclick.net
 ad.no.doubleclick.net
-ad.nozonedata.com
 ad.nz.doubleclick.net
-ad.pandora.tv
+ad.omni.se
 ad.pl.doubleclick.net
+ad.pr.ameba.jp
 ad.pt.doubleclick.net
 ad.ro.doubleclick.net
 ad.rs.doubleclick.net
@@ -98,3488 +1921,3034 @@ ad.ru.doubleclick.net
 ad.se.doubleclick.net
 ad.sg.doubleclick.net
 ad.si.doubleclick.net
+ad.smaad.jp
+ad.t-ad.co.kr
+ad.taptica.com
 ad.terra.doubleclick.net
 ad.th.doubleclick.net
+ad.turn.com
 ad.tw.doubleclick.net
-ad.twitchguru.com
 ad.uk.doubleclick.net
 ad.us.doubleclick.net
 ad.ve.doubleclick.net
-ad.vrvm.com
-ad.youtube.com
+ad.xdomain.ne.jp
+ad.yieldmanager.com
 ad.za.doubleclick.net
-ad1.adinfuse.com
-ad2.adinfuse.com
+ad0.fm-p.jp
+ad0.i2i.jp
+ad01.sp-click2.jp
+ad02.sp-click2.jp
+ad03.sp-click2.jp
+ad1.emediate.dk
+ad1.fm-p.jp
+ad1.i2i.jp
+ad1.nend.net
+ad1.netshelter.net
+ad1.trafficgate.net
 ad2.doubleclick.net
-ad3.doubleclick.net
-ad4.doubleclick.net
-ad5.doubleclick.net
-ad6.doubleclick.net
-ad7.doubleclick.net
-ad8.doubleclick.net
-ad9.doubleclick.net
-adbanner.ro
-adboost.de.vu
-adboost.net
-adbrite.com
-adc3-assets.adcolony.com
-adc3-launch.adcolony.com
-adchoices.com
-adchoices.info
-adchoices.net
-adchoices.org
-adchoices.uk
-adclear.teufel.de
-adclick.com
-adclick.g.doublecklick.net
+ad2.fm-p.jp
+ad2.i2i.jp
+ad2.nend.net
+ad2.netshelter.net
+ad2.shallwead.com
+ad2.trafficgate.net
+ad3.fm-p.jp
+ad3.i2i.jp
+ad3.nend.net
+ad3.netshelter.net
+ad3.trafficgate.net
+ad4.fm-p.jp
+ad4.i2i.jp
+ad4.nend.net
+ad4.netshelter.net
+ad4.trafficgate.net
+ad5.fm-p.jp
+ad5.i2i.jp
+ad5.nend.net
+ad5.trafficgate.net
+ad6.fm-p.jp
+ad6.i2i.jp
+ad6.nend.net
+ad6.trafficgate.net
+ad7.fm-p.jp
+ad7.i2i.jp
+ad7.nend.net
+ad7.trafficgate.net
+ad8.adfarm1.adition.com
+ad8.fm-p.jp
+ad8.i2i.jp
+ad8.nend.net
+ad8.trafficgate.net
+ad9.fm-p.jp
+ad9.i2i.jp
+ad9.nend.net
+ad9.trafficgate.net
+adapi.gunosy.com
+adb.nikkei.co.jp
+adc.media-rep.com
+adc.medibaad.com
+adc01.media-rep.com
+adc02.media-rep.com
+adc03.media-rep.com
+adc04.media-rep.com
+adc05.media-rep.com
+adc06.media-rep.com
+adc07.media-rep.com
+adc08.media-rep.com
+adc09.media-rep.com
+adc10.media-rep.com
+adc11.media-rep.com
+adc12.media-rep.com
+adcash.com
+adcel.vrvm.com
+adck.crooz.jp
 adclick.g.doubleclick.net
-adclient.uimserv.net
-adcolony.net
-adcolony.org
-adcolony.uk
-ade.googlesyndication.com
-adeventtracker.spotify.com
-adf.ly
-adimg.cnet.com
-adjuggler.yourdictionary.com
-adjust.com
-adjustnetwork.com
-adknowledge.com
-adlog.com.com
+addthis.com
+ade.clmbtech.com
+adf.send.microad.jp
+adfurikun.jp
+adimg.i2i.jp
+adimg3.search.naver.net
+adimp.excite.co.jp
+adk2ads.tictacti.com
+adkengage.com
+adledge.com
 adlog.flurry.com
 adm.fwmrm.net
-admarketing.yahoo.net
-admarvel.mojiva.com
-admax.nexage.com
-admediator.unityads.unity3d.com
+adm.shinobi.jp
+admarvel.s3.amazonaws.com
+admaster.heyos.com
+admin.ad-count.jp
+admin.ad-maker.info
 admin.appnext.com
-admin.vserv.mobi
 admob.biz
+admob.co.kr
+admob.co.nz
 admob.co.uk
+admob.com
+admob.cz
 admob.de
 admob.dk
 admob.es
 admob.eu
 admob.fi
 admob.fr
+admob.gr
 admob.it
+admob.jp
+admob.kr
 admob.me
 admob.mobi
-admob.net
+admob.no
 admob.pt
 admob.ru
-admoda.com
-ads-fa.spotify.com
+admob.sg
+admob.tk
+admob.tw
+admob.vn
+admomi.com
+adn.dmm.com
+adntokyo.gunosy.com
+adnxs.revsci.net
+adone.yicha.jp
+adpimg.yicha.jp
+adpriv.nikkei.com
+adrotator.se
+adroute.focas.jp
+ads-by.madadsmedia.com
+ads-by.yieldselect.com
+ads-east-aws.adsymptotic.com
+ads-east-colo.adsymptotic.com
+ads-west-colo.adsymptotic.com
+ads.888media.net
+ads.ad-center.com
+ads.addynamix.com
+ads.adjust-net.jp
 ads.admarvel.com
-ads.admoda.com
-ads.aerserv.com
-ads.ak.facebook.com.edgesuite.net
-ads.ask.com
-ads.berlinonline.de
-ads.betanews.com
-ads.bing.com
-ads.bittorrent.com
-ads.blog.com
-ads.bloomberg.com
-ads.doubleclick.com
-ads.doubleclick.net
-ads.emirates.net.ae
-ads.expedia.com
+ads.aftonbladet.se
+ads.appia.com
+ads.bidvertiser.com
+ads.cb-cdn.com
+ads.cc-dt.com
+ads.cdn.rovio.com
+ads.celtra.com
+ads.cleveland.com
+ads.cricbuzz.com
+ads.exoclick.com
 ads.flurry.com
-ads.foxnetworks.com
-ads.foxnews.com
-ads.guru3d.com
-ads.hardwaresecrets.com
+ads.gameloft.com
 ads.heyzap.com
-ads.horyzon-media.com
-ads.ign.com
-ads.imgur.com
-ads.kinobox.cz
-ads.linkedin.com
-ads.linkshrink.net
-ads.marvel.com
-ads.mobilityware.com
+ads.intergi.com
+ads.juicyads.com
+ads.lfstmedia.com
+ads.mdotm.com
+ads.mixi.jp
 ads.mocean.mobi
-ads.moceanads.com
-ads.mojiva.com
 ads.mopub.com
-ads.nationalgeographic.com
-ads.nexage.com
-ads.nytimes.com
-ads.o2.pl
-ads.ookla.com
-ads.pandora.tv.net
-ads.pubmatic.com
-ads.reward.rakuten.jp
-ads.t-online.de
-ads.taptapnetworks.com
-ads.techtv.com
-ads.twitter.com
-ads.unityads.com
-ads.unityads.de
-ads.vserv.mobi
-ads.web.de
-ads.wikia.nocookie.net
-ads.yahoo.de
-ads.yap.yahoo.com
+ads.mp.mydas.mobi
+ads.nicovideo.jp
+ads.nordichardware.se
+ads.ntc.ace.advertising.com
+ads.pinger.com
+ads.pro-market.net
+ads.qadservice.com
+ads.reddit.com
+ads.rubiconproject.com
+ads.saymedia.com
+ads.servebom.com
+ads.smartstream.tv
+ads.traffichunt.com
+ads.trafficjunky.net
+ads.yahoo.com
+ads.yieldmo.com
 ads.yimg.com
 ads.youtube.com
-ads1.mojiva.com
+ads1.msads.net
 ads1.msn.com
-ads2.mojiva.com
-ads3.mojiva.com
-ads30.adcolony.com
-ads4.g.doubleclick.net
-ads4.mojiva.com
-ads5.mojiva.com
-adsassets.waze.com
-adscale.de
-adsdkconfig.fractionalmedia.com
-adsense.com
-adsense.de
-adserve.video
-adserver.aidameter.com
-adserver.bing.com
-adserver.com
-adserver.curiouscat.me
-adserver.digitoday.com
-adserver.dotcommedia.de
-adserver.finditquick.com
-adserver.flossiemediagroup.com
-adserver.freecity.de
-adserver.freenet.de
-adserver.friendfinder.com
-adserver.goforandroid.com
-adserver.hardsextube.com
-adserver.hardwareanalysis.com
-adserver.hwupgrade.it
-adserver.irishwebmasterforum.com
-adserver.janes.com
-adserver.kimia.es
-adserver.libero.it
-adserver.mobillex.com
-adserver.news.com.au
-adserver.ngz-network.de
-adserver.nydailynews.com
-adserver.o2.pl
-adserver.oddschecker.com
-adserver.omroepzeeland.nl
-adserver.pandora.com
-adserver.pl
-adserver.portalofevil.com
-adserver.portugalmail.net
-adserver.portugalmail.pt
-adserver.powerlinks.com
-adserver.pressboard.ca
-adserver.sanomawsoy.fi
-adserver.sciflicks.com
-adserver.shadow.snapads.com
-adserver.sharewareonline.com
-adserver.snapads.com
-adserver.spankaway.com
-adserver.startnow.com
-adserver.theonering.net
-adserver.twitpic.com
-adserver.ubiyoo.com
-adserver.unityads.unity3d.com
-adserver.viagogo.com
-adserver.virginmedia.com
-adserver.xpanama.net
-adserver1-images.backbeatmedia.com
-adserver1.backbeatmedia.com
-adserver1.mindshare.de
-adserver1.ogilvy-interactive.de
-adserver2.mindshare.de
-adserversolutions.com
-adservice.google.com
-adservice.google.com.tr
-adservice.google.de
-adservice.google.nl
-adservice.google.pl
+ads2.contentabc.com
+ads2.greystripe.com
+ads2.msads.net
+adsafeprotected.com
+adsee.jp
+adserver.adreactor.com
+adserver.adtech.de
+adserver.adtechus.com
+adserver.exoticads.com
+adserver.juicyads.com
 adservices.google.com
-adserving.unibet.com
-adservinginternational.com
-adsmart.co.uk
-adsmart.com
-adsmart.net
-adsmo.ru
-adsrevenue.net
-adsrv.iol.co.za
-adsrv1.tapad.com
-adsrvmedia.net
-adstax-match.adrtx.net
-adstest.weather.com
-adsynergy.com
-adsys.townnews.com
-adtiger.de
+adservices.picadmedia.com
+adsformobileapps.com
+adshost2.com
+adsp.i2idata.com
+adsta.jp
+adsx.greystripe.com
+adsyndication.msn.com
+adtag.ad-stir.com
+adtc.daum.net
+adtgs.adk2x.com
+adtilt.com
+adtool.pumpup.jp
 adtracker.inmobi.com
-adultmoda.com
-adv-adserver.com
-adv-banner.libero.it
-adv.freeonline.it
-adv.hwupgrade.it
-adv.nexthardware.com
-advantech.vo.llnwd.net
-advariant.com
-adventory.com
-advertstream.com
-adwired.mobi
-adwords.google.com
-adx.adform.net
+adv.addeluxe.jp
+adv.aftonbladet.se
+adv.svd.se
+advisionweb.yicha.jp
+advm.svd.se
 adx.g.doubleclick.net
-adzerk.s3.amazonaws.com
-adzmobi.com
-adzone.fractionalmedia.com
-affiliate.gamestop.com
-affiliate.googleusercontent.com
-affiliatetracking.com
-affiliatetracking.net
-afftrack-data.com
-akamai.smartadserver.com
-aktrack.pubmatic.com
-alexa-sitestats.s3.amazonaws.com
-amn.doubleclick.net
-amp-error-reporting.appspot.com
-ams-ads-cornerstone-creatives-eu.s3.amazonaws.com
-analytic-google.com
+adzerk.net
+aff.i-mobile.co.jp
+affiliate-b.com
+affiliate.2mdn.net
+afs.adjust-net.jp
+ah.yimg.jp
+aimds.er.cyberwing.co.jp
+aimg.fc2.com
+aio.lp.mydas.mobi
+ak.dr.cyberwing.co.jp
+aka-cdn-ns.adtech.de
+aka-cdn-ns.adtechus.com
+aladdin.genieesspv.jp
+alea.adam.daum.net
+alist.unitedblades.co.jp
+amoad.com
+amung.us
+an.appads.com
 analytics.admob.com
-analytics.adpost.org
-analytics.google.com
-analytics.mopub.com
-analytics.rayjump.com
-analytics.tapad.com
-analytics.tresensa.com
-analytics.twitter.com
-analytics.yahoo.com
-api-gdpr.voodoo-tech.io
-api.adflake.com
-api.adflake.comcustom
+analytics.app-adforce.jp
+androidsdk.ads.mp.mydas.mobi
+ant.ximad.com
+ap.lijit.com
+ap.octopuspop.com
+ap.tapone.jp
+apbox.naver.com
+api.accelarts.com
+api.ad-stir.com
+api.ad.mediba.jp
+api.adfurikun.jp
+api.adsnative.com
 api.airpush.com
-api.apptentive.com
-api.c.avazunativeads.com
-api.cercube.com
-api.cloudmobi.net
-api.fusepowered.com
-api.intensifier.de
-api.kiip.me
-api.leadbolt.net
-api.mixpanel.com
-api.mobpowertech.com
-api.prod.mwx.ext.mobilityware.com
-api.vungle.akadns.net
-api.vungle.com
-apidm.airpush.com
+api.behaviad.net
+api.cloudflare.com
+api.content.ad
+api.gravity.com
+api.popin.cc
+api.smartnews-ads.com
+api.unthem.com
+api.viglink.com
+api9.net
+apis.google.com
 apistaging.airpush.com
-app-measurement.com
-app-trackings.com
-app.adblockhyper.us
+app-adforce.jp
 app.adjust.com
-app.io.com
-app.networkad.net
-appclick.net
-appldndl.apple.com
-appleapds.com
-applift.com
-applift.comempty
-applovin.biz
-applovin.co
-applovin.de
-applovin.info
-applovin.net
-applovin.org
-applovin.se
-applovin.uk
-applovin.us
-applvn.com
-appnext-a.akamaihd.net
-appnext.hs.llnwd.net
+app.adjust.io
+app.click.livedoor.com
+app.t-ad.co.kr
+appads.com
+appadserver.com
+appfly.mobi
+applitown.com
 appnexus.com
-appnexus.net
-apportal.airpush.com
-apps.buzzcity.net
-apps.mobilityware.com
-appsflyer.com
-appwall.api.airpush.com
-appwiz.com
-aptrk5.com
-apxadtracking.net
-arc1.msn.com
-arcomobi.go2affise.com
-ard.xxxblackbook.com
+apps5.oingo.com
+aqua.dmm.co.jp
+art.d2c.ne.jp
+artinstitute.lp.mydas.mobi
 as.adfonic.net
-as1.advfn.com
-asdkd.tutuapp.com
-asia.pool.ntp.org
-asotrack1.fluentmobile.com
+as.chango.com
+as.dc.impact-ad.jp
+as.ebz.io
+as.mv.impact-ad.jp
+as.on.impact-ad.jp
+as.py.impact-ad.jp
+aspm.jp
 assets.applovin.com
-assets.cntdy.mobi
-athena-ads.wikia.com
-auction.unityads.unity3d.com
-auctionads.com
-auctionads.net
-augur.io
-auto-bannertausch.de
-avazunativeads.com
-avazutracking.net
-b.engadget.com
-b.scorecardresearch.com
-b59812ee54afcabd.com
-ba.afl.rakuten.co.jp
-banner-exchange-24.de
-banner.blogranking.net
-banner.cz
-banner.goldenpalace.com
-banner.inyourpocket.com
-banner.linux.se
-banner.media-system.de
-bannerads.de
-bannerimage.com
-banners.adultfriendfinder.com
-banners.audioholics.com
-banners.babylon-x.com
-banners.bigmobileads.com
-banners.direction-x.com
-banners.easydns.com
-banners.friendfinder.com
-banners.isoftmarketing.com
-banners.lifeserv.com
-banners.linkbuddies.com
-banners.passion.com
-banners.resultonline.com
-banners.sys-con.com
-banners.thomsonlocal.com
-banners.virtuagirlhd.com
-banners.wunderground.com
-bannerserver.com
-bannersgomlm.com
-bannershotlink.perfectgonzo.com
-bannersnack.com
-bannersng.yell.com
-bannerspace.com
-bannerswap.com
-bannertesting.com
-bannerwall.herewetest.com
-bannerwall.s3.appcnt.com
-bannery.cz
-base-cdn.admarvel.com
-basebanner.com
-bat.bing.com
-beachfrontmedia.com
-beacons.gvt2.com
-beamkite.com
-beatchucknorris.com
-behance.vo.llnwd.net
-behavioralengine.com
-belstat.com
-belstat.nl
-bepolite.eu
-berp.com
-best-pr.info
-best-top.ro
-best.truefuncontent.com
-bestadbid.com
-bestsearch.net
-bet365affiliates.com
+assets.kixer.com
+at.atwola.com
+atdmt-a.akamaihd.net
+au-01.adtomafusion.com
+aud.adjust-net.jp
+austria1.adverserve.net
+avnads.com
+axia-hakusan.com
+az.trackword.net
+az708531.vo.msecnd.net
+b.ads2.msads.net
+b.grvcdn.com
+b.iogous.com
+b.logly.co.jp
+b1.i.adimg.net
+b2.i.adimg.net
+b3.i.adimg.net
+b4.i.adimg.net
+b5.i.adimg.net
+b6.i.adimg.net
+b7.i.adimg.net
+b8.i.adimg.net
+b9.i.adimg.net
+ba2b687.se
+bank-01.ads.mp.mydas.mobi
+bank-02.ads.mp.mydas.mobi
+bank-03.ads.mp.mydas.mobi
+bank-04.ads.mp.mydas.mobi
+bank-05.ads.mp.mydas.mobi
+bank-06.ads.mp.mydas.mobi
+bank-07.ads.mp.mydas.mobi
+bank-08.ads.mp.mydas.mobi
+bank-09.ads.mp.mydas.mobi
+bank-10.ads.mp.mydas.mobi
+bank-100.ads.mp.mydas.mobi
+bank-11.ads.mp.mydas.mobi
+bank-12.ads.mp.mydas.mobi
+bank-13.ads.mp.mydas.mobi
+bank-14.ads.mp.mydas.mobi
+bank-15.ads.mp.mydas.mobi
+bank-16.ads.mp.mydas.mobi
+bank-17.ads.mp.mydas.mobi
+bank-18.ads.mp.mydas.mobi
+bank-19.ads.mp.mydas.mobi
+bank-20.ads.mp.mydas.mobi
+bank-21.ads.mp.mydas.mobi
+bank-22.ads.mp.mydas.mobi
+bank-23.ads.mp.mydas.mobi
+bank-24.ads.mp.mydas.mobi
+bank-25.ads.mp.mydas.mobi
+bank-26.ads.mp.mydas.mobi
+bank-27.ads.mp.mydas.mobi
+bank-28.ads.mp.mydas.mobi
+bank-29.ads.mp.mydas.mobi
+bank-30.ads.mp.mydas.mobi
+bank-31.ads.mp.mydas.mobi
+bank-32.ads.mp.mydas.mobi
+bank-33.ads.mp.mydas.mobi
+bank-34.ads.mp.mydas.mobi
+bank-35.ads.mp.mydas.mobi
+bank-36.ads.mp.mydas.mobi
+bank-37.ads.mp.mydas.mobi
+bank-38.ads.mp.mydas.mobi
+bank-39.ads.mp.mydas.mobi
+bank-40.ads.mp.mydas.mobi
+bank-41.ads.mp.mydas.mobi
+bank-42.ads.mp.mydas.mobi
+bank-43.ads.mp.mydas.mobi
+bank-44.ads.mp.mydas.mobi
+bank-45.ads.mp.mydas.mobi
+bank-46.ads.mp.mydas.mobi
+bank-47.ads.mp.mydas.mobi
+bank-48.ads.mp.mydas.mobi
+bank-49.ads.mp.mydas.mobi
+bank-50.ads.mp.mydas.mobi
+bank-51.ads.mp.mydas.mobi
+bank-52.ads.mp.mydas.mobi
+bank-53.ads.mp.mydas.mobi
+bank-54.ads.mp.mydas.mobi
+bank-55.ads.mp.mydas.mobi
+bank-56.ads.mp.mydas.mobi
+bank-57.ads.mp.mydas.mobi
+bank-58.ads.mp.mydas.mobi
+bank-59.ads.mp.mydas.mobi
+bank-60.ads.mp.mydas.mobi
+bank-61.ads.mp.mydas.mobi
+bank-62.ads.mp.mydas.mobi
+bank-63.ads.mp.mydas.mobi
+bank-64.ads.mp.mydas.mobi
+bank-65.ads.mp.mydas.mobi
+bank-66.ads.mp.mydas.mobi
+bank-67.ads.mp.mydas.mobi
+bank-68.ads.mp.mydas.mobi
+bank-69.ads.mp.mydas.mobi
+bank-70.ads.mp.mydas.mobi
+bank-71.ads.mp.mydas.mobi
+bank-72.ads.mp.mydas.mobi
+bank-73.ads.mp.mydas.mobi
+bank-74.ads.mp.mydas.mobi
+bank-75.ads.mp.mydas.mobi
+bank-76.ads.mp.mydas.mobi
+bank-77.ads.mp.mydas.mobi
+bank-78.ads.mp.mydas.mobi
+bank-79.ads.mp.mydas.mobi
+bank-80.ads.mp.mydas.mobi
+bank-81.ads.mp.mydas.mobi
+bank-82.ads.mp.mydas.mobi
+bank-83.ads.mp.mydas.mobi
+bank-84.ads.mp.mydas.mobi
+bank-85.ads.mp.mydas.mobi
+bank-86.ads.mp.mydas.mobi
+bank-87.ads.mp.mydas.mobi
+bank-88.ads.mp.mydas.mobi
+bank-89.ads.mp.mydas.mobi
+bank-90.ads.mp.mydas.mobi
+bank-91.ads.mp.mydas.mobi
+bank-92.ads.mp.mydas.mobi
+bank-93.ads.mp.mydas.mobi
+bank-94.ads.mp.mydas.mobi
+bank-95.ads.mp.mydas.mobi
+bank-96.ads.mp.mydas.mobi
+bank-97.ads.mp.mydas.mobi
+bank-98.ads.mp.mydas.mobi
+bank-99.ads.mp.mydas.mobi
+bank10.mi.ads.mp.mydas.mobi
+bank100.mi.ads.mp.mydas.mobi
+bank11.mi.ads.mp.mydas.mobi
+bank12.mi.ads.mp.mydas.mobi
+bank13.mi.ads.mp.mydas.mobi
+bank14.mi.ads.mp.mydas.mobi
+bank15.mi.ads.mp.mydas.mobi
+bank16.mi.ads.mp.mydas.mobi
+bank17.mi.ads.mp.mydas.mobi
+bank18.mi.ads.mp.mydas.mobi
+bank19.mi.ads.mp.mydas.mobi
+bank20.mi.ads.mp.mydas.mobi
+bank21.mi.ads.mp.mydas.mobi
+bank22.mi.ads.mp.mydas.mobi
+bank23.mi.ads.mp.mydas.mobi
+bank24.mi.ads.mp.mydas.mobi
+bank25.mi.ads.mp.mydas.mobi
+bank26.mi.ads.mp.mydas.mobi
+bank27.mi.ads.mp.mydas.mobi
+bank28.mi.ads.mp.mydas.mobi
+bank29.mi.ads.mp.mydas.mobi
+bank30.mi.ads.mp.mydas.mobi
+bank31.mi.ads.mp.mydas.mobi
+bank32.mi.ads.mp.mydas.mobi
+bank33.mi.ads.mp.mydas.mobi
+bank34.mi.ads.mp.mydas.mobi
+bank35.mi.ads.mp.mydas.mobi
+bank36.mi.ads.mp.mydas.mobi
+bank37.mi.ads.mp.mydas.mobi
+bank38.mi.ads.mp.mydas.mobi
+bank39.mi.ads.mp.mydas.mobi
+bank40.mi.ads.mp.mydas.mobi
+bank41.mi.ads.mp.mydas.mobi
+bank42.mi.ads.mp.mydas.mobi
+bank43.mi.ads.mp.mydas.mobi
+bank44.mi.ads.mp.mydas.mobi
+bank45.mi.ads.mp.mydas.mobi
+bank46.mi.ads.mp.mydas.mobi
+bank47.mi.ads.mp.mydas.mobi
+bank48.mi.ads.mp.mydas.mobi
+bank49.mi.ads.mp.mydas.mobi
+bank50.mi.ads.mp.mydas.mobi
+bank51.mi.ads.mp.mydas.mobi
+bank52.mi.ads.mp.mydas.mobi
+bank53.mi.ads.mp.mydas.mobi
+bank54.mi.ads.mp.mydas.mobi
+bank55.mi.ads.mp.mydas.mobi
+bank56.mi.ads.mp.mydas.mobi
+bank57.mi.ads.mp.mydas.mobi
+bank58.mi.ads.mp.mydas.mobi
+bank59.mi.ads.mp.mydas.mobi
+bank60.mi.ads.mp.mydas.mobi
+bank61.mi.ads.mp.mydas.mobi
+bank62.mi.ads.mp.mydas.mobi
+bank63.mi.ads.mp.mydas.mobi
+bank64.mi.ads.mp.mydas.mobi
+bank65.mi.ads.mp.mydas.mobi
+bank66.mi.ads.mp.mydas.mobi
+bank67.mi.ads.mp.mydas.mobi
+bank68.mi.ads.mp.mydas.mobi
+bank69.mi.ads.mp.mydas.mobi
+bank70.mi.ads.mp.mydas.mobi
+bank71.mi.ads.mp.mydas.mobi
+bank72.mi.ads.mp.mydas.mobi
+bank73.mi.ads.mp.mydas.mobi
+bank74.mi.ads.mp.mydas.mobi
+bank75.mi.ads.mp.mydas.mobi
+bank76.mi.ads.mp.mydas.mobi
+bank77.mi.ads.mp.mydas.mobi
+bank78.mi.ads.mp.mydas.mobi
+bank79.mi.ads.mp.mydas.mobi
+bank80.mi.ads.mp.mydas.mobi
+bank81.mi.ads.mp.mydas.mobi
+bank82.mi.ads.mp.mydas.mobi
+bank83.mi.ads.mp.mydas.mobi
+bank84.mi.ads.mp.mydas.mobi
+bank85.mi.ads.mp.mydas.mobi
+bank86.mi.ads.mp.mydas.mobi
+bank87.mi.ads.mp.mydas.mobi
+bank88.mi.ads.mp.mydas.mobi
+bank89.mi.ads.mp.mydas.mobi
+bank90.mi.ads.mp.mydas.mobi
+bank91.mi.ads.mp.mydas.mobi
+bank92.mi.ads.mp.mydas.mobi
+bank93.mi.ads.mp.mydas.mobi
+bank94.mi.ads.mp.mydas.mobi
+bank95.mi.ads.mp.mydas.mobi
+bank96.mi.ads.mp.mydas.mobi
+bank97.mi.ads.mp.mydas.mobi
+bank98.mi.ads.mp.mydas.mobi
+bank99.mi.ads.mp.mydas.mobi
+banner-mtb.dspcdn.com
+bannerfarm.ace.advertising.com
+banners.proboards.com
+banners.unibet.com
+bar.aid-ad.jp
+bb.crwdcntrl.net
+bc.geocities.yahoo.co.jp
+bcp.crwdcntrl.net
+bdv.bidvertiser.com
+bea4.v.fwmrm.net
+beacon.scorecardresearch.com
+beacon.xlisting.jp
 beta.airpush.com
-betaffs.com
-betrad.com
-betsonsport.ru
-bhclicks.com
-bid.contextweb.com
-bidclix.com
-bidclix.net
-bidder.criteo.com
-bidr.io
-bidserver.clickpapa.io
-bidsopt.com
-bidswitch.net
-bidtrk.com
-bigbangmedia.com
-bigclicks.com
-bigmobileads.com
-billboard.cz
-billymobile.com
-bitads.net
-bitmedianetwork.com
+bid.g.doubleclick.net
+bid.openx.net
+bidvertiser.com
+big-mbsp-engine.mbsp.jp
+big-mbsp.mbsp.jp
+biz.sound.jp
 bizad.nikkeibp.co.jp
-bizographics.com
-bizrate.com
-black6adv.com
-blast4traffic.com
-blingbucks.com
-blogads.com
-blogcounter.de
-blogherads.com
-blogrush.com
-blogtoplist.se
-blogtopsites.com
-blueadvertise.com
+blogroll.livedoor.net
 bluekai.com
-bluelithium.com
-bluewhaleweb.com
-blutrumpet.com
-bm.annonce.cz
-bn.bfast.com
-bo.jumptap.com
-bodis
-bodis.com
-boersego-ads.de
-boilingbeetle.com
-boldchat.com
-boom.ro
-boomads.com
-boost-my-pr.de
-boostads.net
-bos-tapreq01.jumptap.com
-bos-tapreq02.jumptap.com
-bos-tapreq03.jumptap.com
-bos-tapreq04.jumptap.com
-bos-tapreq05.jumptap.com
-bos-tapreq06.jumptap.com
-bos-tapreq07.jumptap.com
-bos-tapreq08.jumptap.com
-bos-tapreq09.jumptap.com
-bos-tapreq10.jumptap.com
-bos-tapreq11.jumptap.com
-bos-tapreq12.jumptap.com
-bos-tapreq13.jumptap.com
-bos-tapreq14.jumptap.com
-bos-tapreq15.jumptap.com
-bos-tapreq16.jumptap.com
-bos-tapreq17.jumptap.com
-bos-tapreq18.jumptap.com
-bos-tapreq19.jumptap.com
-bos-tapreq20.jumptap.com
-boudja.com
-box.anchorfree.net
-bpath.com
-brahe.apptimize.com
-braincash.com
-brainient.com
-brandreachsys.com
-brassrule.com
-bravenet.com.invalid
-brealtime.com
-bridgetrack.com
-brightinfo.com
-british-banners.com
-broadboundary.com
-brokerbabe.com
-bromson.com
+bn-01.adtomafusion.com
+bn.maist.jp
 bs.serving-sys.com
-bs.yandex.ru
-bttn.io
-bttrack.com
-budsinc.com
-bugsense.appspot.com
 build-cdn.liftoff.io
 bullseye.backbeatmedia.com
-bundle-adee4.firebaseio.com
-burstnet.com
-buttons.googlesyndication.com
-buy.internettraffic.com
-buyhitscheap.com
-buzzad.io
-buzzonclick.com
-bvalphaserver.com
+burning-phoenix.kir.jp
+burstly.ads.nexage.com
+buysellads.com
+buzzea.com
+bypass.ad-stir.com
+c.adingo.jp
 c.admob.com
-c.adsco.re
+c.adsymptotic.com
 c.amazon-adsystem.com
-c.appsdt.com
-c.bigmir.net
-c.dns.gandi.net
-c.fillvdo.com
-c.medialytics.com
-c.mgid.com
-c.o5o4o6.com
-c.pub.network
-c.vrvm.com
-c.vserv.mobi
+c.betrad.com
+c.greystripe.com
+c.openclick.com
 c.w.inmobi.com
-c01.smaato.net
-c02.smaato.net
-c03.smaato.net
-c04.smaato.net
-c05.smaato.net
-c06.smaato.net
-c07.smaato.net
-c08.smaato.net
-c09.smaato.net
-c1.nowlinux.com
+c001.trax-ad.jp
+c1.nend.net
 c1.popads.net
-c10.smaato.net
-c11.smaato.net
-c12.smaato.net
-c13.smaato.net
-c14.smaato.net
-c15.smaato.net
-c16.smaato.net
-c17.smaato.net
-c18.smaato.net
-c19.smaato.net
-c1exchange.com
 c2.popads.net
-c20.smaato.net
-c21.smaato.net
-c22.smaato.net
-c23.smaato.net
-c24.smaato.net
-c25.smaato.net
-c26.smaato.net
-c27.smaato.net
-c28.smaato.net
-c29.smaato.net
-c29new.smaato.net
-c2i.startappnetwork.com
-c2s.startappnetwork.com
-c30.smaato.net
-c31.smaato.net
-c32.smaato.net
-c33.smaato.net
-c34.smaato.net
-c35.smaato.net
-c36.smaato.net
-c37.smaato.net
-c38.smaato.net
-c39.smaato.net
-c40.smaato.net
-c41.smaato.net
-c42.smaato.net
-c43.smaato.net
-c44.smaato.net
-c45.smaato.net
-c46.smaato.net
-c47.smaato.net
-c48.smaato.net
-c49.smaato.net
-c50.smaato.net
-c51.smaato.net
-c52.smaato.net
-c53.smaato.net
-c54.smaato.net
-c55.smaato.net
-c56.smaato.net
-c57.smaato.net
-c58.smaato.net
-c59.smaato.net
-c60.smaato.net
-c753738.r38.cf2.rackcdn.com
-c8.net.ua
-cache-ssl.celtra.com
-cache.celtra.com
-calmfoot.com
-campaign-tapad.s3.amazonaws.com
-campaign.bharatmatrimony.com
-campaigns.apps-connects.compopup
-caniamedia.com
-capacitly.com
-carambo.la
-casalemedia.com
-casalmedia.com
-cash4members.com
-cash4popup.de
-cashcrate.com
-cashengines.com
-cashfiesta.com
-cashlayer.com
-cashpartner.com
-cashprom.ru
-casinopays.com
-casinorewards.com
-casinotraffic.com
-casinotreasure.com
-cast.ra.imocha.com
-casterist.info
-cbanners.virtuagirlhd.com
-cbmall.com
-cdn-adn.rayjump.com
-cdn-api.admost.com
-cdn-image.com
-cdn-lb.vungle.com
-cdn.adrtx.net
-cdn.ads.fotoable.net
-cdn.celtra.com
-cdn.cpiera.com
-cdn.creative.medialytics.com
-cdn.dimml.io
+cache.imona.me
+cache.ssend.microad.jp
+caggsm-img.appads.com
+cas.criteo.com
+cashe.ssend.microad.jp
+cb.openclick.com
+ccrt.biz
+cdf.mydas.mobi
+cdn-01.yumenetworks.com
+cdn.ad.maist.jp
+cdn.adbrau.com
+cdn.adf.ly
+cdn.adk2.com
+cdn.adnotch.com
+cdn.adnxs.com
+cdn.adshexa.com
+cdn.adsrvmedia.net
+cdn.ajillionmax.com
+cdn.amanad.adtdp.com
+cdn.amanad.adtop.com
+cdn.applift.com
+cdn.at.atwola.com
+cdn.atdmt.com
+cdn.bidvertiser.com
+cdn.bttrack.com
+cdn.castplatform.com
+cdn.cpmstar.com
+cdn.cpsoft86.com
 cdn.directrev.com
-cdn.dlyads.com
-cdn.flurry.com
-cdn.freefacti.com
-cdn.freefarcy.com
-cdn.liftoff.io
-cdn.nearbyad.com
-cdn.onesignal.com
-cdn.optimizely.com
+cdn.directtrk.com
+cdn.elasticad.net
+cdn.engine.phn.doublepimp.com
+cdn.fastclick.net
+cdn.fivecdm.com
+cdn.flashtalking.com
+cdn.js.tapone.jp
+cdn.kixer.com
+cdn.krxd.net
+cdn.logly.co.jp
+cdn.mdotm.com
+cdn.media.innity.net
+cdn.mediative.ca
+cdn.merchenta.com
+cdn.millennialmedia.com
+cdn.mobicow.com
+cdn.mxpnl.com
+cdn.pic.crooz.jp
 cdn.popcash.net
-cdn.popmyads.com
-cdn.puffnetwork.com
-cdn.segment.com
-cdn.taboola.com
-cdn.trademob.com
-cdn.trafficforce.com
-cdn.unityads.unity3d.com
-cdn.us.goldspotmedia.com
-cdn.vdopia.com
-cdn1.crispadvertising.com
+cdn.popin.cc
+cdn.pubexchange.com
+cdn.pubnative.net
+cdn.rovio.com
+cdn.skyrocketapp.com
+cdn.smartnews-ads.com
+cdn.static.zdtag.com
+cdn.viglink.com
+cdn.yoyakucdn.com
 cdn1.inner-active.mobi
+cdn1.media.trafficjunky.net
+cdn1.reporo.net
+cdn1.rhtag.com
 cdn1.smartadserver.com
-cdn2.admatic.com.tr
-cdn2.crispadvertising.com
+cdn2.cpmstar.com
 cdn2.inner-active.mobi
-cdn4.buysellads.net
-cdnap.airpush.com
-cdns.lodeo.io
-cecash.com
-cell.zhybzp.cn
-celtra.com
-centerpointmedia.com
-ceppartner.com
-ceskydomov.alias.ngs.modry.cz
-cetrk.com
-cf-ads.pinger.com
-cgicounter.puretec.de
-ch.questionmarket.com
-chameleon.ad
-channel1vids.com
-channelintelligence.com
-chart.dk
-chartbeat.com
-chartbeat.net
-chartboost.de
-checkm8.com
-checkstat.nl
-cheetah.com
-cheetahmobile.com
-cheetahmobile.de
-cheetahmobile.uk
-cherrythread.com
-chestionar.ro
-chiefcurrent.com
+cdn2.reporo.net
+cdn3.doubleverify.com
+cdnads.tictacti.com
+cdni.amoad.com
+cf.ad-v.jp
+cf.cdn.inmobi.com
+cgi.i-mobile.co.jp
 china.inmobi.com
-chinchickens.com
-christingel.com
-cibleclick.com.invalid
-cinstein.com
-cityads.telus.net
-cjbmanagement.com
-cjlog.com
-claria.com
-class-act-clicks.com
-clearonclick.com
-click.absoluteagency.com
-click.amazingmobi.com
-click.appservinc.com
-click.buzzcity.net
-click.fool.com
-click.kmindex.ru
-click.sender.yandex.ru
-click.startappservice.com
-click2freemoney.com
-click2paid.com
-clickability.com
-clickadz.com
-clickagents.com
-clickbank.com
-clickbank.net
-clickbooth.com
-clickboothlnk.com
-clickbrokers.com
-clickcompare.co.uk
-clickdealer.com
-clickdensity.com
-clickedyclick.com
-clickhereforcellphones.com
-clickhouse.com
-clickhype.com
-clickky.com
-clickkydsp.com
-clickl5.best-ads123.com
-clicklink.jp
-clickmedia.ro
-clickpapa.com
-clickppcbuzz.com
-clicks.equantum.com
-clicks.mods.de
+choices.truste.com
+ck.rd.livedoor.com
+clcan.com
+click-search.org
+click.a.trackword.net
+click.adzcore.com
+click.amanad.adtdp.com
+click.amanad.adtop.com
+click.cauly.co.kr
+click.linksynergy.com
+click.mtburn.com
+clickadu.com
 clickserve.cc-dt.com
-clicksor.com
-clicktag.de
-clickthruserver.com
-clickthrutraffic.com
-clicktrace.info
-clicktrack.ziyu.net
-clicktracks.com
-clicktrade.com
-clickxchange.com
-clickz.com
-clickzxc.com
-clicmanager.fr
-client-event-reporter.twitch.tv
-clientmetrics-pa.apis.com
-clientmetrics-pa.googleapis.com
-clients.tbo.com
-clikerz.net
-cliksolution.com
-clixgalore.com
-clk.konflab.com
-clk.pointroll.com
-clk.taptica.com
-clkads.com
-clkfeed.compopup
-cloudcoins.biz
-cloudcoins.co
-cloudns.com
-cloudns.net
-cloudservice14.kingsoft-office-service.com
-cloudservice23.kingsoft-office-service.com
-clrstm.com
-cls.vrvm.com
-cluster.adultworld.com
-clustrmaps.com
-cm.adsafety.net
-cm.mgid.com
-cm.steepto.com
-cnbc7.com
-cnomy.com
-cnt.my
-cnt.spbland.ru
-cnt1.pocitadlo.cz
-cntcash.ru
-code-server.biz
-codefuel.com
-coin-hive.com
-coinhive.com
-cointraffic.io
-col-edge-prod.tenjin.io
-colonize.com
-comclick.com
-commandwalk.com
-commindo-media-ressourcen.de
-commissionmonster.com
-compactbanner.com
-comprabanner.it
-comscore.com
-concernrain.com
-config.appjolt.com
-config.inmobi.com
-config.tremorhub.com
-config.unityads.unity3d.com
-confirmed-profits.com
-connatix.com
-connextra.com
-consciouscabbage.com
-contaxe.de
-content.acc-hd.de
-content.apis.com
-content.bitsontherun.com
-contextweb.com
-continuum.dds.microsoft.com
-converdantmedia.net
-conversionruler.com
-cookies.cmpnet.com
-copperchickens.com
-copycarpenter.com
-copyrightaccesscontrols.com
-core.insightexpressai.com
-coremetrics.com
-cottawa.info
-count.rbc.ru
-count.rin.ru
-count.west263.com
-counted.com
-counter.bloke.com
-counter.cnw.cz
-counter.cz
-counter.dreamhost.com
-counter.fateback.com
-counter.kingsoft.com
-counter.mirohost.net
-counter.mojgorod.ru
-counter.nowlinux.com
-counter.rambler.ru
-counter.search.bg
-counter.snackly.co
-counter.sparklit.com
-counter.yadro.ru
-counters.honesty.com
-counting.kmindex.ru
-counts.tucows.com
-coupling-media.de
-cp.abbp1.pw
-cp.pushwoosh.com
-cpactions.com
-cpalead.com
-cpays.com
-cpmaffiliation.com
-cpmrocket.com
-cpx.to
-cpxinteractive.com
-cracksplay.com
-crakmedia.com
-craktraffic.com
-crawlability.com
-crawlclocks.com
-crazypopups.com
-creafi-online-media.com
+clickserve.dartsearch.net
+clickserve.eu.dartsearch.net
+clickserve.uk.dartsearch.net
+clickserve.us2.dartsearch.net
+clink.nifty.com
+clkmon.com
+clkrev.com
+clktag.com
+cloud.lokaplatform.com
+cloudads-a.akamaihd.net
+cm.g.doubleclick.net
+cm.send.microad.jp
+cm.uctrack.com
+coinurl.com
+conf.smartnews-ads.com
+conn.skype.commsntest.serving-sys.com
+connect.decknetwork.net
+consearch.jp
+content.yieldmanager.edgesuite.net
+contextual.media.net
+control.kochava.com
+cou.adjust-net.jp
+cp.openclick.com
+cre.adjust-net.jp
 creative.cc-dt.com
-creative.whi.co.nz
+creative.extendmedia.com
 creative.wwwpromoter.com
 creative1cdn.mobfox.com
-creatives.as4x.tmcs.net
-creatives.crossinstall.io
 creatives.doubleclick.net
-creatives.livejasmin.com
-credishe.com
-crispads.com
-crispadvertising.com
-critictruck.com
-croissed.info
-crossboardmobile.com
-crosspromo.voodoo.io
-crosspromotion-us.avosapps.us
-crossrider.com
-crowdgravity.com
-crownclam.com
-crtv.mate1.com
-cscdns.com
-cse.google.com
-csi.gstatic.com
-ctl.buyt.in
-ctnet2.in
-ctnetwork.hu
+creatives.gunosy.com
+crp-concursos.com
+crwdcntrl.net
+cs.gssprt.jp
+csi.cauly.co.kr
+ctl1.buyt.in
+ctrl.ad-maker.info
 ctxt.tribalfusion.com
-cubics.com
-curtaincows.com
-customad.cnn.com
-cutecushion.com
+cv.apprupt.com
 cvt.mydas.mobi
-cx.ssacdn.com
-cxense.com
-cyberbounty.com
-cybermonitor.com
+d-cache.microad.jp
+d-cashe.microad.jp
+d.5.to
+d.adresult-sp.jp
 d.adroll.com
-d.agkn.com
-d.applovin.com
-d.applvn.com
-d.appsdt.com
-d162nnmwf9bggr.cloudfront.net
-d1hcqc7fn62zhy.cloudfront.net
-d1no19iy69jvfx.cloudfront.net
-d1ovo20x1yw5yz.cloudfront.net
-d1ykf07e75w7ss.cloudfront.net
-d1zg4cyg8u4pko.cloudfront.net
-d2cmedia.ca
-d2gi7ultltnc2u.cloudfront.net
-d2lv4zbk7v5f93.cloudfront.net
-d2na2p72vtqyok.cloudfront.net
-d31qbv1cthcecs.cloudfront.net
-d37gvrvc0wt4s1.cloudfront.net
-d3fqhkmofpujs3.cloudfront.net
-d3q33rbmdkxzj.cloudfront.net
-d3rt1990lpmkn.cloudfront.net
-da-ads.com
-dakic-ia-300.com
-danban.com
-dante2007.com
-dapper.net
+d.amoad.com
+d.href.asia
+d.href.org.uk
+d.moras.jp
+d.pixiv.org
+d.plugrush.com
+d.popin.cc
+d.socdm.com
+d.sprout-ad.com
+d1bqhgjuxdf1ml.cloudfront.net
+d1ujhll8ggh32x.cloudfront.net
+d1zucahx0d2hqt.cloudfront.net
+d27p6w3wtgpjlw.cloudfront.net
+d2cjo8xlt6fbwy.cloudfront.net
+d3v1lb83psg9di.cloudfront.net
+d830x8j3o1b2k.cloudfront.net
 dart-apac.l.doubleclick.net
-data.ad-score.com
-data.adcolony.com
-data.adcolony.org
-data.adcolony.uk
-data.applovin.com
-data.applovin.de
-data.applovin.net
-data.applovin.org
-data.cheetahmobile.com
-data.cheetahmobile.de
-data.cheetamobile.uk
 data.flurry.com
-data.unityads.com
-data.unityads.de
-data.vungle.com
-datashreddergold.com
-dbbsrv.com
-dc-storm.com
-dc.altamob.com
-dc.altmob.com
-de.ads.justpremium.com
-de.rayjump.com
-de01.rayjump.com
-dealdotcom.com
-debtbusterloans.com
-decisiveducks.com
-decknetwork.net
-delightdriving.com
-delivery.admaven.dsp.netrevgo.com
-deloo.de
-deloton.com
-demandbase.com
-demdex.net
-demoad.com
-demoads.com
-deployads.com
-detect.rayjump.com
-detection
-dev.appboy.com
+de.cisive.net
+deartodear.com
+deliver.ads2.iid.jp
+delivery.trafficjunky.net
+delivery.us.myswitchads.com
+dev-packager-01.ximad.com
+dev.visualwebsiteoptimizer.com
+devopt.ximad.com
+dex.advg.jp
 dfp.doubleclick.net
-di1.shopping.com
-dialerporn.com
-dianomi.com
-didtheyreadit.com
-diff.smartadserver.com
-diff2.smartadserver.com
-diff3.smartadserver.com
-differentdesk.com
-digital-ads.s3.amazonaws.com
-digitalmerkat.com
-direct-xxx-access.com
-directaclick.com
-directivepub.com
-directleads.com
-directorym.com
-directtrack.com
-discountclick.com
-dispatcher.mng-ads.com
-displayadsmedia.com
-disqusads.com
-dist.belnk.com
-djax.com
-dk4ywix.com
-dlyads.adk2x.com
-dmtracker.com
-dmtracking.alibaba.com
-dmtracking2.alibaba.com
-dnads.directnic.com
-dns-01.ns.aol.com
-dns-02.ns.aol.com
-dns-06.ns.aol.com
-dns-07.ns.aol.com
-dns1.cscdns.net
-dns1.easydns.com
-dns1.name-services.com
-dns1.p01.nsone.net
-dns1.p05.nsone.net
-dns1.registrar-servers.com
-dns1.stabletransit.com
-dns2.cscdns.net
-dns2.easydns.net
-dns2.name-services.com
-dns2.p01.nsone.net
-dns2.p05.nsone.net
-dns2.registrar-servers.com
-dns2.stabletransit.com
-dns200.anycast.me
-dns21.hichina.com
-dns22.hichina.com
-dns3.easydns.ca
-dns3.name-services.com
-dns3.p05.nsone.net
-dns4.name-services.com
-dns4.p05.nsone.net
-dns5.name-services.com
-do-not-tracker.org
-docksalmon.com
-domaining.in
+directrev.blob.core.windows.net
+dist.ad-stir.com
+dist.adp.ad-stir.com
+dlv.itmedia.jp
+dmp.amoad.com
+docs.millennialmedia.com
 domains.googlesyndication.com
-domainsponsor.com
-domdex.com
 doubleclick.com
 doubleclick.de
-doubleclickbygoogle.com
-doubledeepclick.com
-doublepimp.com
-doubtfulrainstorm.com
-dpstack.com
-dragzebra.com
-drawbridge.com
-drumcash.com
+doubleclick.ne.jp
+doubleclick.net
+doubleclick.shockwave.com
+dp.g.doubleclick.net
+dra.amazon-adsystem.com
+ds.advg.jp
 ds.serving-sys.com
-dt.adsafeprotected.com
-dts.innovid.com
-dts.startappservice.com
-dumedia.ru
-dxkhboqrrimy.bid
-dynamic.fmpub.net
-dyntrk.com
-e-adimages.scrippsnetworks.com
-e-bannerx.com
-e-debtconsolidation.com
-e-m.fr
-e-n-t-e-r-n-e-x.com
+dsp.adledge.com
+dsp.logly.co.jp
+dsp.send.microad.jp
+dtm.advertising.com
+dynaserv.ads360.com
+e.admob.com
 e.apsalar.com
-e.kde.cz
-e.qq.com
-eadexchange.com
-eas.almamedia.fi
-easyhits4u.com
-ebayadvertising.com
-ebaycn.doubleclick.net
-ebaytw.doubleclick.net
-ebocornac.com
-ebuzzing.com
-ebz.io
-ecircle-ag.com
-ecoupons.com
-edge.reporo.net
-edwlifes.vo.llnwd.net
-eff
-effectivemeasure.com
-effectivemeasure.net
-eksi.firebaseio.com
-ektezis.ru
-elanatality.info
-elasticchange.com
-elephantqueue.com
-elitedollars.com
-elitetoplist.com
-elthamely.com
-eltrafiko.com
-emarketer.com
-embanet.vo.llnwd.net
-emea-v3.tracking.justpremium.com
-endpoint.prod.eu-west-1.forester.a2z.com
-engine.espace.netavenir.com
-enginenetwork.com
-enlarget.com
-enoratraffic.com
-enquisite.com
-ensighten.com
-entercasino.com
-eptwulil.com
-eqads.com
-eqx.smartadserver.com
-ero-advertising.com
-error-collector.ted.com
-esellerate.net
-estat.com
+e.crashlytics.com
+e2.emediate.se
+earth.appads.com
+ebdr3.com
+ec2-54-248-156-160.ap-northeast-1.compute.amazonaws.com
+eclkmpbn.com
+eclkmpsa.com
+ecpmrocks.com
+edge.quantserve.com
+elog7.servequake.com
+embed.insticator.com
+engine.4chan-ads.org
+engine.adzerk.net
+engine.widespace.com
+engine2.adzerk.net
 et.w.inmobi.com
-etahub.com
-etargetnet.com
-etl.tindersparks.com
-etracker.de
-eu-ad.sam4m.com
-eu-adcenter.net
-eu-ma.sam4m.com
-eu1.madsone.com
-eub.echo-ice.com
-eur.a1.yimg.com
-eurekster.com
-euroclick.com
-euros4click.de
-eusta.de
-event.ksosoft.com
-events-endpoint-455714294.us-east-1.elb.amazonaws.com
-events-endpoint-b-1623273513.us-east-1.elb.amazonaws.com
-events-endpoint-c-394794954.us-east-1.elb.amazonaws.com
-events.adcolony.com
-events.appsflyer.com
-events.startappservice.com
-events.streamrail.net
-events3.adcolony.com
-events3alt.adcolony.com
-evergage.com
-everyplay.com
-evidencecleanergold.com
-evidon.com
-eviltracker.net
-ewebcounter.com
-exchange-it.com
-exchange.bg
-exchangead.com
-exchangeclicksonline.com
-exclusivebrass.com
-exe.bid
-exit76.com
-exitexchange.com
-exitfuel.com
-exnjadgda1.doubleclick.net
-exnjadgda2.doubleclick.net
-exnjadgds1.doubleclick.net
-exnjmdgda1.doubleclick.net
-exnjmdgds1.doubleclick.net
-exogripper.com
-exp.glispa.com
-experteerads.com
-expired1.namebrightdns.com
-expired2.namebrightdns.com
-express-submit.de
-external.xx.fbcdn.net
-extractorandburner.com
-extreme-dm.com
-extremetracking.com
-eyeblaster.com
-eyeota.net
-eyereturn.com
-eyeviewads.com
-eyewond.hs.llnwd.net
-ezula.com
-f03.smaato.net
-f04.smaato.net
-f05.smaato.net
-f06.smaato.net
-f07.smaato.net
-f08.smaato.net
-f09.smaato.net
-f10.smaato.net
-f11.smaato.net
-f12.smaato.net
-f13.smaato.net
-f14.smaato.net
-f15.smaato.net
-f16.smaato.net
-f17.smaato.net
-f18.smaato.net
-f19.smaato.net
-f20.smaato.net
-f21.smaato.net
-f22.smaato.net
-f23.smaato.net
-f24.smaato.net
-f25.smaato.net
-f26.smaato.net
-f27.smaato.net
-f28.smaato.net
-f29.smaato.net
-f30.smaato.net
-f31.smaato.net
-f32.smaato.net
-f33.smaato.net
-f34.smaato.net
-f35.smaato.net
-f36.smaato.net
-f37.smaato.net
-f38.smaato.net
-f39.smaato.net
-f40.smaato.net
-f41.smaato.net
-f42.smaato.net
-f43.smaato.net
-f44.smaato.net
-f45.smaato.net
-f46.smaato.net
-f47.smaato.net
-f48.smaato.net
-f49.smaato.net
-f50.smaato.net
-f51.smaato.net
-f52.smaato.net
-f53.smaato.net
-f54.smaato.net
-f55.smaato.net
-f56.smaato.net
-f57.smaato.net
-f58.smaato.net
-f59.smaato.net
-f5biz.com
-f60.smaato.net
-fast-adv.it
-fastclick.com
-fastclick.com.edgesuite.net
-fb-promotions.com
-fbgamecheatz.info
-fc.webmasterpro.de
+eu2.madsone.com
+events30.adcolony.com
+eventsalt30.adcolony.com
+expo9.exponential.com
+exponential.com
+extra.thebigboss.org
+fam-ad.com
 feedads.g.doubleclick.net
 feedads.googleadservices.com
-feedbackresearch.com
-feedjit.com
-ffxcam.fairfax.com.au
-fiksu.com
-files.adform.net
-fimserve.com
-findbestsolution.net
-findcommerce.com
-findepended.com
-findyourcasino.com
-fineclicks.com
-finedesign.vo.llnwd.net
-finer
-first.nova.cz
-firstlightera.com
-firstpage.kingsoft-office-service.com
-fizcell.mobi
-fjrkn.com
-flavordecision.com
-fleshlightcash.com
-flexbanner.com
-floodprincipal.com
-flowgo.com
+file.gamefeat.net
+fls-na.amazon.com
 fls.doubleclick.net
-fluentmobile.com
-flurry.agentportal-v6.prod.g04.yahoodns.com
-flurry.cachefly.net
-flygo.ru
-fmpub.net
-fnd.monetizer.co
+fls.uk.doubleclick.net
+fly.ximad.com
 focas.jp
-fonecta.leiki.com
-fonts.googleapis.com
-fonts.gstatic.com
-foo.cosmocode.de
-forex-affiliate.net
-fpctraffic.com
-fpctraffic2.com
-fqtag.com
-fragmentserv.iac-online.de
-free-banners.com
-free-gift.xyz
-freebanner.com
-freelogs.com
-freeonlineusers.com
-freepay.com
-freeskreen.com
-freestats.tv
-freewebcounter.com
-friendlyduck.com
-ftjcfx.com
-ftpcontent.worldnow.com
-functionalclam.com
-funklicks.com
-funnel0.adinfuse.com
-funpageexchange.com
-
-fusionquest.com
-futuristicfairies.com
-fuzzyflavor.com
-fxstyle.net
-g.doubleclick.net
-ga87z2o.com
-gads.pubmatic.com
-galaxien.com
-game-advertising-online.com
-gamehouse.com
-gate.hockeyapp.net
-gator.com
-gbanners.hornymatches.com
-gd1.doubleclick.net
-gd10.doubleclick.net
-gd11.doubleclick.net
-gd12.doubleclick.net
-gd13.doubleclick.net
-gd14.doubleclick.net
-gd15.doubleclick.net
-gd16.doubleclick.net
-gd17.doubleclick.net
-gd18.doubleclick.net
-gd19.doubleclick.net
-gd2.doubleclick.net
-gd20.doubleclick.net
-gd21.doubleclick.net
-gd22.doubleclick.net
-gd23.doubleclick.net
-gd24.doubleclick.net
-gd25.doubleclick.net
-gd26.doubleclick.net
-gd27.doubleclick.net
-gd28.doubleclick.net
-gd29.doubleclick.net
-gd3.doubleclick.net
-gd30.doubleclick.net
-gd31.doubleclick.net
-gd4.doubleclick.net
-gd5.doubleclick.net
-gd7.doubleclick.net
-gd8.doubleclick.net
-gd9.doubleclick.net
-gebadu.com
-geede.info
-gemius.pl
-geo.digitalpoint.com
-geo.search-gtm.spotxchange.com.akadns.net
-geobanner.adultfriendfinder.com
-geovisite.com
-getclicky.com
-gfe.nvidia.com
-giddycoat.com
-gigamega.su
-gigya.com.invalid
-global.appnext.com
-global.ymtracking.com
-globalismedia.com
-globaltakeoff.net
-globaltrack.com.invalid
-globe7.com
-globus-inter.com
-gmads.net
-go-clicks.de
-go-rank.de
-go.adinfuse.com
-go.admost.com
-go.apptrk.io
-go.mobpartner.mobi
-go.mobstitial.com
-go.mobstitialtag.com
-go.mobtrks.com
-go.oclasrv.com
-go.onclasrv.com
+free-video-movie.com
+front.aid-ad.jp
+fusion.di.se
+fusion.dn.se
+fusion.expressen.se
+fusion.va.se
+g.msn.com
+g1.v.fwmrm.net
+g2.gumgum.com
+galatea.appads.com
+galatea1.appads.com
+galatea2.appads.com
+galatea3.appads.com
+gam.adnxs.com
+gamead.gameloft.com
+gameads.gameloft.com
+gamefeat.net
+gan.doubleclick.net
+gigazine.asia
+gloft.jp
+gloft.org
+go.goroost.com
+go.lfstmedia.com
+go.mobisla.com
+go.padsdel.com
 go.padstm.com
-go.pushnative.com
-go.trafficshop.com
-go.vrvm.com
-goingplatinum.com
 golds.lp.mydas.mobi
-goodadvert.ru
-google-analytics.com
-googleadapis.l.google.com
+gomotrak.com
+google.tucows.com
+googleads.g.doubleclick.net
 googleads2.g.doubleclick.net
-googleads3.g.doubleclick.net
-googleads4.g.doubleclick.net
-googleadservices.de
-googleadservices.org
-googleadservices.uk
-googleapis.i.google.com
-googlesyndication.com
-googlesyndication.de
-googletagmanager.com
-gorgeousground.com
-gowide.com
-gp.dejanews.com
-gpr.hu
-grafstat.ro
-grained
-grapeshot.co.uk
-greetzebra.com
-growmobile.com
-grt02.com
-grt03.com
-gsmtop.net
-gstaticadssl.l.google.com
-gtop100.com
-gts-ads.twistbox.com
-gtssl2-ocsp.geotrust.com
-guardedgovernor.com
-guitarbelieve.com
-gulfstream.vo.llnwd.net
-gunggo.com
-gwallet.com
-gwmserver.b-cdn.net
-gwmserver.com
-gymboree.hs.llnwd.net
-h12-media.com
-ha-api.pushwoosh.com
-haggler-mopub609-us-e-ec2.liftoff.io
-haggler-mopub611-us-e-ec2.liftoff.io
-haggler-mopub618-us-e-ec2.liftoff.io
-haggler-mopub621-us-e-ec2.liftoff.io
-haggler-mopub630-us-e-ec2.liftoff.io
-haggler-mopub636-us-e-ec2.liftoff.io
-haggler-mopub637-us-e-ec2.liftoff.io
-haggler-mopub649-us-e-ec2.liftoff.io
-haggler-mopub651-us-e-ec2.liftoff.io
-haggler-mopub652-us-e-ec2.liftoff.io
-haggler-mopub664-us-e-ec2.liftoff.io
-haggler-mopub670-us-e-ec2.liftoff.io
-haggler-mopub686-us-e-ec2.liftoff.io
-harrenmedia.com
-harrenmedianetwork.com
-harvardbp.vo.llnwd.net
-havamedia.net
-hb.adscale.de
-hbpub.vo.llnwd.net
-heias.com
-hello.lqm.io
-hellobar.com
-hentaicounter.com
-herbalaffiliateprogram.com
-hexusads.fluent.ltd.uk
-hey.hellobar.com
-heyos.com
-hgads.com
-hhbekxxw5d9e.pflexads.com
-hidden.gogoceleb.com
-hightrafficads.com
-hilariouszinc.com
-himediads.com
-history.google.com
-hit-parade.com
-hit.bg
-hit.ua
-hit.webcentre.lycos.co.uk
-hitbox.com
-hitcents.com
-hitfarm.com
-hitiz.com
-hitlist.ru
-hitlounge.com
-hitometer.com
-hits.europuls.eu
-hits.informer.com
-hits.puls.lv
-hits.theguardian.com
-hits4me.com
-hits4pay.com
-hitslink.com
-hittail.com
-hollandbusinessadvertising.nl
-homepageking.de
-hope
-hormebets.infopopup
-hosted
-hostedads.realitykings.com
-hostgrater.com
-hosting.sproutbuilder.com
-hostnames
-hotjar.com
-hotkeys.com
-hotlog.ru
-hotrank.com.tw
-houseads-prod.elasticbeanstalk.com
-href.li
-hs-analytics.net
-htmlhubing.xyz
-httpool.com
-huntmad.com
-hurricanedigitalmedia.com
-hybl9bazbc35.pflexads.com
-hydramedia.com
-hyperadx.com
-hyperbanner.net
-hypertracker.com
-i-clicks.net
-i-vengo.com
-i.apis.com
+googleadsense.ya.com
+grp0.ias.rakuten.co.jp
+grp01.ias.rakuten.co.jp
+grp07.ias.rakuten.co.jp
+hastrk1.com
+hastrk2.com
+hbb.afl.rakuten.co.jp
+herezera.com
+html5adkit.plusmo.s3.amazonaws.com
+i-mobile.co.jp
+i.ad-v.jp
+i.adimg.net
+i.adresult-sp.jp
+i.amoad.com
+i.exit-ad.com
 i.jumptap.com
-i.skimresources.com
+i.mt2.in
+i.po.st
+i.popin.cc
+i.socdm.com
+i.t.webtracker.jp
 i.tapit.com
 i.w.inmobi.com
 i.w.sandbox.inmobi.com
-i.xx.openx.com
-i1img.com
-i1media.no
-i2.ytimg.com
-i2ad.jp
-i3.ytimg.com
-i4.ytimg.com
-ia.iinfo.cz
-iad.anm.co.uk
-iad.appboy.com
-iadnet.com
+iadc.qwapi.com
 iadsdk.apple.com
-iamediaserve.com
-iasds01.com
-icann.com
-iconadserver.com
-icptrack.com
-icvdm.vo.llnwd.net
-id.google.com
-id.google.com.tr
-id.google.nl
-id.l.google.com
-idcounter.com
-identads.com
-idregie.com
-idsync.rlcdn.com
-idtargeting.com
-ientrymail.com
-iesnare.com
-ifa.tube8live.com
-ih.adscale.de
-ilbanner.com
-ilead.itrack.it
-illustriousoatmeal.com
-ilovecheating.com
-im2.smartadserver.com
-imageads.canoe.ca
-imagecash.net
-images-pw.secureserver.net
+iap.gameloft.com
+ib.adnxs.com
+ichi-ni-san.net
+id.d.chango.com
+igp06.gameloft.com
+igpiphone.gameloft.com
+im-ad.co.kr
+im.c.yimg.jp
+im.ecnavi.ov.yahoo.co.jp
+im.media-rep.com
+im.ov.yahoo.co.jp
+imads.integral-marketing.com
+image-ad.jp
+image-vsc.microad.jp
+image.excite.co.jp
+image.smart-c.jp
+imageads.googleadservices.com
+images.ad-maker.info
+images.astrsk.net
+images.intellitxt.com
 images.millennialmedia.com
-images.mpression.net
-images.startappservice.com
-images.taboola.com
-images.v3.com
-imarketservices.com
-imasdk.googleapis.com
-img.ads.huntmad.com
-img.ads.mobilefuse.net
+images.outbrain.com
+images.revmob.com
+img-cdn.mediaplex.com
+img.4clvr.jp
+img.ad-trip.com
+img.adcube.net
+img.adinte.jp
+img.adpon.net
 img.ads.mocean.mobi
-img.ads.mojiva.com
-img.ads.taptapnetworks.com
-img.ads1.mocean.mobi
-img.ads1.mojiva.com
-img.ads2.mocean.mobi
-img.ads2.mojiva.com
-img.ads3.mocean.mobi
-img.ads3.mojiva.com
-img.ads4.mocean.mobi
-img.ads4.mojiva.com
-img.applovin.com
-img.mobusi.com
-img.prohardver.hu
-img2.zamunda.se
-imgg-cdn.steepto.com
-imgpromo.easyrencontre.com
-immobi.com
-imonitor.nethost.cz
-imp.startappservice.com
-impr.ads.justpremium.com
-imprese.cz
-impression-eu.adikteev.com
-impressionmedia.cz
-impressionz.co.uk
-imrworldwide.com
-imtrck.com
-in-app
-in.treasuredata.com
-inboxdollars.com
-incentaclick.com
-inclk.compopup
-incognitosearches.com
-incoming.telemetry.mozilla.org
-incrediblesugar.com
-indexww.com
-indieclick.com
-industrybrains.com
-inetlog.ru
-infinite-ads.com
-infinityads.com
-info.static.startappservice.com
-information.com
+img.ads.mreco0.jp
+img.ak.impact-ad.jp
+img.appads.com
+img.appps.jp
+img.astrsk.net
+img.fam-ad.com
+img.fluct.jp.eimg.jp
+img.livepoint.co.kr
+img.macromill.com
+img.sp-click2.jp
+img.xrea.com
+img02.gamevil.com
+img1.nend.net
+img41.sp-click2.jp
+img42.sp-click2.jp
+img43.sp-click2.jp
+img44.sp-click2.jp
+img45.sp-click2.jp
+img6.atwiki.jp
+imgj.xrea.com
+imgsbox.jp
+imp.asahi.com
+imp.ebis.ne.jp
+impact.applifier.com
+ingamead.gameloft.com
+ingameads.gameloft.com
+ingameads2.gameloft.com
 ingamesads.gameloft.com
-init.startappexchange.com
-init.startappservice.com
-init.supersonicads.com
-inmobi.net
 inmobisdk-a.akamaihd.net
-inner-active.com
-inneractive.com
-inringtone.com
-insightexpress.com
-inskin.vo.llnwd.net
-inspectorclick.com
-instagram.ford1-1.fna.fbcdn.net
-installrevenue.com
-instantmadness.com
-instinctiveads.com
-intelliads.com
-interactive.forthnet.gr
-intergi.com
-internetfuel.com
-interreklame.de
-interstat.hu
-intouch.adinfuse.com
-intowow.com
-investingchannel.com
-ip.ro
-ip193.cn
-iperceptions.com
-ipro.com
-iq.reklamselfie.com
-ireklama.cz
-ironsource.com
-is
-itfarm.com
-itop.cz
-its-that-easy.com
-itsptp.com
-itx5-publicidad.smartadserver.com
-itx5.smartadserver.com
+inneractive-assets.s3.amazonaws.com
+integral-marketing.com
+integration.rovio.events.medio.com
+interstatic01.gameloft.com
+intr.shinobi.jp
+invitemedia.com
+ios.bcfads.com
+iosads24.adcolony.com
+iphone.gameloft.com
+iphone.trafficgate.net
+ir-na.amazon-adsystem.com
+ir.doubleclick.net
 iv.doubleclick.net
-ivwbox.de
-ivykiosk.com
+j.adlooxtracking.com
+j.adticker.net
+j.amoad.com
+j.guile.jp
+j.microad.net
+j.zucks.net.zimg.jp
 jadserve.postrelease.com
-jampp.com
 japan.inmobi.com
-javacript.gq
-jcount.com
-jewelcheese.com
-jinkads.de
-jmp9.com
-joetec.net
-joneself.com
-jqtsknmobyw.com
-js.adscale.de
+jobsetter.info
+jp.at.atwola.com
+js.ad-stir.com
+js.adjust-sp.jp
+js.admeld.com
+js.adsonar.com
+js.bspd.jp
+js.fout.jp
+js.gsspcln.jp
+js.inmobi-jp.com
+js.kau.li
 js.moatads.com
-js.users.51.la
-js4386.fujianryt.com
+js.mtburn.com
+js.nordot-connect.jp
+js.octopuspop.com
+js.revsci.net
+js.tapone.jp
+js1.nend.net
+js2.nend.net
+js3.nend.net
+js4.nend.net
+js5.nend.net
+js6.nend.net
+js7.nend.net
+js8.nend.net
+js9.nend.net
 jsc.adskeeper.co.uk
-jsc.marketgid.com
+jsc.dt07.net
 jsc.mgid.com
-jscminer.com
-jscount.com
-jsecoin.com
-jssdk.rayjump.com
-juegos.leadzu.com
-juiceadv.com
-jumptab
-jumptab.com
-jumptap.com
+jsn.dt07.net
 jupiter.appads.com
-jupiter1.appads.com
-jupiter2.appads.com
-jupiter3.appads.com
-justad.mobi
-justrelevant.com
-justwebads.com
-k.iinfo.cz
-k9anf8bc.webcam
-kanoodle.com
-kargo.com
-karonty.com
-kavanga.ru
-keydot.net
-keymedia.hu
-kii.com
-kiip.com
-kimia.com
-kindads.com
-kiosked.com
-kissmetrics.com
-kissmyads.go2jump.org
-kjos.vo.llnwd.net
-kliks.nl
-kliplabs.com
-kniverto.com
-knorex.com
-koinser.in
-komli.com
-komoona.com
-kompasads.com
-kontera.com
-krutilka.net
-kt-g.de
+k.zucks.net
+ko.snstatic.fi
+kona.kontera.com
 ktu.sv2.biz
-l0-secure.videohub.tv
-l3op.info
-lacerta.space
-lakequincy.com
-launchbit.com
-layer-ad.de
-layer-ads.de
-lb.usemaxserver.de
-lbn.ru
-lct.salesforce.com
-lead-analytics.nl
-leadboltads.net
-leadclick.com
-leadingedgecash.com
-leadzupc.com
-leanplum.com
-lemmonet.azurewebsites.net
-levelrate.de
-lgse.com
-li546-199.members.linode.com
-liftdna.com
-ligatus.de
-lightningcast.com
-lightningcast.net
-lightspeedcash.com
-limpingline.com
-link-booster.de
-link4ads.com
-linkadd.de
-linkbuddies.com
-linkexchange.com
-linkprice.com
-linkrain.com
-linkreferral.com
-links-ranking.de
-linkshighway.com
-linkstorms.com
-linkswaper.com
-linktarget.com
-linkz.it
-liquidad.narrowcastmedia.com
-listat.biz
-live-collect-1709264271.us-east-1.elb.amazonaws.com
-live.chartboost.com
-live.hyprmx.com
-lizardslaugh.com
-ln.doubleclick.net
-loading321.com
-log.apk.v-mate.mobi
-log.btopenworld.com
-log.mobpowertech.com
-log.pinterest.com
-log.quora.com
-logger.snackly.co
-logger.tresensa.com
-logua.com
-loopme.me
-lop.com
-lopsidedspoon.com
-loudloss.com
+kuki.js.test.octopuspop.com
+landingpages.millennialmedia.com
+lassboss.com
+lax1.ib.adnxs.com
+leadback.advertising.com
+link-a.net
+linker.adsee.jp
+live.rads.msn.com
+log.outbrain.com
+log.smartnews-ads.com
+lotate.adtune.jp
+lp.mmstudio.mydas.mobi
 lp.mp.mydas.mobi
-lp.mydas.mobi
-lp3tdqle.com
-lptag.liveperson.net
-lucidmedia.com
-lucklayed.info
-lumpyleaf.com
-luxadv.com
-lv3ns1.ffdns.net
-lv3ns2.ffdns.net
-lv3ns3.ffdns.net
-lv3ns4.ffdns.net
-lxqcgj.com
-lzjl.com
-m.12306media.com
+lv.appads.com
+m.2mdn.net
 m.admob.com
-m.adnxs.com
-m.adsymptotic.com
-m.airpush.com
+m.adtc.daum.net
+m.apbox.naver.com
 m.doubleclick.net
-m.jakc0.com
-m.jsqinvest.com
-m.mrsasharingspace.com
-m.nbhaosheng168.com
-m.servedby-buysellads.com
-m.trb.com
+m.one.impact-ad.jp
+m.servebom.com
+m1.2mdn.net
 m2m1.inner-active.mobi
-m32.media
-m4.afs.googleadservices.com
-m4n.nl
-m6c8a.mobzaz.com
-ma-code.ru
 ma.inmobi.com
-mackeeperapp.mackeeper.com
-mad.mobisky.pl
-madadsmedia.com
-madclient.uimserv.net
-madisonavenue.com
-madnet.ru
-mads.bz
-mads.cnet.com
-madvertise.com
-mainadv.com
-many
-marchex.com
-market-buster.com
+maad.maru.jp
+mads.advertising.com
+mads.at.atwola.com
 marketing.888.com
-marketing.hearstmagazines.nl
-marketing.nyi.net
-marketing.osijek031.com
-marketingsolutions.yahoo.com
-marketplace-ios-.hyprmx.com
-markmonitor.com
-markmonitor.de
-marmonitor.com
-maroonspider.com
-mas.sector.sk
-mastermind.com
-match.adsrvr.org
-match.taboola.com
-matchcows.com
-matchcraft.com
-matheranalytics.com
-mathtag.com
-matomy.com
-maudau.com
-max.i12.de
-maximumcash.com
-mbn.com.ua
-mbs.megaroticlive.com
-mbuyu.nl
-mc.yandex.ru
-mdn1.phluantmobile.net
-mdn2.phluantmobile.net
-mdn3.phluantmobile.net
-mdn3origin.phluantmobile.net
-measuremap.com
-mebof.com
-med-api.admost.com
-med.heyzap.com
-media-adrunner.mycomputer.com
-media-match.com
-media-servers.net
+mars.appads.com
+match.seesaa.jp
+max.crwd.io
+md.exblog.jp
+media-b.jp
+media-rep.com
+media.888.com
 media.admob.com
-media.admon.com
-media.ftv-publicite.fr
-media.funpic.de
-media.go2speed.org
-media.mobpartner.mobi
-media.motrixi.com
+media.fastclick.net
+media.gssp.asia
 media.mydas.mobi
-media6degrees.com
-mediaarea.eu
-mediabridge.cc
-mediacharger.com
-mediadvertising.ro
-mediaforge.com
-mediageneral.com
-mediaiqdigital.com
-mediamath.com
-mediamgr.ugo.com
-mediaplazza.com
-mediascale.de
-mediaserver.bwinpartypartners.it
-mediate-ios-.hyprmx.com
-mediatext.com
-mediatrking.com
-mediavine.com
-mediavoice.com
-mediax.angloinfo.com
-mediaz.angloinfo.com
-medleyads.com
-medrx.sensis.com.au
-meendocash.com
-megacash.de
-megago.com
-megawerbung.de
-mesu.g.aaplimg.com
-met.adwhirl.com
-metaffiliation.com
-metamx.com
-metanetwork.com
-metavertising.com
-methodcash.com
-metrics.cnn.com
-metrics.ctv.ca
-metrics.foxnews.com
-metrics.govexec.com
-metrics.windowsitpro.com
-metrilo.com
-mgage.com
-mi.gdt.qq.com
-miarroba.com
-microstatic.pl
-microticker.com
-midnightclicking.com
-midoweb.offerstrack.net
-millenialmedia.com
-millennialmedia.com
-minimob.com
-misslk.com
-misstrends.com
-mixadvert.com
-mixedreading.com
-mixmarket.biz
-mixpanel.com
-mixpanel.tresensa.com
-mixtraffic.com
-mjxads.internet.com
-ml314.com
-mlm.de
+media.trafficfactory.biz
+media.trafficjunky.net
+mediaplex.fr
+mercury.appads.com
+meta.wikimedia.org
+mf.adsymptotic.com
 mm.chitika.net
-mmedia.com
-mmismm.com
-mmnetwork.mobi
-mmtro.com
-mnectar.com
-moatads.com.edgekey.net
+mmv.admob.com
+mnw.bandainamcoid.com
+mnwimg.s3.amazonaws.com
 mob.adwhirl.com
-mob.huimee.net
-mob.system-onlline.com
 moba8.net
-mobad.ijinshan.com
-mobads4app.com
-mobalert.net
-mobicow.com
-mobidea.com
-mobile-click.biz
-mobile.banzai.it
-mobile.mediabrix.com
-mobile.mng-ads.com
-mobile333.com
-mobileads.msn.com
-mobileantivirus.review
-mobilebanner.ru
-mobilecore.com
-mobiledl.adboe.com
-mobiledl.adobe.com
-mobilehero3s.com
-mobileiconnect.com
-mobileplay.mobi
-mobilityware.helpshift.com
-mobobeat.com
-moboland.net
-mobon.com
-mobpartner
-mobpartner.com
-mobpartner.mobi
-mobrain.com
-mobred.net
-mobsrv.in
-mobvista.com
-mobzver.ru
-mocean.com
-mofox.com
-moggattice.com
-mokmhp.com
-mologiq.net
-monetate.net
-moneyexpert.com
-mongobd.com
-monsterpops.com
-mookie1.com
-mopub-win-us-east.bksn.se
-mopub.web107-east.manage.com
-morgdm.ru
-motiveinteractive.com
-moupdate1.kingsoft-office-service.com
-mouseflow.com
-moversa.com
-movip.wps.com
-mowfruit.com
-mpartner.googleadservices.com
-mpire.com
-mprezchc.com
-mpstat.us
-mpx.mopub.com
-mr-rank.de
-mrskincash.com
-msales.com
-msbmopod.vo.llnwd.net
-msbrandent.vo.llnwd.net
-msntest.serving-sys.com
-mstrlytcs.com
-mt.rtmark.net
-mtbadedrhcx.bid
-mtburn.jp
-mtrcs.samba.tv
-mtrcss.com
-mtree.com
-musiccounter.ru
-muwmedia.com
-mwc.velti.com
-mxtads.com
-mxttrf.com
-mxvp-ad-config-prod-1.zenmxapps.com
-mxvp-feature-toggle-prod-1.zenmxapps.com
+mobile.adnxs.com
+mobile.juicyads.com
+mobile.smartadserver.com
+modmyi.us.intellitxt.com
+motifcdn.doubleclick.net
+motifcdn2.doubleclick.net
+mp.mydas.mobi
+mresell.macworld.co.uk
+msr.pyxis-social.com
+muimerpni.biz
 my.hellobar.com
-my.matterport.com
-my.rtmark.net
-myaffiliateprogram.com
-mybloglog.com
-mybuys.com
-mycounter.ua
-myinfotopia.com
-mymoneymakingapp.com
-mypagerank.net
-mypagerank.ru
-mypowermall.com
-mystat-in.net
-mystat.pl
-mythings.com
-mytop-in.net
-mytrafficads.com
-mzbcdn.net
-n3302ad.doubleclick.net
-n3349ad.doubleclick.net
-n4061ad.doubleclick.net
+my.mobfox.com
+mydas.mobi
+n339.asp-cc.com
+n4052ad.doubleclick.net
+n4061ad.hk.doubleclick.net
 n4403ad.doubleclick.net
 n479ad.doubleclick.net
-n69.com
-naiadsystems.com.invalid
-naj.sk
-namimedia.com
-nanigans.com
-nastydollars.com
-native.cli.bz
-nativead.s3.amazonaws.com
-nativex.com
-navigationshilfe.t-online.de
-navigationshilfe1.t-online.de
-navigator.io
-navigon.vo.llnwd.net
-navrcholu.cz
-nbjmp.com
-ncaudienceexchange.com
-ndparking.com
-neads.delivery
-nearbyad.com
-nedstat.com
-nedstat.nl
-nedstatbasic.net
-nedstatpro.net
-neocounter.neoworx-blog-tools.net
-neoffic.com
-nephritish.com
+native.sharethrough.com
+nb.gamevil.com
+nend.net
 neptune.appads.com
 neptune1.appads.com
+neptune11.appads.com
+neptune12.appads.com
+neptune13.appads.com
 neptune2.appads.com
 neptune3.appads.com
-net-filter.com
-net.rayjump.com
-netaffiliation.com
-netagent.cz
-netavenir.com
-netcommunities.com
-netdirect.nl
-netdna.reporo.net
-netincap.com
-netpool.netbookia.net
-netseer.com
-netshelter.net
-networld.hk
-neudesicmediagroup.com
-newads.bangbros.com
-newbie.com
-newnet.qsrch.com
-newnudecash.com
-newopenx.detik.com
-newsnet.in.ua
-newstarads.com
-newt1.adultadworld.com
-newt1.adultworld.com
-newtopsites.com
-nexac.com
-nexage.akadns.net
-ng3.ads.warnerbros.com
+new.search.popin.cc
+news-assets.rovio.com
 ngs.impress.co.jp
-ninjagod.com
-nitroclicks.com
-njs.manhuahome.com
-nkredir.com
-nmcdn.us
-node428.fractionalmedia.com
-nomalleadzuaff.com
-nonmoves.date
-north-america.pool.ntp.org
-notify.nuviad.com
-novem.pl
-ns-cloud-e1.domains.com
-ns-cloud-e2.domains.com
-ns-cloud-e3.domains.com
-ns-cloud-e4.domains.com
-ns-d01.mopub.com
-ns-d02.mopub.com
-ns-r01.mopub.com
-ns-r02.mopub.com
-ns.buydomains.com
-ns.inwx.de
-ns.nationala-1advertising.com
-ns0.dnsmadeeasy.com
-ns0.phase8.net
-ns1.amobee.com
-ns1.bluehost.com
-ns1.bodis.com
-ns1.dnsmadeeasy.com
-ns1.domains.com
-ns1.dynadot.com
-ns1.epom.com
-ns1.inmobi.com
-ns1.iswest.net
-ns1.libyanspider.com
-ns1.markmonitor.com
-ns1.mediaplex.com
-ns1.namebrightdns.com
-ns1.phase8.net
-ns1.slicehost.net
-ns1.softlayer.com
-ns1.tela-web.com
-ns1.voodoo.com
-ns1.yahoo.com
-ns10.dnsmadeeasy.com
-ns11.cloudns.net
-ns11.dnsmadeeasy.com
-ns12.cloudns.net
-ns12.dnsmadeeasy.com
-ns13.cloudns.net
-ns13.dnsmadeeasy.com
-ns13.schlund.de
-ns14.cloudns.net
-ns14.dnsmadeeasy.com
-ns14.schlund.de
-ns15.dnsmadeeasy.com
-ns1p.net
-ns1stv.name.com
-ns2.
-ns2.amobee.com
-ns2.bluehost.com
-ns2.bodis.com
-ns2.dnsmadeeasy.com
-ns2.domains.com
-ns2.dynadot.com
-ns2.inmobi.com
-ns2.inwx.de
-ns2.iswest.net
-ns2.libyanspider.com
-ns2.markmonitor.com
-ns2.mediaplex.com
-ns2.namebrightdns.com
-ns2.nationala-1advertising.com
-ns2.parkingcrew.net
-ns2.phase8.net
-ns2.slicehost.net
-ns2.softlayer.com
-ns2.tela-web.com
-ns2.voodoo.com
-ns2.yahoo.com
-ns200.anycast.me
-ns2cqs.name.com
-ns3.amobee.com
-ns3.domains.com
-ns3.inmobi.com
-ns3.inwx.de
-ns3.libyanspider.com
-ns3.markmonitor.com
-ns3.nationala-1advertising.com
-ns3.slicehost.net
-ns3.tela-web.com
-ns3.yahoo.com
-ns3nrz.name.com
-ns4.amobee.com
-ns4.dnsmadeeasy.com
-ns4.domains.com
-ns4.inmobi.com
-ns4.libyanspider.com
-ns4.markmonitor.com
-ns4.yahoo.com
-ns45.epom.com
-ns4hmp.name.com
-ns5.
-ns5.markmonitor.com
-ns5.yahoo.com
-ns57.worldnic.com
-ns58.worldnic.com
-ns6.
-ns6.markmonitor.com
-ns6.yahoo.com
-ns61.1and1.fr
-ns62.1and1.fr
-ns69.worldnic.com
-ns7.
-ns7.markmonitor.com
-ns70.worldnic.com
-nsg1.namebrightdns.com
-nsg2.namebrightdns.com
-ntv.io
-numax.nu-1.com
-numbers.md
-nuseek.com
-nxtck.com
-nycp-hlb.dvgtm.akadns.net
-nytelecom.vo.llnwd.net
-nzaza.com
-o.skimresources.com
-o0e.ru
-oas.benchmark.fr
-oas.foxnews.com
-oas.repubblica.it
-oas.roanoke.com
-oas.salon.com
-oas.toronto.com
-oas.uniontrib.com
-oas.villagevoice.com
-oasc04012.247realmedia.com
-oascentral.businessweek.com
-oascentral.chicagobusiness.com
-oascentral.fortunecity.com
-oascentral.register.com
-oclaserver.com
-oclasrv.com
-ocsp.comodoca.com
-ocsp.int-x3.letsencrypt.org
-oewa.at
-oewabox.at
-offerforge.com
-offergold.online
-offermatica.com
-ogury.com
-okwljypglchl.com
-olivebrandresponse.com
-omaze.com
-on
-onclickprediction.com
-oneandonlynetwork.com
-onenetworkdirect.com
-onesignal.com
-onestat.com
-onestatfree.com
-ongkidcasarv.com
-online-metrix.net
-onlinecash.com
-onlinecashmethod.com
-onlinerewardcenter.com
-open.oneplus.net
+nl.appads.mobi
+nordot-connect.genieesspv.jp
+novadune.com
+ns1.backbeatmedia.com
+ns2.backbeatmedia.com
+nym1.ib.adnxs.com
+odb.outbrain.com
+onclickads.net
+one.impact-ad.jp
+op.searchteria.co.jp
+op2.searchteria.co.jp
+op3.searchteria.co.jp
+op4.searchteria.co.jp
+op5.searchteria.co.jp
+op6.searchteria.co.jp
+op7.searchteria.co.jp
+op8.searchteria.co.jp
+op9.searchteria.co.jp
 openad.tf1.fr
-openad.travelnow.com
-openads.friendfinder.com
-openads.org
-openamp-error-reporting.appspot.com
-openx.angelsgroup.org.uk
-openx.blindferret.com
-opienetwork.com
-optimatic.com
-optimize-stats.voxmedia.com
-optimize.doubleclick.net
-optimost.com
-optmd.com
-optrffaeh8sm485e78mckfl6h.stream
-orange-fr.adinfuse.com
-orangeuk-mc.adinfuse.com
-ordingly.com
-orencia.pflexads.com
-os.scmpacdn.com
-oscp.apple.com
-ota.cartrawler.com
-otto-images.developershed.com
-outcome.supersonicads.com
-ovalpigs.com
+openclick.com
+openclik.com
+opr.formulas.jp
+opt.ximad.com
+origin.collective-media.net
+otapict.com
+out.popads.net
+out.sp-click2.jp
+out41.sp-click2.jp
+out42.sp-click2.jp
+out43.sp-click2.jp
+out44.sp-click2.jp
+out45.sp-click2.jp
+outbrain.com
+output.nend.net
 overture.com
-owap.su
-owebmoney.ru
-owneriq.net
-oxado.com
-oxcash.com
-oxen.hillcountrytexas.com
-ozcletvvphmy.com
+owb101.goo.ne.jp
+ox-d.wuv.servedbyopenx.com
+ox-i.ad-maker.info
 p.admob.com
-p.adsymptotic.com
-p.medialytics.com
-p.skimresources.com
-p232207.clksite.com
-p31770.clksite.com
-pagead-googlehosted.i.google.com
-pagead-googlehosted.l.google.com
-pagead.l.doubleclick.net
+p22.atemda.com
+packager.ximad.com
+pagead.googlesyndication.com
 pagead.l.google.com
 pagead2.googleadservices.com
-pagead46.l.doubleclick.net
-pagefair.com
-pagefair.net
-pagerank-ranking.de
-pagerank-submitter.de
-pagerank-united.de
-pagerank4you.com
-pageranktop.com
-pakcircles.com
-pameless.info
-parameter.lionmobi.com
-params.prod.mwx.ext.mobilityware.com
-parse.ly.invalid
-parsely.com
-partage-facile.com
-partner-ads.com
+pagead2.googlesyndication.com
+pagead2.googlesyndication.com #[Google AdWords]
 partner.googleadservices.com
-partner.pelikan.cz
-partner.topcities.com
-partnerad.l.com
 partnerad.l.doubleclick.net
-partnerad.l.google.com
-partnercash.de
-partnerearning.com
-partners.priceline.com
-passion-4.net
-passionteck.com
-pay-ads.com
-paycounter.com
-paypopup.com
-payserve.com
-pbnet.ru
-pbterra.com
-pcash.imlive.com
-pdn.applovin.com
-pdns1.ultradns.net
-pdns2.ultradns.net
-pdns3.ultradns.org
-pdns4.ultradns.org
-pdns5.ultradns.info
-pdns6.ultradns.co.uk
-peacepowder.com
-peep-auktion.de
-peer39.com
-pennyweb.com
-pepperjamnetwork.com
-percentmobile.com
-perf-events.cloud.unity3d.com
-perfectaudience.com
-perfiliate.com
-performancerevenue.com
-performancerevenues.com
-performancing.com
-permutive.com
-persona.ly
-personagraph.com
-personaly.com
-pgmediaserve.com
-pgpartner.com
-pheedo.com
-phluant.com
-phluantmobile.net
-phoenix-adrunner.mycomputer.com
-photographpan.com
-phpadsnew.new.natuurpark.nl
-phpmyvisites.net
-picadmedia.com
-piet2eix3l.com
-pietexture.com
-pillscash.com
-pimproll.com
-pixel-a.sitescout.com
-pixel.admobclick.com
+partners.swoop.com
+paypalssl.doubleclick.net
+pds.directrev.com
+phobos.apple.com.lp.mydas.mobi
 pixel.adsafeprotected.com
-pixel.advertising.com
-pixel.condenastdigital.com
-pixel.digitru.st
-pixel.jumptap.com
-pixel.keywee.co
-pixel.moatads.com
+pixel.mathtag.com
+pixel.quantserve.com
 pixel.redditmedia.com
-pixel.tapad.com
-pixfuture.net
-pl.263gmail.org
-play4traffic.com
-playhave.com
-playmobileads.com
-plugin.mediavoice.com
-plugrush.com
-pocketmath.com
-pointroll.com
-polyad.net
-polymorphicads.jp
-pontiflex.com
-pool.ntp.org
-pop-under.ru
-popander.mobi
-popcash.net
-popflawlessads.com
-popmarker.com
-popmyads.com
-poptm.com
-popub.com
-popularitish.com
-popunder.ru
-popunderz.com
-popup.msn.com
-popupmoney.com
-popupnation.com
-popups.infostart.com
-popuptraffic.com
-popwebfun.com
-porngraph.com
-pornohab.xyz
-porntrack.com
-possibleboats.com
-postrelease.com
-potenza.cz
-powerclear.lionmobi.com
-ppq.apple.com
-pr-ten.de
-practicetoothpaste.com
-praddpro.de
-prchecker.info
-prebid.adnxs.com
-prebid.districtm.ca
-precisioncounter.com
-predictad.com
-premium-offers.com
-presetrabbits.com
-primaryads.com
-prime31.com
-primetime.net
-privatecash.com
-privy.com
-pro-advertising.com
-pro.i-doctor.co.kr
-prod-a.applovin.com
-proext.com
-profero.com
-profitrumour.com
-promo.badoink.com
-promo.ulust.com
-promo1.webcams.nl
-promobenef.com
-promos.bwin.it
-promos.fling.com
-promote.pair.com
-promotion-campaigns.com
-pronetadvertising.com
-proranktracker.com
-prosperent.com
-proton-tm.com
-protraffic.com
-provexia.com
-provideplant.com
-prre.ru
-prsitecheck.com
-ps7894.com
-psstt.com
-pub.chez.com
-pub.club-internet.fr
-pub.hardware.fr
-pub.realmedia.fr
-pub1.co
-publicidad.elmundo.es
-pubs.lemonde.fr
-puffnetwork.com
-puhtml.com
-pulse360.com
-pushcrew.com
-pushengage.com
-pw.lpsxssm.com
-px.adhigh.net
-px.cdn.creative.medialytics.com
-px.dynamicyield.com
-px.motoads.com
-pxl.connexity.net
-pzkqiwezugsucg.com
-q.azcentral.com
-q4mn.adj.st
-qctop.com
-qgss8.com
-qnsr.com
-qservz.com
-quaintcan.com
-quantcast.com
+pixel.rubiconproject.com
+pixel.wp.com
+pluto.appads.com
+pornhub.kolestence.com
+pp.iij4u.or.jp
+pq-direct.revsci.net
+pr.m.mixi.jp
+pr.mixi.jp
+prm.europacash.com
+projectwonderful.com
+promo.kappboom.com
+proxy.img.mc0.jp
+pt.iogous.com
+pt.trafficjunky.net
+pub.clicksor.net
+pubads.g.doubleclick.net
+public.astrsk.net
+px.a8.net
+px.moba8.net
+q1mediahydraplatform.com
 quantserve.com
-quarterserver.de
-queepofoffer.bid
-questaffiliates.net
-quicksandear.com
-quigo.com
-quinst.com
-quisma.com
+qwapi.com
+r.admob.com
+r.advg.jp
+r.doprads.jp
 r.edge.inmobicdn.net
-r.mobpartner.mobi
-r.remarketingpixel.com
 r.skimresources.com
 r.w.inmobi.com
-r1---sn-j5huxa-qa5e.googlevideo.com
-r5---sn-p5qlsndr.googlevideo.com
-r5.sn-h0jeen7d.googlevideo.com
-r7mediar.compopup
-radar.cedexis.com
-radarurl.com
-radiate.com
-radiumone.com
-rampidads.com
-rank-master.com
-rank-master.de
-rankchamp.de
-ranking-charts.de
-ranking-hits.de
-ranking-id.de
-ranking-links.de
-ranking-liste.de
-ranking-street.de
-rankingchart.de
-rankingscout.com
-rankyou.com
-rapidcounter.com
-rate.ru
-ratings.lycos.com
-rb1.design.ru
-rbb.ic.llnwd.net
-rbnt.org
-rd.intl.doubleclick.net
-reachjunction.com
-reactx.com
-readgoldfish.com
-realcastmedia.com
-realclever.com
-realclix.com
-realmedia-a800.d4p.net
-realtechnetwork.com
-realtracker.com
-reate.info
-receptiveink.com
-recommend.apk.v-mate.mobi
-redirect.privateadtracking.com
-redirector.googlevideo.com
-redirector.gvt1.com
-redirectvoluum.com
-reduxmedia.com
-reedbusiness.com.invalid
-ref.bet3go.com
-referralware.com
-refpalps.top
-register.appsflyer.com
-registeridm.com
-regnow.com
-reinvigorate.net
-rek.mobi
-reklam.bahisanaliz2.com
-reklam.rfsl.se
-reklama.mironet.cz
-reklama.reflektor.cz
-reklamcsere.hu
-reklame.unwired-i.net
-reklamer.com.ua
-reklamz.com
-relap.io
-relevanz10.de
-relmaxtop.com
-remarketingpixel.com
-remotead.cnet.com
-remox.com
-reports.crashlytics.com
-republika.onet.pl
+r.yoz.io
+rad.live.com
+rad.msn.com
+rcm-images.amazon.com
+rcm-it.amazon.it
+rcm-na.amazon-adsystem.com
+rd.adingo.jp
+rd.xlisting.jp
+recommend.popin.cc
+red.st-hatena.com
+redc.sakura.ne.jp
 req.appads.com
 req.startappservice.com
 req1.appads.com
 req2.appads.com
 req3.appads.com
-res1.applovin.com
-responsys.hs.llnwd.net
-retargeter.com
-revenue.net
-revenuedirect.com
-richmails.com
+req4.appads.com
+req5.appads.com
+req6.appads.com
+req7.appads.com
+req8.appads.com
+req9.appads.com
+resources.infolinks.com
+revmob-creatives.s3.amazonaws.com
 richmedia.yimg.com
-richpays.com
-richwebmaster.com
-rlcdn.com
-rle.ru
-rmads.msn.com
-rmedia.boston.com
-roar.com
-robocat.me
-robotreplay.com
-roia.biz
-rok.com.com
-roletaryk.info
-rose.ixbt.com
-rotabanner.com
-roxr.net
-rpc-tapjoy-com-lb-1378811527.us-east-1.elb.amazonaws.com
-rqsndrkezz.com
-rs-staticart.ybcdn.net
-rs.mail.rupixel
-rt.applovin.com
-rt.applvn.com
-rt.mopubads.com
-rtb.adentifi.com
-rtb.adx1.com
-rtb.nexage.com
-rtb.platform.glispa.com
-rtb25.implz.com
-rtbpopd.com
-rtd.tubemogul.com
-rtmark.net
-rtwvnrgn.com
-ru-traffic.com
-ru.velti.com
-ru4.com
-rubick.gameanalytics.com
-rubicon.com
-rulerabbit.com
-runads.com
-rundsp.com
-rvvslhmmbor.com
+rma-api.gravity.com
+rmcdn.2mdn.net
+rmcdn.f.2mdn.net
+rot1.a8.net
+rot2.a8.net
+rot3.a8.net
+rot4.a8.net
+rot5.a8.net
+rot6.a8.net
+rot7.a8.net
+rot8.a8.net
+rot9.a8.net
+router.infolinks.com
+rovio-news-app.angrybirdsgame.com
+rovio-news-assets.angrybirdsgame.com
+rovio.appads.com
+rovio1.appads.com
+rovio11.appads.com
+rovio12.appads.com
+rovio13.appads.com
+rovio2.appads.com
+rovio3.appads.com
+royale-ssl.spongecell.com
+rpc-php.trafficfactory.biz
+rss.buysellads.com
+rt.gsspat.jp
+rtb.ad-stir.com
+rtb.adgrx.com
+s-dsp.send.microad.jp
 s-static.innovid.com
+s.ad131m.com
 s.adroll.com
-s.click.aliexpress.com
-s.innovid.com
-s.nvrentao8.com
+s.amazon-adsystem.com
+s.jimdo.com
+s.moatads.com
+s.nend.net
 s.pubmine.com
-s.vertamedia.com
+s.send.microad.jp
+s.skimresources.com
 s0.2mdn.net
-s2d6.com
-s3.amazonaws.com
-s3.phluant.com
-s6.chatango.com
-s79.research.de.com
-sageanalyst.net
-sail-horizon.com
-samsungacr.com
-samsungads.com
-sas816.ujikdd041o.cn
+s0.doubleclick.net
+s002.trax-ad.jp
+s1.2mdn.net
+s2.adform.net
+s2.video.doubleclick.net
+s3.buysellads.com
+san-ni-ichi.com
+sankei2ad.durasite.net
 saturn.appads.com
-saturn1.appads.com
-saturn2.appads.com
-saturn3.appads.com
-saymedia.com
-saysidewalk.com
-sb.scorecardresearch.com
-sbx.pagesjaunes.fr
-scambiobanner.aruba.it
-scarcestream.com
-scfkfridulshkd.com
-scheme.mobpowertech.com
-scopelight.com
 scorecardresearch.com
-scratch2cash.com
-script.hotjar.com
-scripte-monster.de
-scrubsky.com
-scrubswim.com
-sdk-logs.matomy.com
-sdk.adincube.com
-sdk.native123.com
-sdk.starbolt.io
-sdk.tresensa.com
-sdklogs.avocarrot.com
-sdklogs.matomy.com
-sdkm.w.inmobi.com
-sdktm.w.inmobi.com
+sdk.open.phone.igexin.com
 sdt1.corp.inmobi.com
-searchfeast.com
-searchmarketing.com
-searchramp.com
-sec.addoneappstoday.com
-secure-ds.serving-sys.com
-secure.gravatar.com
-secure.ironbeast.io
-secure.track2mobile.com
-secure.webconnect.net
+secserv.adtech.de
+secure.adnxs.com
+secure.appads.com
+secure.flashtalking.com
+secure.img-cdn.mediaplex.com
+secure.leadback.advertising.com
 securepubads.g.doubleclick.net
-sedoparking.com
-sedotracker.com
-seeq.com.invalid
-selcuksprotshd.chatango.com
-sell.internettraffic.com
-sendmepixel.com
-sensismediasmart.com.au
-separatesilver.com
-serv0.com
-serve-sys.com
+send.microad.jp
+serv.ads.pixiv.org
+serve.adplxmd.com
 serve.popads.net
-servebom.com
-servedby-buysellads.com
-servedbyadbutler.com
-servethis.com
-servg.playjarvis.com
-service-api.kingsoft-office-service.com
-service.innovid.com
-servicer.mgid.com
-services.hearstmags.com
-serving-126397893.us-east-1.elb.amazonaws.com
-serving.pixsense.net
-sessionm.com
-setting.rayjump.com
-sexadvertentiesite.nl
-sexcounter.com
-sexinyourcity.com
-sexlist.com
-sextracker.com
-sexystat.com
-sf.vserv.mobi
-shakesea.com
-shakytaste.com
-shareadspace.com
-shareasale.com
-shared.iad.appboy.com
-sharepointads.com
-shelterstraw.com
-sher.index.hu
-shinystat.com
-shinystat.it
-shiveringsail.com
-shockingswing.com
-shoppingads.com
-show.buzzcity.net
-show.niqiu99.org
-showmeboobs.xyz
-siccash.com
-sidebar.angelfire.com
-silvermob.com
-simplisticnose.com
-sinceresofa.com
-singular.net
-sinoa.com
-sitemeter.com
-sitescout.com
-sitestat.com
-siteverification.online
-sixsigmatraffic.com
-skimresources.com
-sky-connect.adinfuse.com
-sky.adinfuse.com
-skylink.vn
-sl.ivankatraff.com
-slb.gedawang.com
-slickaffiliate.com
-slopeaota.com
-smaclick.com
-smart
-smart.brvaffs.com
-smart.tinyhoneybee.com
-smart4ads.com
-smartlook.com
-smarttds.ru
-smetrics.walgreens.com
-smowtion.com
-snakesort.com
-snapads.com
-sneaklevel.com
-sneakystamp.com
-snoobi.com
-socialspark.com
-sociomantic.com
-soda.startappservice.com
-softclick.com.br
-solocpm.com
-soma.smaato.net
-somniture.stuff.co.nz
-sonobi.com
-sortable.com
-spacash.com
-spade.twitch.com
-sparkstudios.com
-specialgift.top
-specially4u.net
-specificmedia.co.uk
-specificpop.com
-spectacularsnail.com
-speedomizer.com
-speedshiftmedia.com
-spezialreporte.de
-spicesoft.com
-spicesoftads.com
-spillvacation.com
-spinbox.techtracker.com
-spinbox.versiontracker.com
-spiritscourge.com
-spklmis.com
-splash.appsgeyser.com
-sponsorads.de
-sponsorpro.de
-sponsors.thoughtsmedia.com
-spot.fitness.com
-spotxchange.com
-spykemediatrack.co
-spykemediatrack.com
-spylog.com
-spywarelabs.com
-spywarenuker.com
-spywords.com
-squeamishscarecrow.com
+serve.vdopia.com
+servedby.hrnorth.se
+servedby2.advertising.com
+server.cpmstar.com
+service.urchin.com
+setting.adzcore.com
+sh.adingo.jp
+signal-back.com
+sin1.g.adnxs.com
+skynest.rovio.com
+smartads.mobile.yahoo.co.jp
+smartadserver.com
+smartadserver.fr
+smartphone.popin.cc
+sn002.trax-ad.jp
+sn003.trax-ad.jp
+snap.snapmobile.asia
+softonicads.com
+sp-image.rinad.jp
+sp.ad.adlantis.jp
+sp.adingo.jp.eimg.jp
+sp.ads.jlisting.jp
+sp.click.adlantis.jp
+sp.gmossp-sp.jp
+spad.i-mobile.co.jp
+spadp.i-mobile.co.jp
+spadpc2.i-mobile.co.jp
+spadpc3.i-mobile.co.jp
+spapi.i-mobile.co.jp
+spcdnpc.i-mobile.co.jp
+spcdnsp.i-mobile.co.jp
+spcnv.i-mobile.co.jp
+spdeliver.i-mobile.co.jp
+spdeliverp.i-mobile.co.jp
+spn.trax-ad.jp
+spnet2-1.i-mobile.co.jp
+spnet33.i-mobile.co.jp
+spnet5.i-mobile.co.jp
+sprout-ad.com
+sprout-ad.genieesspv.jp
+spstatic.ameba.jp
+spsvc3.i-mobile.co.jp
+spsvc5.i-mobile.co.jp
+sr-r3.ace.advertising.com
+sr.mads.advertising.com
+src.4clvr.jp
+srt-srv.xlisting.jp
+srv.bebi.com
 srv.buysellads.com
-srv1.best-ads123.com
-srv15.appservinc.com
-srv24.best-ads123.com
-srwww1.com
-sscefsol.com
-ssdk.adkmob.com
-ssl-tools.bongacams.com
-ssl.-analytics.com
-ssl.gft2.de
-ssl.google-analytics.com
-ssp.lkqd.net
-ssphwy.com
-sspintrafmsmt.com
-st.chatango.com
-stage-assets.applovin.com
-stags.bluekai.com
-stampshire.info
-starffa.com
-start.freeze.com
-stat.cliche.se
-stat.dealtime.com
-stat.dyna.ultraweb.hu
-stat.kika-backend.com
-stat.pl
-stat.webmedia.pl
-stat.zenon.net
-stat24.com
-stat24.meta.ua
-statcounter.com
-static.59saniye.com
-static.a-ads.com
-static.ad4mat.net
-static.addtoany.com
-static.ads-twitter.com
-static.adsafeprotected.com
-static.best-ads123.com
-static.cdn.gtsmobi.com
-static.criteo.net
+srv.clickfuse.com
+srv.juiceadv.com
+srvpub.com
+ssend.microad.jp
+ssl.socdm.com
+ssp-bidder.i-mobile.co.jp
+ssp.advg.jp
+ssp.send.microad.jp
+static.2mdn.net
+static.adlantis.jp
+static.adroute.focas.jp
+static.adzerk.net
+static.affiliate.rakuten.co.jp
+static.ak.fbcdn.net
 static.doubleclick.net
-static.estebull.com
+static.emsservice.de
+static.exoclick.com
 static.fmpub.net
-static.hotjar.com
-static.itrack.it
-static.matterport.com
-static.xx.fbcdn.net
-staticads.btopenworld.com
-statistik-gallup.net
-statm.the-adult-company.com
-stats.appsflyer.com
-stats.blogger.com
+static.trafficjunky.net
+static.yieldmo.com
+static.zucks.net
+static.zucks.net.zimg.jp
+staticd.cdn.adblade.com
+stats.buysellads.com
 stats.g.doubleclick.net
-stats.hyperinzerce.cz
-stats.merriam-webster.com
-stats.mirrorfootball.co.uk
-stats.multiup.org
-stats.olark.com
-stats.pagefair.com
-stats.pandora.com
-stats.pflexads.com
-stats.pusher.com
-stats.self.com
-stats.townnews.com
-stats.tubemogul.com
-stats.unwired-i.net
-stats.wordpress.com
-stats.x14.eu
-stats2.self.com
-stats4all.com
-statsie.com
-statxpress.com
-steelhouse.com
-steelhousemedia.com
-stickyadstv.com
-storesurprise.com
-stormyachiever.com
-stormyshock.com
-stormysponge.com
-straightnest.com
-stratione.info
-strikead.com
-strivesidewalk.com
-structuresofa.com
-style
-su.addthis.com
-suavalds.com
-subdomains
-sube.puwangkj.com
-subscribe.hearstmags.com
-succeedscene.com
-sugoicounter.com
-sumo.com
-sumome.com
-suo.lp.mydas.mobi
-superclix.de
-superficialsink.com
-supersonic.com
-supersonicads-a.akamaihd.net
-superstats.com
-supertop.ru
-supertop100.com
-supertraff.com
-surfmusik-adserver.de
-surveyor.vo.llnwd.net
-swan-swan-goose.com
-swappit.tapad.com
-swelen.com
-swissadsolutions.com
-switchadhub.com
-swordfishdc.com
-sx.trhnt.com
-sync.ipredictive.com
-syndication.exdynsrv.com
-syndication.trafficreps.com
-syndication.twitter.com
-synthes.vo.llnwd.net
-system-security-com.xyz
-t.appsflyer.com
-t.insigit.com
-t.lkqd.net
-t.medialytics.com
-t.pusk.ru
-t2.chartboost.com
-t3q7af0z.com
-tabcompany.com
-taberei.services
-tacoda.net
-tagular.com
-tailsweep.co.uk
-tailsweep.com
-tailsweep.se
-takip.site
-takru.com
-tangerinenet.biz
-tap-nexus.appspot.com
-tap.company
-tap.company.com
-tapad
-tapad.com
-tapad.jumptap.com
-tapcreatives.net
-tapdaq-adverts.global.ssl.fastly.net
-tapfortap.com
-tapinfluence.com
-tapit.com
-tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com
-tapone.jp
-tappx.com
-tapsense.com
-tapstat.ru
-targad.de
-targetingnow.com
-targetnet.com
-targetpoint.com
-targetspot.com
-tatsumi-sys.jp
-tcads.net
-tcy.smartadserver.com
-tdxio.com
-teachscape.vo.llnwd.net
-techclicks.net
-teenrevenue.com
-telemetry.malwarebytes.com
-telemetry.tradingview.com
-telemetryverification.net
-teliad.de
-tempobanners.com
-teracreative.com
-terribleturkey.com
-test.invalid
-text-link-ads.com
-textad.sexsearch.com
-textads.biz
-textlinks.com
-textron.vo.llnwd.net
-tfag.de
-theadhost.com
-theads.me
-thebugs.ws
-thecounter.com
-therapistla.com
-therichkids.com
-thetradedesk.com
-thetrafficstat.net
-theylike.org
-thirdrespect.com
-this
-this-domain-for-sale.com
-thogethoffic.co
-thoughtleadr.com
-thoughtsondance.info
-thrnt.com
-throattrees.com
-thruport.com
-tia.timeinc.net
-tidaltv.com
-tidytrail.com
-tinybar.com
-tinypass.com
-tizerclik.com
-tizers.net
-tlp-04.kameleoon.com
-tlvmedia.com
-tm1.hoiplay.com
-tmz.vo.llnwd.net
-tnkexchange.com
-tns-counter.ru
-tntclix.co.uk
-tonefuse.com
-tongqing2015.com
-tools.bongacams.com
-top-casting-termine.de
-top-site-list.com
-top.list.ru
-top.mail.ru
-top.proext.com
-top100-images.rambler.ru
-top100.mafia.ru
-top123.ro
-top20.com.invalid
-top20free.com
-top90.ro
-topacity.info
-topbarh.box.sk
-topbucks.com
-topforall.com
-toplist.cz
-toplist.pornhost.com
-toplista.mw.hu
-toplistcity.com
-topmmorpgsites.com.invalid
-topping.com.ua
-toprebates.com
-topsafelist.net
-topsearcher.com
-topsir.com
-topsite.lv
-topsites.com.br
-topstats.com
-totemcash.com
-touchclarity.com
-touchclarity.natwest.com
-tour.brazzers.com
-toyota.vo.llnwd.net
-tpbid.com
+stimg.iand2ch.net
+strikeadcdn.s3.amazonaws.com
+sumapo.org
+sun.appads.com
+sy-tr.eamobile.com
+sync.fout.jp
+sync.mathtag.com
+sync.popin.cc
+syndication.exoclick.com
+synergy.eamobile.com
+t.adcrops.net
+t.doprads.jp
+t.neodatagroup.com
+tag.admeld.com
+tag.contextweb.com
+tags.bkrtx.com
+tap-cdn.rubiconproject.com
+tap.rubiconproject.com
+tempest.services.disqus.com
+test.adpooh.com
+textad.net
+tg.socdm.com
+titan.appads.com
 tpc.googlesyndication.com
-tpnads.com
-tq.adventurefeeds.com
-tr3reklam.com
-tracedesire.com
-track.actualitesurinternet.info
+tr.adplatform.jp
 track.adform.net
-track.adsmain.com
-track.anchorfree.com
-track.atom-data.io
-track.bestgurucourse.com
-track.celtra.com
-track.clickhubs.com
-track.cpatool.netpopup
-track.dating-4-you.com
-track.eu2.remerge.io
-track.flexlinks.com
-track.flexlinkspro.com
-track.gawker.com
-track.getoffers.top
-track.iafov.com
-track.knlob.com
-track.mct.moblin.com
-track.mvhop.com
-track.sgdmobile.com
-track.tenjin.io
-track.zorkanetwork.com
-trackalyzer.com
-tracker.icerocket.com
-tracker.marinsm.com
-trackersimulator.org
-trackimpression.com
-tracking-1611167402.us-east-1.elb.amazonaws.com
-tracking-server-prod-1.zenmxapps.com
-tracking-stvde.adsafety.net
-tracking.4v4jfe79erfxfu8z8.com
-tracking.aatkit.com
-tracking.acekoala.com
-tracking.ad688.com
-tracking.adgoji.com
-tracking.applift.com
-tracking.crunchiemedia.com
-tracking.dynamicmobilecreative.com
-tracking.gajmp.com
-tracking.internetstores.de
-tracking.klickthru.com
-tracking.lenzmx.com
-tracking.performancerevenues.com
-tracking.prumter.com
-tracking.pubpanda.com
-tracking.sumatoad.com
-tracking101.com
-trackingsoft.com
-trackjs.com
-trackmysales.com
-traff10wap.com
-traffic-exchange.com
-traffic.focuusing.com
-traffic.performingtraffic.com
-traffic.tc-clicks.com
-trafficadept.com
-trafficbalancerouting.com
-trafficholder.com
-traffichunt.com
-trafficleader.com
-trafficsecrets.com
-trafficspaces.net
-trafficstrategies.com
-trafficswarm.com
-traffictrader.net
-trafficz.com
-trafficz.net
-traffiq.com
-trafic.ro
-traktum.com
-travis.bosscasinos.com
+track.lfstmedia.com
+track.netshelter.net
+tracking.trafficjunky.net
+traffic.outbrain.com
+trax-ad.jp
 trc.taboola.com
-trekblue.com
-trekdata.com
-trialpay.com
-trk-assets.serving-technology003.com
-trk.apperol.com
-trk.appthis.io
-trk.athistraff.com
-trk.games-to-run123.com
-trk.glispa.com
-trk.serving-technology003.com
-trk.superads.cn
-trk.tracksys55.com
-trk.wrinkads.com
-tsyndicate.com
-ttringwall.com
-tvmtracker.com
-twittad.com
-twx.doubleclick.net
-udelivery.trademob.com
-uk-ad2.adinfuse.com
-uk-go.adinfuse.com
-ukbanners.com
-ums.adtech.de
-unanimis.com
-unarmedindustry.com
-underclick.ru
-unicume.com
-unilead.com
-unileadnetwork.com
-unity3d.com
-unityads.co.com
-unityads.co.uk
-unityads.com
-unityads.de
-unityads.us
-unknowntray.com
-unlimited-hacks.net
-unrulymedia.com
-unusualtitle.com
-upahco.go2affise.com
-update.sdk.batmobi.net
-updated.com
-ups.ksmobile.net
-upsight.com
-urlcash.net
-us.a1.yimg.com
-us01.rayjump.com
-usapromotravel.com
-usarmy.vo.llnwd.net
-usekahuna.com
-user-data.tfgapps.com
-userreplay.com
-userreplay.net
-utarget.co.uk
-utarget.ru
-utils.mediageneral.net
-uunyadgda1.doubleclick.net
-uunyadgds1.doubleclick.net
-v.algovid.com
-v.digitalmobilegroup.com
-v.jwpcdn.com
-v.lkqd.net
-v.ssacdn.com
-v1.cnzz.com
-v3.chartboost.com
-validclick.com
-valuead.com
-valueclick.com
-valueclickmedia.com
-valuesponsor.com
-vast.streamrail.net
-veille-referencement.com
-velti.com
-ventivmedia.com
-vericlick.com
-vertadnet.com
-veruta.com
-vervewireless.com
-vibrantmedia.com
-vid.applovin.com
-vidasys.ru
-video-ad-stats.googlesyndication.com
+trends.revcontent.com
+tt.ximad.com
+twipple.jp
+uac.advertising.com
+uedata.amazon.com
+uranus.appads.com
+us-analytics-api.gree-apps.net
+us-marketing-api.gree-apps.net
+v.adcube.net
+v1-feed.idreamsky.com
+v1-service.idreamsky.com
+v2st.shinobi.jp
+venus.appads.com
+veoxa.com
 video-stats.video.google.com
-videoplus.vo.llnwd.net
-vidora.com
-vidout.net
-view.adjust.com
-view4cash.de
-viewclc.com
-viewpoint.com
-vindicosuite.com
-vipcpms.com
-virenfrei.
-visiblemeasures.com
-visistat.com
-visit.webhosting.yahoo.com
-visitbox.de
-visual-pagerank.fr
-vogo-vogo.ru
-voicefive.com
-voicevegetable.com
-vrs.cz
-vs.tucows.com
-vungle.net
+videoslots.888.com
+vsc.send.microad.jp
 w.inmobi.com
-waiads.com
-wap-click.com
-wapstart.ru
-warlog.ru
-warply.com
-watchingthat.com
-wbn.su
-wdads.sx.atl.publicus.com
-wdig.vo.llnwd.net
-we2-e.tlnk.io
-web-stat.com
-web.informer.com
-web2.deja.com
-web63.jumptap.com
-web64.jumptap.com
-web65.jumptap.com
-webads.co.nz
-webads.com
-webads.nl
-webangel.ru
-webcash.nl
-webcounter.cz
-webcounter.goweb.de
-webgains.com
-webmaster-partnerprogramme24.de
-webmasterplan.com
-webmasterplan.de
-weborama.fr
-webpower.com
-webreseau.com
-webseoanalytics.com
-websexy.mobi
-websponsors.com
-webstat.channel4.com
-webstat.com
-webstat.net
-webstats4u.com
-webtrackerplus.com
-webtracky.com
-webtraffic.se
-webtraxx.de
-webtrendslive.com
-webview.unityads.unity3d.com
-werbung.meteoxpress.com
-west.bidtellect.com
-wetrack.it
-whaleads.com
-whenu.com
-whispa.com
-whoisonline.net
-wholesaletraffic.info
-widdit.com
-widget.twojapogoda.pl
-widgetbucks.com
-widgets-code.websta.me
+w.sharethis.com
+wac.250f.edgecastcdn.net
+wd.sharethis.com
+web-jp.ad-v.jp
+web.adblade.com
+web.fc2.com
 widgets.outbrain.com
-wikia-ads.wikia.com
-window.nixnet.cz
-wins.tng.wdc.go2trk.com
-wintricksbanner.googlepages.com
-wintricksbanner.pages.com
-witch-counter.de
-with
-wlmarketing.com
-wmhlch.com
-wmirk.ru
-wonderlandads.com
-wondoads.de
-woopra.com
-wordego.com
-worldwide-cash.net
-wpnrtnmrewunrtok.xyz
-ws-gateway.com
+ws-na.amazon-adsystem.com
+ws.tapjoyad.com
 ws.tapjoyads.com
-wsback.presage.io
-wsp.mgid.com
-wtlive.com
-wtraff.com
 wv.inner-active.mobi
-ww129.smartadserver.com
-ww13.smartadserver.com
-ww14.smartadserver.com
-ww234.smartadserver.com
 ww251.smartadserver.com
-ww264.smartadserver.com
-ww302.smartadserver.com
-ww362.smartadserver.com
-ww370.smartadserver.com
-ww381.smartadserver.com
-ww392.smartadserver.com
-ww55.smartadserver.com
-ww57.smartadserver.com
+ww400.smartadserver.fr
 ww84.smartadserver.com
-www-banner.chat.ru
-www-google-analytics.l.google.com
-www-googletagmanager.l.google.com
-www.-nocookie.com
-www.4info.com
-www.aarki.com
-www.ad.com
-www.ad4mat.de
-www.adaction.com
-www.adaptv.com
-www.adbuddiz.com
+www-lvs.veoxa.com
+www.888poker.com
+www.ac.auone-net.jp
+www.accesstrade.net
 www.adcash.com
-www.adchoices.com
-www.adcolony.com
-www.adcolony.net
-www.adcolony.org
-www.adfonic.com
-www.adgoi.com
-www.aditic.com
-www.adjuggler.com
-www.adknowledge.com
-www.admarvel.com
-www.admob.com
-www.admoda.com
-www.aerserv.com
-www.airpush.com
-www.altrooz.com
-www.amobee.com
-www.analytic-.com
-www.analytic-google.com
-www.aol.com
-www.app.io.com
-www.appannie.com
-www.apperhand.com
-www.appflood.com
-www.appia.com
-www.appio.com
-www.appleads.com
-www.applift.com
-www.applovin
-www.applovin.biz
-www.applovin.co
-www.applovin.com
-www.applovin.info
-www.applovin.net
-www.applovin.org
-www.applovin.uk
-www.applovin.us
-www.appnext.com
+www.adnxs.com
+www.adshost2.com
+www.appliedsemantics.com
 www.appnexus.com
-www.appnexus.net
-www.appodeal.com
-www.appservinc.com
-www.appsfire.com
-www.appsflyer.com
-www.appsunion.com
-www.appwiz.com
-www.avast.com
-www.avazu.com
-www.banner-link.com.br
-www.beachfrontmedia.com
-www.billymobile.com
-www.black6adv.com
-www.blutrumpet.com
-www.bodis.com
-www.brightroll.com
-www.chartboost.com
-www.chartboost.de
-www.cheetah.com
-www.clickdealer.com
-www.clickky.com
-www.cloudns.com
-www.codefuel.com
-www.conversantmedia.com
-www.cpalead.com
-www.demoad.com
-www.demoads.com
-www.djax.com
-www.dnps.com
+www.appq.biz
+www.awltovhc.com
+www.bidvertiser.com
+www.burstnet.com
+www.buysellads.com
+www.clickterra.net
+www.da-ads.com
+www.deartodear.com
+www.destinationurl.com
 www.doubleclick.com
 www.doubleclick.net
-www.doubleclickbygoogle.de
-www.drawbridge.com
-www.eltrafiko.com
-www.empire.com
-www.epom.com
-www.everyplay.com
-www.fiksu.com
-www.flurry.com
-www.fyber.com
+www.dpbolvw.net
+www.f0.dion.ne.jp
+www.f1.dion.ne.jp
+www.f2.dion.ne.jp
+www.f3.dion.ne.jp
+www.f4.dion.ne.jp
+www.f5.dion.ne.jp
+www.f6.dion.ne.jp
+www.f7.dion.ne.jp
+www.f8.dion.ne.jp
+www.f9.dion.ne.jp
+www.google-analytics.com
 www.googleadservices.com
-www.googleadservices.de
-www.googleapis.i.google.com
-www.googlesyndication.com
-www.googletagmanager.com
-www.googletagservices.com
-www.gowide.com
-www.growmobile.com
-www.heyzap.com
-www.iliveserve.com
-www.immobi.com
 www.inmobi.com
-www.inneractive.com
-www.installrevenue.com
-www.ironsource.com
-www.jampp.com
-www.jumptab.com
-www.jumptap.com
-www.kaplanindex.com
-www.kii.com
-www.kiip.com
-www.kimia.com
-www.komli.com
-www.leadbolt.com
-www.liverail.com
-www.madvertise.com
-www.markmonitor.com
-www.matomy.com
-www.mdotm.com
-www.media.net
-www.millenialmedia.com
-www.millennialmedia.com
-www.minimob.com
-www.mmedia.com
-www.mmnetwork.mobi
-www.mnectar.com
-www.mobair.com
-www.mobfox.com
-www.mobidea.com
-www.mobilecore.com
-www.mobilefuse.com
-www.mobilityware.com
-www.mobobeat.com
-www.mobpartner.com
-www.mobrain.com
-www.mobusi.com
-www.mobvista.com
-www.mocean.com
-www.moceanmobile.com
-www.mojiva.com
-www.money4exit.de
-www.mongobd.com
-www.mopub.com
-www.motiveinteractive.com
-www.moversa.com
-www.msales.com
-www.nativex.com
-www.nexage.com
-www.ogury.com
-www.omaze.com
-www.passionteck.com
-www.personaly.com
-www.pflexads.com
-www.photo-ads.co.uk
-www.playhave.com
-www.playhaven.com
-www.pocketmath.com
-www.prime31.com
-www.propellerads.com
-www.pubmatic.com
-www.radiumone.com
-www.revmob.com
-www.rubicon.com
-www.sdad.guru
-www.serveroute.com
-www.smaato.com
+www.lduhtrp.net
+www.mygooglepagerank.com
+www.outbrain.com
+www.projectwonderful.com
+www.quantserve.com
 www.smartadserver.com
-www.spicesoft.com
-www.spicesoftads.com
-www.startapp.com
-www.strikead.com
-www.supersonic.com
-www.tabcompany.com
-www.tagservices.com
-www.tap.company.com
-www.tapfortap.com
-www.tapjoy.com
-www.tapsense.com
-www.thetradedesk.com
-www.tremo.com
-www.tresensa.com
-www.trialpay.com
-www.unanimis.com
-www.unilead.com
-www.unileadnetwork.com
-www.unityads.de
-www.unityads.uk
-www.unityads.us
-www.upsight.com
-www.vdopia.com
-www.vungle.com
-www.vungle.net
-www.warply.com
-www.webads.com
-www.woobi.com
-www.ybrant.com
-www.yeahmobi.com
-www.youradchoices.com
-www.youtube-nocookie.com
-www.yume.com
-www1.gto-media.com
-www2.smartadserver.com
-www3.smartadserver.com
+www.terraclicks.com
+www.terrapops.com
+www.tqlkg.com
+www.yllix.com
+www.zergnet.com
+www1.liveads.jp
+www10.a8.net
+www10.moba8.net
+www11.a8.net
+www11.moba8.net
+www12.a8.net
+www12.moba8.net
+www13.a8.net
+www13.moba8.net
+www14.a8.net
+www14.moba8.net
+www15.a8.net
+www15.moba8.net
+www16.a8.net
+www16.moba8.net
+www17.a8.net
+www17.moba8.net
+www18.a8.net
+www18.moba8.net
+www19.a8.net
+www19.moba8.net
+www2.doubleclick.com
+www2.liveads.jp
+www20.a8.net
+www20.moba8.net
+www21.a8.net
+www21.moba8.net
+www22.a8.net
+www22.moba8.net
+www23.a8.net
+www23.moba8.net
+www24.a8.net
+www24.moba8.net
+www25.a8.net
+www25.moba8.net
+www26.a8.net
+www26.moba8.net
+www27.a8.net
+www27.moba8.net
+www28.a8.net
+www28.moba8.net
+www29.a8.net
+www29.moba8.net
+www3.doubleclick.com
+www3.doubleclick.net
+www3.liveads.jp
+www4.liveads.jp
 www4.smartadserver.com
-www8.glam.com
-wwww.adleads.com
-x-traceur.com
-x.cmobitrk.com
-x6.yakiuchi.com
-xc3-s.tlnk.io
-xchange.ro
-xclicks.net
-xertive.com
-xg4ken.com
-ximad.com
-xiti.com
-xmpie.vo.llnwd.net
-xplusone.com
-xponsor.com
-xq1.net
-xrea.com
-xtremetop100.com
-yab-adimages.s3.amazonaws.com
-yandex.ru
-yandexadexchange.net
-yeahmobi.com
-yieldads.com
-yieldkit.com
-yieldmanager.net
-yieldtraffic.com
-yoggrt.com
-youradexchange.com
-yoursdchoices.com
-youtube-nocookie.com
-yt.moatads.com
-yt.motoads.com
-yts.moatads.com
-z.motoads.com
+www5.liveads.jp
+www6.liveads.jp
+www7.liveads.jp
+www8.liveads.jp
+www9.liveads.jp
+x.bidswitch.net
+x888x.myserver.org
+xads.zedo.com
+xconf.cauly.co.kr
+xid.i-mobile.co.jp
+xml.affiliate.rakuten.co.jp
+xp2.zedo.com
+xrwd.net
+y.one.impact-ad.jp
+yads.c.yimg.jp
+yads.yahoo.co.jp
+yicha.jp
+yichaad.durasite.net
+yieldmanager.com
+yjaxc.yahoo.co.jp
+yllix.com
+::1 ocsp.apple.com
+::1 104749.sprout-ad.com
+::1 1app.blob.core.windows.net
+::1 201205igp.gameloft.com
+::1 2912a.v.fwmrm.net
+::1 29773.v.fwmrm.net
+::1 32907.y.kau.li
+::1 4.afs.googleadservices.com
+::1 511.gsspcln.jp
+::1 51983.y.kau.li
+::1 52357.y.kau.li
+::1 53093.y.kau.li
+::1 53147.y.kau.li
+::1 54173.y.kau.li
+::1 55978.y.kau.li
+::1 55979.y.kau.li
+::1 578756.gameloft.com
+::1 5be16.v.fwmrm.net
+::1 888casino.com
+::1 888media.net
+::1 9cf9.v.fwmrm.net
+::1 AdPostInjectAsync.nhn
+::1 a.ad-sys.com
+::1 a.adimg.net
+::1 a.admob.com
+::1 a.adorika.net
+::1 a.adroll.com
+::1 a.ads2.msads.net
+::1 a.adtech.de
+::1 a.appier.mobi
+::1 a.dopr.net
+::1 a.geniee.jp
+::1 a.goember.com
+::1 a.iogous.com
+::1 a.jumptap.com
+::1 a.kat.cr
+::1 a.ligatus.com
+::1 a.mx.openclick.com
+::1 a.popin.cc
+::1 a.rfihub.com
+::1 a.scorecardresearch.com
+::1 a.t.webtracker.jp
+::1 a.tribalfusion.com
+::1 a.visualrevenue.com
+::1 a02.korrelate.net
+::1 a1.goo.ne.jp
+::1 aag.yahooapis.jp
+::1 aan.amazon.com
+::1 aax-us-east.amazon-adsystem.com
+::1 aax-us-west.amazon-adsystem.com
+::1 ac0.i2i.com
+::1 ac0.i2i.jp
+::1 ac1.i2i.com
+::1 ac1.i2i.jp
+::1 ac2.i2i.com
+::1 ac2.i2i.jp
+::1 ac3.i2i.com
+::1 ac3.i2i.jp
+::1 ac3.msn.com
+::1 ac4.i2i.com
+::1 ac4.i2i.jp
+::1 ac5.i2i.com
+::1 ac5.i2i.jp
+::1 ac6.i2i.com
+::1 ac6.i2i.jp
+::1 ac7.i2i.com
+::1 ac7.i2i.jp
+::1 ac8.i2i.com
+::1 ac8.i2i.jp
+::1 ac9.i2i.com
+::1 ac9.i2i.jp
+::1 accesstrade.net
+::1 ace.advertising.com
+::1 action.adzcore.com
+::1 action.popin.cc
+::1 activity.serving-sys.com
+::1 ad-apac.doubleclick.net
+::1 ad-apec.doubleclick.net
+::1 ad-api-v01.uliza.jp
+::1 ad-banners.co
+::1 ad-ch.jp
+::1 ad-emea.doubleclick.net
+::1 ad-g.doubleclick.net
+::1 ad-house.mobi
+::1 ad-move.jp
+::1 ad-shot.com
+::1 ad-stir.com
+::1 ad-x.co.uk
+::1 ad.360yield.com
+::1 ad.adlantis.jp
+::1 ad.adtoma.com
+::1 ad.adverticum.net
+::1 ad.adxcore.com
+::1 ad.ae.doubleclick.net
+::1 ad.ams.mcdstorage.com
+::1 ad.app-liv.jp
+::1 ad.applipromotion.com
+::1 ad.ar.doubleclick.net
+::1 ad.aspm.jp
+::1 ad.at.doubleclick.net
+::1 ad.au.doubleclick.net
+::1 ad.bbc.com
+::1 ad.be.doubleclick.net
+::1 ad.bg.doubleclick.net
+::1 ad.br.doubleclick.net
+::1 ad.ca.doubleclick.net
+::1 ad.cauly.co.kr
+::1 ad.ch.doubleclick.net
+::1 ad.cl.doubleclick.net
+::1 ad.cn.doubleclick.net
+::1 ad.cnn.com
+::1 ad.cq-andc.jp
+::1 ad.crwdcntrl.net
+::1 ad.dc2.adtech.de
+::1 ad.de.doubleclick.net
+::1 ad.directrev.com
+::1 ad.dk.doubleclick.net
+::1 ad.dmm.com
+::1 ad.doubleclick.net
+::1 ad.es.doubleclick.net
+::1 ad.extendmedia.com
+::1 ad.fi.doubleclick.net
+::1 ad.fout.jp
+::1 ad.fr.doubleclick.net
+::1 ad.gameloft.com
+::1 ad.goodad.jp
+::1 ad.gr.doubleclick.net
+::1 ad.gunosy.com
+::1 ad.hk.doubleclick.net
+::1 ad.hr.doubleclick.net
+::1 ad.hu.doubleclick.net
+::1 ad.ie.doubleclick.net
+::1 ad.im-ad.co.kr
+::1 ad.in.doubleclick.net
+::1 ad.it.doubleclick.net
+::1 ad.jorudan.co.jp
+::1 ad.jp.ap.valuecommerce.com
+::1 ad.jp.doubleclick.net
+::1 ad.jp.valuecommerce.com
+::1 ad.kau.li
+::1 ad.kixer.com
+::1 ad.kr.doubleclick.net
+::1 ad.leadbolt.net
+::1 ad.leadboltads.net
+::1 ad.leadboltapps.net
+::1 ad.linkexchange.com
+::1 ad.linksynergy.com
+::1 ad.livepoint.co.kr
+::1 ad.maist.jp
+::1 ad.mdn.co.jp
+::1 ad.mega-r.com
+::1 ad.mo.doubleclick.net
+::1 ad.msn.com
+::1 ad.n2434.doubleclick.net
+::1 ad.netowl.jp
+::1 ad.nl.doubleclick.net
+::1 ad.no.doubleclick.net
+::1 ad.nz.doubleclick.net
+::1 ad.omni.se
+::1 ad.pl.doubleclick.net
+::1 ad.pr.ameba.jp
+::1 ad.pt.doubleclick.net
+::1 ad.ro.doubleclick.net
+::1 ad.rs.doubleclick.net
+::1 ad.ru.doubleclick.net
+::1 ad.se.doubleclick.net
+::1 ad.sg.doubleclick.net
+::1 ad.si.doubleclick.net
+::1 ad.smaad.jp
+::1 ad.t-ad.co.kr
+::1 ad.taptica.com
+::1 ad.terra.doubleclick.net
+::1 ad.th.doubleclick.net
+::1 ad.turn.com
+::1 ad.tw.doubleclick.net
+::1 ad.uk.doubleclick.net
+::1 ad.us.doubleclick.net
+::1 ad.ve.doubleclick.net
+::1 ad.xdomain.ne.jp
+::1 ad.yieldmanager.com
+::1 ad.za.doubleclick.net
+::1 ad0.fm-p.jp
+::1 ad0.i2i.jp
+::1 ad01.sp-click2.jp
+::1 ad02.sp-click2.jp
+::1 ad03.sp-click2.jp
+::1 ad1.emediate.dk
+::1 ad1.fm-p.jp
+::1 ad1.i2i.jp
+::1 ad1.nend.net
+::1 ad1.netshelter.net
+::1 ad1.trafficgate.net
+::1 ad2.doubleclick.net
+::1 ad2.fm-p.jp
+::1 ad2.i2i.jp
+::1 ad2.nend.net
+::1 ad2.netshelter.net
+::1 ad2.shallwead.com
+::1 ad2.trafficgate.net
+::1 ad3.fm-p.jp
+::1 ad3.i2i.jp
+::1 ad3.nend.net
+::1 ad3.netshelter.net
+::1 ad3.trafficgate.net
+::1 ad4.fm-p.jp
+::1 ad4.i2i.jp
+::1 ad4.nend.net
+::1 ad4.netshelter.net
+::1 ad4.trafficgate.net
+::1 ad5.fm-p.jp
+::1 ad5.i2i.jp
+::1 ad5.nend.net
+::1 ad5.trafficgate.net
+::1 ad6.fm-p.jp
+::1 ad6.i2i.jp
+::1 ad6.nend.net
+::1 ad6.trafficgate.net
+::1 ad7.fm-p.jp
+::1 ad7.i2i.jp
+::1 ad7.nend.net
+::1 ad7.trafficgate.net
+::1 ad8.adfarm1.adition.com
+::1 ad8.fm-p.jp
+::1 ad8.i2i.jp
+::1 ad8.nend.net
+::1 ad8.trafficgate.net
+::1 ad9.fm-p.jp
+::1 ad9.i2i.jp
+::1 ad9.nend.net
+::1 ad9.trafficgate.net
+::1 adapi.gunosy.com
+::1 adb.nikkei.co.jp
+::1 adc.media-rep.com
+::1 adc.medibaad.com
+::1 adc01.media-rep.com
+::1 adc02.media-rep.com
+::1 adc03.media-rep.com
+::1 adc04.media-rep.com
+::1 adc05.media-rep.com
+::1 adc06.media-rep.com
+::1 adc07.media-rep.com
+::1 adc08.media-rep.com
+::1 adc09.media-rep.com
+::1 adc10.media-rep.com
+::1 adc11.media-rep.com
+::1 adc12.media-rep.com
+::1 adcash.com
+::1 adcel.vrvm.com
+::1 adck.crooz.jp
+::1 adclick.g.doubleclick.net
+::1 addthis.com
+::1 ade.clmbtech.com
+::1 adf.send.microad.jp
+::1 adfurikun.jp
+::1 adimg.i2i.jp
+::1 adimg3.search.naver.net
+::1 adimp.excite.co.jp
+::1 adk2ads.tictacti.com
+::1 adkengage.com
+::1 adledge.com
+::1 adlog.flurry.com
+::1 adm.fwmrm.net
+::1 adm.shinobi.jp
+::1 admarvel.s3.amazonaws.com
+::1 admaster.heyos.com
+::1 admin.ad-count.jp
+::1 admin.ad-maker.info
+::1 admin.appnext.com
+::1 admob.biz
+::1 admob.co.kr
+::1 admob.co.nz
+::1 admob.co.uk
+::1 admob.com
+::1 admob.cz
+::1 admob.de
+::1 admob.dk
+::1 admob.es
+::1 admob.eu
+::1 admob.fi
+::1 admob.fr
+::1 admob.gr
+::1 admob.it
+::1 admob.jp
+::1 admob.kr
+::1 admob.me
+::1 admob.mobi
+::1 admob.no
+::1 admob.pt
+::1 admob.ru
+::1 admob.sg
+::1 admob.tk
+::1 admob.tw
+::1 admob.vn
+::1 admomi.com
+::1 adn.dmm.com
+::1 adntokyo.gunosy.com
+::1 adnxs.revsci.net
+::1 adone.yicha.jp
+::1 adpimg.yicha.jp
+::1 adpriv.nikkei.com
+::1 adrotator.se
+::1 adroute.focas.jp
+::1 ads-by.madadsmedia.com
+::1 ads-by.yieldselect.com
+::1 ads-east-aws.adsymptotic.com
+::1 ads-east-colo.adsymptotic.com
+::1 ads-west-colo.adsymptotic.com
+::1 ads.888media.net
+::1 ads.ad-center.com
+::1 ads.addynamix.com
+::1 ads.adjust-net.jp
+::1 ads.admarvel.com
+::1 ads.aftonbladet.se
+::1 ads.appia.com
+::1 ads.bidvertiser.com
+::1 ads.cb-cdn.com
+::1 ads.cc-dt.com
+::1 ads.cdn.rovio.com
+::1 ads.celtra.com
+::1 ads.cleveland.com
+::1 ads.cricbuzz.com
+::1 ads.exoclick.com
+::1 ads.flurry.com
+::1 ads.gameloft.com
+::1 ads.heyzap.com
+::1 ads.intergi.com
+::1 ads.juicyads.com
+::1 ads.lfstmedia.com
+::1 ads.mdotm.com
+::1 ads.mixi.jp
+::1 ads.mocean.mobi
+::1 ads.mopub.com
+::1 ads.mp.mydas.mobi
+::1 ads.nicovideo.jp
+::1 ads.nordichardware.se
+::1 ads.ntc.ace.advertising.com
+::1 ads.pinger.com
+::1 ads.pro-market.net
+::1 ads.qadservice.com
+::1 ads.reddit.com
+::1 ads.rubiconproject.com
+::1 ads.saymedia.com
+::1 ads.servebom.com
+::1 ads.smartstream.tv
+::1 ads.traffichunt.com
+::1 ads.trafficjunky.net
+::1 ads.yahoo.com
+::1 ads.yieldmo.com
+::1 ads.yimg.com
+::1 ads.youtube.com
+::1 ads1.msads.net
+::1 ads1.msn.com
+::1 ads2.contentabc.com
+::1 ads2.greystripe.com
+::1 ads2.msads.net
+::1 adsafeprotected.com
+::1 adsee.jp
+::1 adserver.adreactor.com
+::1 adserver.adtech.de
+::1 adserver.adtechus.com
+::1 adserver.exoticads.com
+::1 adserver.juicyads.com
+::1 adservices.google.com
+::1 adservices.picadmedia.com
+::1 adsformobileapps.com
+::1 adshost2.com
+::1 adsp.i2idata.com
+::1 adsta.jp
+::1 adsx.greystripe.com
+::1 adsyndication.msn.com
+::1 adtag.ad-stir.com
+::1 adtc.daum.net
+::1 adtgs.adk2x.com
+::1 adtilt.com
+::1 adtool.pumpup.jp
+::1 adtracker.inmobi.com
+::1 adv.addeluxe.jp
+::1 adv.aftonbladet.se
+::1 adv.svd.se
+::1 advisionweb.yicha.jp
+::1 advm.svd.se
+::1 adx.g.doubleclick.net
+::1 adzerk.net
+::1 aff.i-mobile.co.jp
+::1 affiliate-b.com
+::1 affiliate.2mdn.net
+::1 afs.adjust-net.jp
+::1 ah.yimg.jp
+::1 aimds.er.cyberwing.co.jp
+::1 aimg.fc2.com
+::1 aio.lp.mydas.mobi
+::1 ak.dr.cyberwing.co.jp
+::1 aka-cdn-ns.adtech.de
+::1 aka-cdn-ns.adtechus.com
+::1 aladdin.genieesspv.jp
+::1 alea.adam.daum.net
+::1 alist.unitedblades.co.jp
+::1 amoad.com
+::1 amung.us
+::1 an.appads.com
+::1 analytics.admob.com
+::1 analytics.app-adforce.jp
+::1 androidsdk.ads.mp.mydas.mobi
+::1 ant.ximad.com
+::1 ap.lijit.com
+::1 ap.octopuspop.com
+::1 ap.tapone.jp
+::1 apbox.naver.com
+::1 api.accelarts.com
+::1 api.ad-stir.com
+::1 api.ad.mediba.jp
+::1 api.adfurikun.jp
+::1 api.adsnative.com
+::1 api.airpush.com
+::1 api.behaviad.net
+::1 api.cloudflare.com
+::1 api.content.ad
+::1 api.gravity.com
+::1 api.popin.cc
+::1 api.smartnews-ads.com
+::1 api.unthem.com
+::1 api.viglink.com
+::1 api9.net
+::1 apis.google.com
+::1 apistaging.airpush.com
+::1 app-adforce.jp
+::1 app.adjust.com
+::1 app.adjust.io
+::1 app.click.livedoor.com
+::1 app.t-ad.co.kr
+::1 appads.com
+::1 appadserver.com
+::1 appfly.mobi
+::1 applitown.com
+::1 appnexus.com
+::1 apps5.oingo.com
+::1 aqua.dmm.co.jp
+::1 art.d2c.ne.jp
+::1 artinstitute.lp.mydas.mobi
+::1 as.adfonic.net
+::1 as.chango.com
+::1 as.dc.impact-ad.jp
+::1 as.ebz.io
+::1 as.mv.impact-ad.jp
+::1 as.on.impact-ad.jp
+::1 as.py.impact-ad.jp
+::1 aspm.jp
+::1 assets.applovin.com
+::1 assets.kixer.com
+::1 at.atwola.com
+::1 atdmt-a.akamaihd.net
+::1 au-01.adtomafusion.com
+::1 aud.adjust-net.jp
+::1 austria1.adverserve.net
+::1 avnads.com
+::1 axia-hakusan.com
+::1 az.trackword.net
+::1 az708531.vo.msecnd.net
+::1 b.ads2.msads.net
+::1 b.grvcdn.com
+::1 b.iogous.com
+::1 b.logly.co.jp
+::1 b1.i.adimg.net
+::1 b2.i.adimg.net
+::1 b3.i.adimg.net
+::1 b4.i.adimg.net
+::1 b5.i.adimg.net
+::1 b6.i.adimg.net
+::1 b7.i.adimg.net
+::1 b8.i.adimg.net
+::1 b9.i.adimg.net
+::1 ba2b687.se
+::1 bank-01.ads.mp.mydas.mobi
+::1 bank-02.ads.mp.mydas.mobi
+::1 bank-03.ads.mp.mydas.mobi
+::1 bank-04.ads.mp.mydas.mobi
+::1 bank-05.ads.mp.mydas.mobi
+::1 bank-06.ads.mp.mydas.mobi
+::1 bank-07.ads.mp.mydas.mobi
+::1 bank-08.ads.mp.mydas.mobi
+::1 bank-09.ads.mp.mydas.mobi
+::1 bank-10.ads.mp.mydas.mobi
+::1 bank-100.ads.mp.mydas.mobi
+::1 bank-11.ads.mp.mydas.mobi
+::1 bank-12.ads.mp.mydas.mobi
+::1 bank-13.ads.mp.mydas.mobi
+::1 bank-14.ads.mp.mydas.mobi
+::1 bank-15.ads.mp.mydas.mobi
+::1 bank-16.ads.mp.mydas.mobi
+::1 bank-17.ads.mp.mydas.mobi
+::1 bank-18.ads.mp.mydas.mobi
+::1 bank-19.ads.mp.mydas.mobi
+::1 bank-20.ads.mp.mydas.mobi
+::1 bank-21.ads.mp.mydas.mobi
+::1 bank-22.ads.mp.mydas.mobi
+::1 bank-23.ads.mp.mydas.mobi
+::1 bank-24.ads.mp.mydas.mobi
+::1 bank-25.ads.mp.mydas.mobi
+::1 bank-26.ads.mp.mydas.mobi
+::1 bank-27.ads.mp.mydas.mobi
+::1 bank-28.ads.mp.mydas.mobi
+::1 bank-29.ads.mp.mydas.mobi
+::1 bank-30.ads.mp.mydas.mobi
+::1 bank-31.ads.mp.mydas.mobi
+::1 bank-32.ads.mp.mydas.mobi
+::1 bank-33.ads.mp.mydas.mobi
+::1 bank-34.ads.mp.mydas.mobi
+::1 bank-35.ads.mp.mydas.mobi
+::1 bank-36.ads.mp.mydas.mobi
+::1 bank-37.ads.mp.mydas.mobi
+::1 bank-38.ads.mp.mydas.mobi
+::1 bank-39.ads.mp.mydas.mobi
+::1 bank-40.ads.mp.mydas.mobi
+::1 bank-41.ads.mp.mydas.mobi
+::1 bank-42.ads.mp.mydas.mobi
+::1 bank-43.ads.mp.mydas.mobi
+::1 bank-44.ads.mp.mydas.mobi
+::1 bank-45.ads.mp.mydas.mobi
+::1 bank-46.ads.mp.mydas.mobi
+::1 bank-47.ads.mp.mydas.mobi
+::1 bank-48.ads.mp.mydas.mobi
+::1 bank-49.ads.mp.mydas.mobi
+::1 bank-50.ads.mp.mydas.mobi
+::1 bank-51.ads.mp.mydas.mobi
+::1 bank-52.ads.mp.mydas.mobi
+::1 bank-53.ads.mp.mydas.mobi
+::1 bank-54.ads.mp.mydas.mobi
+::1 bank-55.ads.mp.mydas.mobi
+::1 bank-56.ads.mp.mydas.mobi
+::1 bank-57.ads.mp.mydas.mobi
+::1 bank-58.ads.mp.mydas.mobi
+::1 bank-59.ads.mp.mydas.mobi
+::1 bank-60.ads.mp.mydas.mobi
+::1 bank-61.ads.mp.mydas.mobi
+::1 bank-62.ads.mp.mydas.mobi
+::1 bank-63.ads.mp.mydas.mobi
+::1 bank-64.ads.mp.mydas.mobi
+::1 bank-65.ads.mp.mydas.mobi
+::1 bank-66.ads.mp.mydas.mobi
+::1 bank-67.ads.mp.mydas.mobi
+::1 bank-68.ads.mp.mydas.mobi
+::1 bank-69.ads.mp.mydas.mobi
+::1 bank-70.ads.mp.mydas.mobi
+::1 bank-71.ads.mp.mydas.mobi
+::1 bank-72.ads.mp.mydas.mobi
+::1 bank-73.ads.mp.mydas.mobi
+::1 bank-74.ads.mp.mydas.mobi
+::1 bank-75.ads.mp.mydas.mobi
+::1 bank-76.ads.mp.mydas.mobi
+::1 bank-77.ads.mp.mydas.mobi
+::1 bank-78.ads.mp.mydas.mobi
+::1 bank-79.ads.mp.mydas.mobi
+::1 bank-80.ads.mp.mydas.mobi
+::1 bank-81.ads.mp.mydas.mobi
+::1 bank-82.ads.mp.mydas.mobi
+::1 bank-83.ads.mp.mydas.mobi
+::1 bank-84.ads.mp.mydas.mobi
+::1 bank-85.ads.mp.mydas.mobi
+::1 bank-86.ads.mp.mydas.mobi
+::1 bank-87.ads.mp.mydas.mobi
+::1 bank-88.ads.mp.mydas.mobi
+::1 bank-89.ads.mp.mydas.mobi
+::1 bank-90.ads.mp.mydas.mobi
+::1 bank-91.ads.mp.mydas.mobi
+::1 bank-92.ads.mp.mydas.mobi
+::1 bank-93.ads.mp.mydas.mobi
+::1 bank-94.ads.mp.mydas.mobi
+::1 bank-95.ads.mp.mydas.mobi
+::1 bank-96.ads.mp.mydas.mobi
+::1 bank-97.ads.mp.mydas.mobi
+::1 bank-98.ads.mp.mydas.mobi
+::1 bank-99.ads.mp.mydas.mobi
+::1 bank10.mi.ads.mp.mydas.mobi
+::1 bank100.mi.ads.mp.mydas.mobi
+::1 bank11.mi.ads.mp.mydas.mobi
+::1 bank12.mi.ads.mp.mydas.mobi
+::1 bank13.mi.ads.mp.mydas.mobi
+::1 bank14.mi.ads.mp.mydas.mobi
+::1 bank15.mi.ads.mp.mydas.mobi
+::1 bank16.mi.ads.mp.mydas.mobi
+::1 bank17.mi.ads.mp.mydas.mobi
+::1 bank18.mi.ads.mp.mydas.mobi
+::1 bank19.mi.ads.mp.mydas.mobi
+::1 bank20.mi.ads.mp.mydas.mobi
+::1 bank21.mi.ads.mp.mydas.mobi
+::1 bank22.mi.ads.mp.mydas.mobi
+::1 bank23.mi.ads.mp.mydas.mobi
+::1 bank24.mi.ads.mp.mydas.mobi
+::1 bank25.mi.ads.mp.mydas.mobi
+::1 bank26.mi.ads.mp.mydas.mobi
+::1 bank27.mi.ads.mp.mydas.mobi
+::1 bank28.mi.ads.mp.mydas.mobi
+::1 bank29.mi.ads.mp.mydas.mobi
+::1 bank30.mi.ads.mp.mydas.mobi
+::1 bank31.mi.ads.mp.mydas.mobi
+::1 bank32.mi.ads.mp.mydas.mobi
+::1 bank33.mi.ads.mp.mydas.mobi
+::1 bank34.mi.ads.mp.mydas.mobi
+::1 bank35.mi.ads.mp.mydas.mobi
+::1 bank36.mi.ads.mp.mydas.mobi
+::1 bank37.mi.ads.mp.mydas.mobi
+::1 bank38.mi.ads.mp.mydas.mobi
+::1 bank39.mi.ads.mp.mydas.mobi
+::1 bank40.mi.ads.mp.mydas.mobi
+::1 bank41.mi.ads.mp.mydas.mobi
+::1 bank42.mi.ads.mp.mydas.mobi
+::1 bank43.mi.ads.mp.mydas.mobi
+::1 bank44.mi.ads.mp.mydas.mobi
+::1 bank45.mi.ads.mp.mydas.mobi
+::1 bank46.mi.ads.mp.mydas.mobi
+::1 bank47.mi.ads.mp.mydas.mobi
+::1 bank48.mi.ads.mp.mydas.mobi
+::1 bank49.mi.ads.mp.mydas.mobi
+::1 bank50.mi.ads.mp.mydas.mobi
+::1 bank51.mi.ads.mp.mydas.mobi
+::1 bank52.mi.ads.mp.mydas.mobi
+::1 bank53.mi.ads.mp.mydas.mobi
+::1 bank54.mi.ads.mp.mydas.mobi
+::1 bank55.mi.ads.mp.mydas.mobi
+::1 bank56.mi.ads.mp.mydas.mobi
+::1 bank57.mi.ads.mp.mydas.mobi
+::1 bank58.mi.ads.mp.mydas.mobi
+::1 bank59.mi.ads.mp.mydas.mobi
+::1 bank60.mi.ads.mp.mydas.mobi
+::1 bank61.mi.ads.mp.mydas.mobi
+::1 bank62.mi.ads.mp.mydas.mobi
+::1 bank63.mi.ads.mp.mydas.mobi
+::1 bank64.mi.ads.mp.mydas.mobi
+::1 bank65.mi.ads.mp.mydas.mobi
+::1 bank66.mi.ads.mp.mydas.mobi
+::1 bank67.mi.ads.mp.mydas.mobi
+::1 bank68.mi.ads.mp.mydas.mobi
+::1 bank69.mi.ads.mp.mydas.mobi
+::1 bank70.mi.ads.mp.mydas.mobi
+::1 bank71.mi.ads.mp.mydas.mobi
+::1 bank72.mi.ads.mp.mydas.mobi
+::1 bank73.mi.ads.mp.mydas.mobi
+::1 bank74.mi.ads.mp.mydas.mobi
+::1 bank75.mi.ads.mp.mydas.mobi
+::1 bank76.mi.ads.mp.mydas.mobi
+::1 bank77.mi.ads.mp.mydas.mobi
+::1 bank78.mi.ads.mp.mydas.mobi
+::1 bank79.mi.ads.mp.mydas.mobi
+::1 bank80.mi.ads.mp.mydas.mobi
+::1 bank81.mi.ads.mp.mydas.mobi
+::1 bank82.mi.ads.mp.mydas.mobi
+::1 bank83.mi.ads.mp.mydas.mobi
+::1 bank84.mi.ads.mp.mydas.mobi
+::1 bank85.mi.ads.mp.mydas.mobi
+::1 bank86.mi.ads.mp.mydas.mobi
+::1 bank87.mi.ads.mp.mydas.mobi
+::1 bank88.mi.ads.mp.mydas.mobi
+::1 bank89.mi.ads.mp.mydas.mobi
+::1 bank90.mi.ads.mp.mydas.mobi
+::1 bank91.mi.ads.mp.mydas.mobi
+::1 bank92.mi.ads.mp.mydas.mobi
+::1 bank93.mi.ads.mp.mydas.mobi
+::1 bank94.mi.ads.mp.mydas.mobi
+::1 bank95.mi.ads.mp.mydas.mobi
+::1 bank96.mi.ads.mp.mydas.mobi
+::1 bank97.mi.ads.mp.mydas.mobi
+::1 bank98.mi.ads.mp.mydas.mobi
+::1 bank99.mi.ads.mp.mydas.mobi
+::1 banner-mtb.dspcdn.com
+::1 bannerfarm.ace.advertising.com
+::1 banners.proboards.com
+::1 banners.unibet.com
+::1 bar.aid-ad.jp
+::1 bb.crwdcntrl.net
+::1 bc.geocities.yahoo.co.jp
+::1 bcp.crwdcntrl.net
+::1 bdv.bidvertiser.com
+::1 bea4.v.fwmrm.net
+::1 beacon.scorecardresearch.com
+::1 beacon.xlisting.jp
+::1 beta.airpush.com
+::1 bid.g.doubleclick.net
+::1 bid.openx.net
+::1 bidvertiser.com
+::1 big-mbsp-engine.mbsp.jp
+::1 big-mbsp.mbsp.jp
+::1 biz.sound.jp
+::1 bizad.nikkeibp.co.jp
+::1 blogroll.livedoor.net
+::1 bluekai.com
+::1 bn-01.adtomafusion.com
+::1 bn.maist.jp
+::1 bs.serving-sys.com
+::1 build-cdn.liftoff.io
+::1 bullseye.backbeatmedia.com
+::1 burning-phoenix.kir.jp
+::1 burstly.ads.nexage.com
+::1 buysellads.com
+::1 buzzea.com
+::1 bypass.ad-stir.com
+::1 c.adingo.jp
+::1 c.admob.com
+::1 c.adsymptotic.com
+::1 c.amazon-adsystem.com
+::1 c.betrad.com
+::1 c.greystripe.com
+::1 c.openclick.com
+::1 c.w.inmobi.com
+::1 c001.trax-ad.jp
+::1 c1.nend.net
+::1 c1.popads.net
+::1 c2.popads.net
+::1 cache.imona.me
+::1 cache.ssend.microad.jp
+::1 caggsm-img.appads.com
+::1 cas.criteo.com
+::1 cashe.ssend.microad.jp
+::1 cb.openclick.com
+::1 ccrt.biz
+::1 cdf.mydas.mobi
+::1 cdn-01.yumenetworks.com
+::1 cdn.ad.maist.jp
+::1 cdn.adbrau.com
+::1 cdn.adf.ly
+::1 cdn.adk2.com
+::1 cdn.adnotch.com
+::1 cdn.adnxs.com
+::1 cdn.adshexa.com
+::1 cdn.adsrvmedia.net
+::1 cdn.ajillionmax.com
+::1 cdn.amanad.adtdp.com
+::1 cdn.amanad.adtop.com
+::1 cdn.applift.com
+::1 cdn.at.atwola.com
+::1 cdn.atdmt.com
+::1 cdn.bidvertiser.com
+::1 cdn.bttrack.com
+::1 cdn.castplatform.com
+::1 cdn.cpmstar.com
+::1 cdn.cpsoft86.com
+::1 cdn.directrev.com
+::1 cdn.directtrk.com
+::1 cdn.elasticad.net
+::1 cdn.engine.phn.doublepimp.com
+::1 cdn.fastclick.net
+::1 cdn.fivecdm.com
+::1 cdn.flashtalking.com
+::1 cdn.js.tapone.jp
+::1 cdn.kixer.com
+::1 cdn.krxd.net
+::1 cdn.logly.co.jp
+::1 cdn.mdotm.com
+::1 cdn.media.innity.net
+::1 cdn.mediative.ca
+::1 cdn.merchenta.com
+::1 cdn.millennialmedia.com
+::1 cdn.mobicow.com
+::1 cdn.mxpnl.com
+::1 cdn.pic.crooz.jp
+::1 cdn.popcash.net
+::1 cdn.popin.cc
+::1 cdn.pubexchange.com
+::1 cdn.pubnative.net
+::1 cdn.rovio.com
+::1 cdn.skyrocketapp.com
+::1 cdn.smartnews-ads.com
+::1 cdn.static.zdtag.com
+::1 cdn.viglink.com
+::1 cdn.yoyakucdn.com
+::1 cdn1.inner-active.mobi
+::1 cdn1.media.trafficjunky.net
+::1 cdn1.reporo.net
+::1 cdn1.rhtag.com
+::1 cdn1.smartadserver.com
+::1 cdn2.cpmstar.com
+::1 cdn2.inner-active.mobi
+::1 cdn2.reporo.net
+::1 cdn3.doubleverify.com
+::1 cdnads.tictacti.com
+::1 cdni.amoad.com
+::1 cf.ad-v.jp
+::1 cf.cdn.inmobi.com
+::1 cgi.i-mobile.co.jp
+::1 china.inmobi.com
+::1 choices.truste.com
+::1 ck.rd.livedoor.com
+::1 clcan.com
+::1 click-search.org
+::1 click.a.trackword.net
+::1 click.adzcore.com
+::1 click.amanad.adtdp.com
+::1 click.amanad.adtop.com
+::1 click.cauly.co.kr
+::1 click.linksynergy.com
+::1 click.mtburn.com
+::1 clickadu.com
+::1 clickserve.cc-dt.com
+::1 clickserve.dartsearch.net
+::1 clickserve.eu.dartsearch.net
+::1 clickserve.uk.dartsearch.net
+::1 clickserve.us2.dartsearch.net
+::1 clink.nifty.com
+::1 clkmon.com
+::1 clkrev.com
+::1 clktag.com
+::1 cloud.lokaplatform.com
+::1 cloudads-a.akamaihd.net
+::1 cm.g.doubleclick.net
+::1 cm.send.microad.jp
+::1 cm.uctrack.com
+::1 coinurl.com
+::1 conf.smartnews-ads.com
+::1 conn.skype.commsntest.serving-sys.com
+::1 connect.decknetwork.net
+::1 consearch.jp
+::1 content.yieldmanager.edgesuite.net
+::1 contextual.media.net
+::1 control.kochava.com
+::1 cou.adjust-net.jp
+::1 cp.openclick.com
+::1 cre.adjust-net.jp
+::1 creative.cc-dt.com
+::1 creative.extendmedia.com
+::1 creative.wwwpromoter.com
+::1 creative1cdn.mobfox.com
+::1 creatives.doubleclick.net
+::1 creatives.gunosy.com
+::1 crp-concursos.com
+::1 crwdcntrl.net
+::1 cs.gssprt.jp
+::1 csi.cauly.co.kr
+::1 ctl1.buyt.in
+::1 ctrl.ad-maker.info
+::1 ctxt.tribalfusion.com
+::1 cv.apprupt.com
+::1 cvt.mydas.mobi
+::1 d-cache.microad.jp
+::1 d-cashe.microad.jp
+::1 d.5.to
+::1 d.adresult-sp.jp
+::1 d.adroll.com
+::1 d.amoad.com
+::1 d.href.asia
+::1 d.href.org.uk
+::1 d.moras.jp
+::1 d.pixiv.org
+::1 d.plugrush.com
+::1 d.popin.cc
+::1 d.socdm.com
+::1 d.sprout-ad.com
+::1 d1bqhgjuxdf1ml.cloudfront.net
+::1 d1ujhll8ggh32x.cloudfront.net
+::1 d1zucahx0d2hqt.cloudfront.net
+::1 d27p6w3wtgpjlw.cloudfront.net
+::1 d2cjo8xlt6fbwy.cloudfront.net
+::1 d3v1lb83psg9di.cloudfront.net
+::1 d830x8j3o1b2k.cloudfront.net
+::1 dart-apac.l.doubleclick.net
+::1 data.flurry.com
+::1 de.cisive.net
+::1 deartodear.com
+::1 deliver.ads2.iid.jp
+::1 delivery.trafficjunky.net
+::1 delivery.us.myswitchads.com
+::1 dev-packager-01.ximad.com
+::1 dev.visualwebsiteoptimizer.com
+::1 devopt.ximad.com
+::1 dex.advg.jp
+::1 dfp.doubleclick.net
+::1 directrev.blob.core.windows.net
+::1 dist.ad-stir.com
+::1 dist.adp.ad-stir.com
+::1 dlv.itmedia.jp
+::1 dmp.amoad.com
+::1 docs.millennialmedia.com
+::1 domains.googlesyndication.com
+::1 doubleclick.com
+::1 doubleclick.de
+::1 doubleclick.ne.jp
+::1 doubleclick.net
+::1 doubleclick.shockwave.com
+::1 dp.g.doubleclick.net
+::1 dra.amazon-adsystem.com
+::1 ds.advg.jp
+::1 ds.serving-sys.com
+::1 dsp.adledge.com
+::1 dsp.logly.co.jp
+::1 dsp.send.microad.jp
+::1 dtm.advertising.com
+::1 dynaserv.ads360.com
+::1 e.admob.com
+::1 e.apsalar.com
+::1 e.crashlytics.com
+::1 e2.emediate.se
+::1 earth.appads.com
+::1 ebdr3.com
+::1 ec2-54-248-156-160.ap-northeast-1.compute.amazonaws.com
+::1 eclkmpbn.com
+::1 eclkmpsa.com
+::1 ecpmrocks.com
+::1 edge.quantserve.com
+::1 elog7.servequake.com
+::1 embed.insticator.com
+::1 engine.4chan-ads.org
+::1 engine.adzerk.net
+::1 engine.widespace.com
+::1 engine2.adzerk.net
+::1 et.w.inmobi.com
+::1 eu2.madsone.com
+::1 events30.adcolony.com
+::1 eventsalt30.adcolony.com
+::1 expo9.exponential.com
+::1 exponential.com
+::1 extra.thebigboss.org
+::1 fam-ad.com
+::1 feedads.g.doubleclick.net
+::1 feedads.googleadservices.com
+::1 file.gamefeat.net
+::1 fls-na.amazon.com
+::1 fls.doubleclick.net
+::1 fls.uk.doubleclick.net
+::1 fly.ximad.com
+::1 focas.jp
+::1 free-video-movie.com
+::1 front.aid-ad.jp
+::1 fusion.di.se
+::1 fusion.dn.se
+::1 fusion.expressen.se
+::1 fusion.va.se
+::1 g.msn.com
+::1 g1.v.fwmrm.net
+::1 g2.gumgum.com
+::1 galatea.appads.com
+::1 galatea1.appads.com
+::1 galatea2.appads.com
+::1 galatea3.appads.com
+::1 gam.adnxs.com
+::1 gamead.gameloft.com
+::1 gameads.gameloft.com
+::1 gamefeat.net
+::1 gan.doubleclick.net
+::1 gigazine.asia
+::1 gloft.jp
+::1 gloft.org
+::1 go.goroost.com
+::1 go.lfstmedia.com
+::1 go.mobisla.com
+::1 go.padsdel.com
+::1 go.padstm.com
+::1 golds.lp.mydas.mobi
+::1 gomotrak.com
+::1 google.tucows.com
+::1 googleads.g.doubleclick.net
+::1 googleads2.g.doubleclick.net
+::1 googleadsense.ya.com
+::1 grp0.ias.rakuten.co.jp
+::1 grp01.ias.rakuten.co.jp
+::1 grp07.ias.rakuten.co.jp
+::1 hastrk1.com
+::1 hastrk2.com
+::1 hbb.afl.rakuten.co.jp
+::1 herezera.com
+::1 html5adkit.plusmo.s3.amazonaws.com
+::1 i-mobile.co.jp
+::1 i.ad-v.jp
+::1 i.adimg.net
+::1 i.adresult-sp.jp
+::1 i.amoad.com
+::1 i.exit-ad.com
+::1 i.jumptap.com
+::1 i.mt2.in
+::1 i.po.st
+::1 i.popin.cc
+::1 i.socdm.com
+::1 i.t.webtracker.jp
+::1 i.tapit.com
+::1 i.w.inmobi.com
+::1 i.w.sandbox.inmobi.com
+::1 iadc.qwapi.com
+::1 iadsdk.apple.com
+::1 iap.gameloft.com
+::1 ib.adnxs.com
+::1 ichi-ni-san.net
+::1 id.d.chango.com
+::1 igp06.gameloft.com
+::1 igpiphone.gameloft.com
+::1 im-ad.co.kr
+::1 im.c.yimg.jp
+::1 im.ecnavi.ov.yahoo.co.jp
+::1 im.media-rep.com
+::1 im.ov.yahoo.co.jp
+::1 imads.integral-marketing.com
+::1 image-ad.jp
+::1 image-vsc.microad.jp
+::1 image.excite.co.jp
+::1 image.smart-c.jp
+::1 imageads.googleadservices.com
+::1 images.ad-maker.info
+::1 images.astrsk.net
+::1 images.intellitxt.com
+::1 images.millennialmedia.com
+::1 images.outbrain.com
+::1 images.revmob.com
+::1 img-cdn.mediaplex.com
+::1 img.4clvr.jp
+::1 img.ad-trip.com
+::1 img.adcube.net
+::1 img.adinte.jp
+::1 img.adpon.net
+::1 img.ads.mocean.mobi
+::1 img.ads.mreco0.jp
+::1 img.ak.impact-ad.jp
+::1 img.appads.com
+::1 img.appps.jp
+::1 img.astrsk.net
+::1 img.fam-ad.com
+::1 img.fluct.jp.eimg.jp
+::1 img.livepoint.co.kr
+::1 img.macromill.com
+::1 img.sp-click2.jp
+::1 img.xrea.com
+::1 img02.gamevil.com
+::1 img1.nend.net
+::1 img41.sp-click2.jp
+::1 img42.sp-click2.jp
+::1 img43.sp-click2.jp
+::1 img44.sp-click2.jp
+::1 img45.sp-click2.jp
+::1 img6.atwiki.jp
+::1 imgj.xrea.com
+::1 imgsbox.jp
+::1 imp.asahi.com
+::1 imp.ebis.ne.jp
+::1 impact.applifier.com
+::1 ingamead.gameloft.com
+::1 ingameads.gameloft.com
+::1 ingameads2.gameloft.com
+::1 ingamesads.gameloft.com
+::1 inmobisdk-a.akamaihd.net
+::1 inneractive-assets.s3.amazonaws.com
+::1 integral-marketing.com
+::1 integration.rovio.events.medio.com
+::1 interstatic01.gameloft.com
+::1 intr.shinobi.jp
+::1 invitemedia.com
+::1 ios.bcfads.com
+::1 iosads24.adcolony.com
+::1 iphone.gameloft.com
+::1 iphone.trafficgate.net
+::1 ir-na.amazon-adsystem.com
+::1 ir.doubleclick.net
+::1 iv.doubleclick.net
+::1 j.adlooxtracking.com
+::1 j.adticker.net
+::1 j.amoad.com
+::1 j.guile.jp
+::1 j.microad.net
+::1 j.zucks.net.zimg.jp
+::1 jadserve.postrelease.com
+::1 japan.inmobi.com
+::1 jobsetter.info
+::1 jp.at.atwola.com
+::1 js.ad-stir.com
+::1 js.adjust-sp.jp
+::1 js.admeld.com
+::1 js.adsonar.com
+::1 js.bspd.jp
+::1 js.fout.jp
+::1 js.gsspcln.jp
+::1 js.inmobi-jp.com
+::1 js.kau.li
+::1 js.moatads.com
+::1 js.mtburn.com
+::1 js.nordot-connect.jp
+::1 js.octopuspop.com
+::1 js.revsci.net
+::1 js.tapone.jp
+::1 js1.nend.net
+::1 js2.nend.net
+::1 js3.nend.net
+::1 js4.nend.net
+::1 js5.nend.net
+::1 js6.nend.net
+::1 js7.nend.net
+::1 js8.nend.net
+::1 js9.nend.net
+::1 jsc.adskeeper.co.uk
+::1 jsc.dt07.net
+::1 jsc.mgid.com
+::1 jsn.dt07.net
+::1 jupiter.appads.com
+::1 k.zucks.net
+::1 ko.snstatic.fi
+::1 kona.kontera.com
+::1 ktu.sv2.biz
+::1 kuki.js.test.octopuspop.com
+::1 landingpages.millennialmedia.com
+::1 lassboss.com
+::1 lax1.ib.adnxs.com
+::1 leadback.advertising.com
+::1 link-a.net
+::1 linker.adsee.jp
+::1 live.rads.msn.com
+::1 log.outbrain.com
+::1 log.smartnews-ads.com
+::1 lotate.adtune.jp
+::1 lp.mmstudio.mydas.mobi
+::1 lp.mp.mydas.mobi
+::1 lv.appads.com
+::1 m.2mdn.net
+::1 m.admob.com
+::1 m.adtc.daum.net
+::1 m.apbox.naver.com
+::1 m.doubleclick.net
+::1 m.one.impact-ad.jp
+::1 m.servebom.com
+::1 m1.2mdn.net
+::1 m2m1.inner-active.mobi
+::1 ma.inmobi.com
+::1 maad.maru.jp
+::1 mads.advertising.com
+::1 mads.at.atwola.com
+::1 marketing.888.com
+::1 mars.appads.com
+::1 match.seesaa.jp
+::1 max.crwd.io
+::1 md.exblog.jp
+::1 media-b.jp
+::1 media-rep.com
+::1 media.888.com
+::1 media.admob.com
+::1 media.fastclick.net
+::1 media.gssp.asia
+::1 media.mydas.mobi
+::1 media.trafficfactory.biz
+::1 media.trafficjunky.net
+::1 mediaplex.fr
+::1 mercury.appads.com
+::1 meta.wikimedia.org
+::1 mf.adsymptotic.com
+::1 mm.chitika.net
+::1 mmv.admob.com
+::1 mnw.bandainamcoid.com
+::1 mnwimg.s3.amazonaws.com
+::1 mob.adwhirl.com
+::1 moba8.net
+::1 mobile.adnxs.com
+::1 mobile.juicyads.com
+::1 mobile.smartadserver.com
+::1 modmyi.us.intellitxt.com
+::1 motifcdn.doubleclick.net
+::1 motifcdn2.doubleclick.net
+::1 mp.mydas.mobi
+::1 mresell.macworld.co.uk
+::1 msr.pyxis-social.com
+::1 muimerpni.biz
+::1 my.hellobar.com
+::1 my.mobfox.com
+::1 mydas.mobi
+::1 n339.asp-cc.com
+::1 n4052ad.doubleclick.net
+::1 n4061ad.hk.doubleclick.net
+::1 n4403ad.doubleclick.net
+::1 n479ad.doubleclick.net
+::1 native.sharethrough.com
+::1 nb.gamevil.com
+::1 nend.net
+::1 neptune.appads.com
+::1 neptune1.appads.com
+::1 neptune11.appads.com
+::1 neptune12.appads.com
+::1 neptune13.appads.com
+::1 neptune2.appads.com
+::1 neptune3.appads.com
+::1 new.search.popin.cc
+::1 news-assets.rovio.com
+::1 ngs.impress.co.jp
+::1 nl.appads.mobi
+::1 nordot-connect.genieesspv.jp
+::1 novadune.com
+::1 ns1.backbeatmedia.com
+::1 ns2.backbeatmedia.com
+::1 nym1.ib.adnxs.com
+::1 odb.outbrain.com
+::1 onclickads.net
+::1 one.impact-ad.jp
+::1 op.searchteria.co.jp
+::1 op2.searchteria.co.jp
+::1 op3.searchteria.co.jp
+::1 op4.searchteria.co.jp
+::1 op5.searchteria.co.jp
+::1 op6.searchteria.co.jp
+::1 op7.searchteria.co.jp
+::1 op8.searchteria.co.jp
+::1 op9.searchteria.co.jp
+::1 openad.tf1.fr
+::1 openclick.com
+::1 openclik.com
+::1 opr.formulas.jp
+::1 opt.ximad.com
+::1 origin.collective-media.net
+::1 otapict.com
+::1 out.popads.net
+::1 out.sp-click2.jp
+::1 out41.sp-click2.jp
+::1 out42.sp-click2.jp
+::1 out43.sp-click2.jp
+::1 out44.sp-click2.jp
+::1 out45.sp-click2.jp
+::1 outbrain.com
+::1 output.nend.net
+::1 overture.com
+::1 owb101.goo.ne.jp
+::1 ox-d.wuv.servedbyopenx.com
+::1 ox-i.ad-maker.info
+::1 p.admob.com
+::1 p22.atemda.com
+::1 packager.ximad.com
+::1 pagead.googlesyndication.com
+::1 pagead.l.google.com
+::1 pagead2.googleadservices.com
+::1 pagead2.googlesyndication.com
+::1 partner.googleadservices.com
+::1 partnerad.l.doubleclick.net
+::1 partners.swoop.com
+::1 paypalssl.doubleclick.net
+::1 pds.directrev.com
+::1 phobos.apple.com.lp.mydas.mobi
+::1 pixel.adsafeprotected.com
+::1 pixel.mathtag.com
+::1 pixel.quantserve.com
+::1 pixel.redditmedia.com
+::1 pixel.rubiconproject.com
+::1 pixel.wp.com
+::1 pluto.appads.com
+::1 pornhub.kolestence.com
+::1 pp.iij4u.or.jp
+::1 pq-direct.revsci.net
+::1 pr.m.mixi.jp
+::1 pr.mixi.jp
+::1 prm.europacash.com
+::1 projectwonderful.com
+::1 promo.kappboom.com
+::1 proxy.img.mc0.jp
+::1 pt.iogous.com
+::1 pt.trafficjunky.net
+::1 pub.clicksor.net
+::1 pubads.g.doubleclick.net
+::1 public.astrsk.net
+::1 px.a8.net
+::1 px.moba8.net
+::1 q1mediahydraplatform.com
+::1 quantserve.com
+::1 qwapi.com
+::1 r.admob.com
+::1 r.advg.jp
+::1 r.doprads.jp
+::1 r.edge.inmobicdn.net
+::1 r.skimresources.com
+::1 r.w.inmobi.com
+::1 r.yoz.io
+::1 rad.live.com
+::1 rad.msn.com
+::1 rcm-images.amazon.com
+::1 rcm-it.amazon.it
+::1 rcm-na.amazon-adsystem.com
+::1 rd.adingo.jp
+::1 rd.xlisting.jp
+::1 recommend.popin.cc
+::1 red.st-hatena.com
+::1 redc.sakura.ne.jp
+::1 req.appads.com
+::1 req.startappservice.com
+::1 req1.appads.com
+::1 req2.appads.com
+::1 req3.appads.com
+::1 req4.appads.com
+::1 req5.appads.com
+::1 req6.appads.com
+::1 req7.appads.com
+::1 req8.appads.com
+::1 req9.appads.com
+::1 resources.infolinks.com
+::1 revmob-creatives.s3.amazonaws.com
+::1 richmedia.yimg.com
+::1 rma-api.gravity.com
+::1 rmcdn.2mdn.net
+::1 rmcdn.f.2mdn.net
+::1 rot1.a8.net
+::1 rot2.a8.net
+::1 rot3.a8.net
+::1 rot4.a8.net
+::1 rot5.a8.net
+::1 rot6.a8.net
+::1 rot7.a8.net
+::1 rot8.a8.net
+::1 rot9.a8.net
+::1 router.infolinks.com
+::1 rovio-news-app.angrybirdsgame.com
+::1 rovio-news-assets.angrybirdsgame.com
+::1 rovio.appads.com
+::1 rovio1.appads.com
+::1 rovio11.appads.com
+::1 rovio12.appads.com
+::1 rovio13.appads.com
+::1 rovio2.appads.com
+::1 rovio3.appads.com
+::1 royale-ssl.spongecell.com
+::1 rpc-php.trafficfactory.biz
+::1 rss.buysellads.com
+::1 rt.gsspat.jp
+::1 rtb.ad-stir.com
+::1 rtb.adgrx.com
+::1 s-dsp.send.microad.jp
+::1 s-static.innovid.com
+::1 s.ad131m.com
+::1 s.adroll.com
+::1 s.amazon-adsystem.com
+::1 s.jimdo.com
+::1 s.moatads.com
+::1 s.nend.net
+::1 s.pubmine.com
+::1 s.send.microad.jp
+::1 s.skimresources.com
+::1 s0.2mdn.net
+::1 s0.doubleclick.net
+::1 s002.trax-ad.jp
+::1 s1.2mdn.net
+::1 s2.adform.net
+::1 s2.video.doubleclick.net
+::1 s3.buysellads.com
+::1 san-ni-ichi.com
+::1 sankei2ad.durasite.net
+::1 saturn.appads.com
+::1 scorecardresearch.com
+::1 sdk.open.phone.igexin.com
+::1 sdt1.corp.inmobi.com
+::1 secserv.adtech.de
+::1 secure.adnxs.com
+::1 secure.appads.com
+::1 secure.flashtalking.com
+::1 secure.img-cdn.mediaplex.com
+::1 secure.leadback.advertising.com
+::1 securepubads.g.doubleclick.net
+::1 send.microad.jp
+::1 serv.ads.pixiv.org
+::1 serve.adplxmd.com
+::1 serve.popads.net
+::1 serve.vdopia.com
+::1 servedby.hrnorth.se
+::1 servedby2.advertising.com
+::1 server.cpmstar.com
+::1 service.urchin.com
+::1 setting.adzcore.com
+::1 sh.adingo.jp
+::1 signal-back.com
+::1 sin1.g.adnxs.com
+::1 skynest.rovio.com
+::1 smartads.mobile.yahoo.co.jp
+::1 smartadserver.com
+::1 smartadserver.fr
+::1 smartphone.popin.cc
+::1 sn002.trax-ad.jp
+::1 sn003.trax-ad.jp
+::1 snap.snapmobile.asia
+::1 softonicads.com
+::1 sp-image.rinad.jp
+::1 sp.ad.adlantis.jp
+::1 sp.adingo.jp.eimg.jp
+::1 sp.ads.jlisting.jp
+::1 sp.click.adlantis.jp
+::1 sp.gmossp-sp.jp
+::1 spad.i-mobile.co.jp
+::1 spadp.i-mobile.co.jp
+::1 spadpc2.i-mobile.co.jp
+::1 spadpc3.i-mobile.co.jp
+::1 spapi.i-mobile.co.jp
+::1 spcdnpc.i-mobile.co.jp
+::1 spcdnsp.i-mobile.co.jp
+::1 spcnv.i-mobile.co.jp
+::1 spdeliver.i-mobile.co.jp
+::1 spdeliverp.i-mobile.co.jp
+::1 spn.trax-ad.jp
+::1 spnet2-1.i-mobile.co.jp
+::1 spnet33.i-mobile.co.jp
+::1 spnet5.i-mobile.co.jp
+::1 sprout-ad.com
+::1 sprout-ad.genieesspv.jp
+::1 spstatic.ameba.jp
+::1 spsvc3.i-mobile.co.jp
+::1 spsvc5.i-mobile.co.jp
+::1 sr-r3.ace.advertising.com
+::1 sr.mads.advertising.com
+::1 src.4clvr.jp
+::1 srt-srv.xlisting.jp
+::1 srv.bebi.com
+::1 srv.buysellads.com
+::1 srv.clickfuse.com
+::1 srv.juiceadv.com
+::1 srvpub.com
+::1 ssend.microad.jp
+::1 ssl.socdm.com
+::1 ssp-bidder.i-mobile.co.jp
+::1 ssp.advg.jp
+::1 ssp.send.microad.jp
+::1 static.2mdn.net
+::1 static.adlantis.jp
+::1 static.adroute.focas.jp
+::1 static.adzerk.net
+::1 static.affiliate.rakuten.co.jp
+::1 static.ak.fbcdn.net
+::1 static.doubleclick.net
+::1 static.emsservice.de
+::1 static.exoclick.com
+::1 static.fmpub.net
+::1 static.trafficjunky.net
+::1 static.yieldmo.com
+::1 static.zucks.net
+::1 static.zucks.net.zimg.jp
+::1 staticd.cdn.adblade.com
+::1 stats.buysellads.com
+::1 stats.g.doubleclick.net
+::1 stimg.iand2ch.net
+::1 strikeadcdn.s3.amazonaws.com
+::1 sumapo.org
+::1 sun.appads.com
+::1 sy-tr.eamobile.com
+::1 sync.fout.jp
+::1 sync.mathtag.com
+::1 sync.popin.cc
+::1 syndication.exoclick.com
+::1 synergy.eamobile.com
+::1 t.adcrops.net
+::1 t.doprads.jp
+::1 t.neodatagroup.com
+::1 tag.admeld.com
+::1 tag.contextweb.com
+::1 tags.bkrtx.com
+::1 tap-cdn.rubiconproject.com
+::1 tap.rubiconproject.com
+::1 tempest.services.disqus.com
+::1 test.adpooh.com
+::1 textad.net
+::1 tg.socdm.com
+::1 titan.appads.com
+::1 tpc.googlesyndication.com
+::1 tr.adplatform.jp
+::1 track.adform.net
+::1 track.lfstmedia.com
+::1 track.netshelter.net
+::1 tracking.trafficjunky.net
+::1 traffic.outbrain.com
+::1 trax-ad.jp
+::1 trc.taboola.com
+::1 trends.revcontent.com
+::1 tt.ximad.com
+::1 twipple.jp
+::1 uac.advertising.com
+::1 uedata.amazon.com
+::1 uranus.appads.com
+::1 us-analytics-api.gree-apps.net
+::1 us-marketing-api.gree-apps.net
+::1 v.adcube.net
+::1 v1-feed.idreamsky.com
+::1 v1-service.idreamsky.com
+::1 v2st.shinobi.jp
+::1 venus.appads.com
+::1 veoxa.com
+::1 video-stats.video.google.com
+::1 videoslots.888.com
+::1 vsc.send.microad.jp
+::1 w.inmobi.com
+::1 w.sharethis.com
+::1 wac.250f.edgecastcdn.net
+::1 wd.sharethis.com
+::1 web-jp.ad-v.jp
+::1 web.adblade.com
+::1 web.fc2.com
+::1 widgets.outbrain.com
+::1 ws-na.amazon-adsystem.com
+::1 ws.tapjoyad.com
+::1 ws.tapjoyads.com
+::1 wv.inner-active.mobi
+::1 ww251.smartadserver.com
+::1 ww400.smartadserver.fr
+::1 ww84.smartadserver.com
+::1 www-lvs.veoxa.com
+::1 www.888poker.com
+::1 www.ac.auone-net.jp
+::1 www.accesstrade.net
+::1 www.adcash.com
+::1 www.adnxs.com
+::1 www.adshost2.com
+::1 www.appliedsemantics.com
+::1 www.appnexus.com
+::1 www.appq.biz
+::1 www.awltovhc.com
+::1 www.bidvertiser.com
+::1 www.burstnet.com
+::1 www.buysellads.com
+::1 www.clickterra.net
+::1 www.da-ads.com
+::1 www.deartodear.com
+::1 www.destinationurl.com
+::1 www.doubleclick.com
+::1 www.doubleclick.net
+::1 www.dpbolvw.net
+::1 www.f0.dion.ne.jp
+::1 www.f1.dion.ne.jp
+::1 www.f2.dion.ne.jp
+::1 www.f3.dion.ne.jp
+::1 www.f4.dion.ne.jp
+::1 www.f5.dion.ne.jp
+::1 www.f6.dion.ne.jp
+::1 www.f7.dion.ne.jp
+::1 www.f8.dion.ne.jp
+::1 www.f9.dion.ne.jp
+::1 www.google-analytics.com
+::1 www.googleadservices.com
+::1 www.inmobi.com
+::1 www.lduhtrp.net
+::1 www.mygooglepagerank.com
+::1 www.outbrain.com
+::1 www.projectwonderful.com
+::1 www.quantserve.com
+::1 www.smartadserver.com
+::1 www.terraclicks.com
+::1 www.terrapops.com
+::1 www.tqlkg.com
+::1 www.yllix.com
+::1 www.zergnet.com
+::1 www1.liveads.jp
+::1 www10.a8.net
+::1 www10.moba8.net
+::1 www11.a8.net
+::1 www11.moba8.net
+::1 www12.a8.net
+::1 www12.moba8.net
+::1 www13.a8.net
+::1 www13.moba8.net
+::1 www14.a8.net
+::1 www14.moba8.net
+::1 www15.a8.net
+::1 www15.moba8.net
+::1 www16.a8.net
+::1 www16.moba8.net
+::1 www17.a8.net
+::1 www17.moba8.net
+::1 www18.a8.net
+::1 www18.moba8.net
+::1 www19.a8.net
+::1 www19.moba8.net
+::1 www2.doubleclick.com
+::1 www2.liveads.jp
+::1 www20.a8.net
+::1 www20.moba8.net
+::1 www21.a8.net
+::1 www21.moba8.net
+::1 www22.a8.net
+::1 www22.moba8.net
+::1 www23.a8.net
+::1 www23.moba8.net
+::1 www24.a8.net
+::1 www24.moba8.net
+::1 www25.a8.net
+::1 www25.moba8.net
+::1 www26.a8.net
+::1 www26.moba8.net
+::1 www27.a8.net
+::1 www27.moba8.net
+::1 www28.a8.net
+::1 www28.moba8.net
+::1 www29.a8.net
+::1 www29.moba8.net
+::1 www3.doubleclick.com
+::1 www3.doubleclick.net
+::1 www3.liveads.jp
+::1 www4.liveads.jp
+::1 www4.smartadserver.com
+::1 www5.liveads.jp
+::1 www6.liveads.jp
+::1 www7.liveads.jp
+::1 www8.liveads.jp
+::1 www9.liveads.jp
+::1 x.bidswitch.net
+::1 x888x.myserver.org
+::1 xads.zedo.com
+::1 xconf.cauly.co.kr
+::1 xid.i-mobile.co.jp
+::1 xml.affiliate.rakuten.co.jp
+::1 xp2.zedo.com
+::1 xrwd.net
+::1 y.one.impact-ad.jp
+::1 yads.c.yimg.jp
+::1 yads.yahoo.co.jp
+::1 yicha.jp
+::1 yichaad.durasite.net
+::1 yieldmanager.com
+::1 yjaxc.yahoo.co.jp
+::1 yllix.com
+graph.facebook.com
+::1 graph.facebook.com
+external.xx.fbcdn.net
+scontent.xx.fbcdn.net
+::1 external.xx.fbcdn.net
+::1 scontent.xx.fbcdn.net
+ocsp.apple.com
+5.2.76.189
