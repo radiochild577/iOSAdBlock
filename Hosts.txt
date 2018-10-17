@@ -12,3 +12,5 @@ m.yap.yahoo.com
 analytics.yahoo.com
 soundwave.mobile.yahoo.com
 marketingsolutions.yahoo.com
+z.moatads.com
+securepubads.g.doubleclick.net
