@@ -1,5 +1,8 @@
-ocsp.apple.com
+2a04:52c0:101:1cd::d3c8 ocsp.apple.com
+5.2.76.189 ocsp.apple.com
+2a04:52c0:101:1cd::d3c8
 5.2.76.189
+ocsp.apple.com
 ads.yahoo.com
 adserver.yahoo.com
 ymad.yql.yahoo.com
