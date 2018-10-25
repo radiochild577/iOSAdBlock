@@ -839,7 +839,7 @@ ads.mobclix.com
 ads.mobgold.com
 ads.mobilityware.com
 ads.mopub.com
-ads.mp.mydas.mobi # with many subdomains
+ads.mp.mydas.mobi
 ads.n-ws.org 
 ads.ookla.com
 ads.saymedia.com
@@ -1070,7 +1070,7 @@ html5adkit.plusmo.s3.amazonaws.com
 hybl9bazbc35.pflexads.com
 i.jumptap.com
 i.tapit.com
-i.w.inmobi.com #
+i.w.inmobi.com
 im2.smartadserver.com
 images.millennialmedia.com
 images.mpression.net
@@ -1133,7 +1133,7 @@ pdn.applovin.com
 px.cdn.creative.medialytics.com
 r.edge.inmobicdn.net
 r.mobpartner.mobi
-r.w.inmobi.com # in-app provider
+r.w.inmobi.com
 req.appads.com
 req1.appads.com
 req2.appads.com
