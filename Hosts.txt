@@ -24,6 +24,10 @@ securepubads.g.doubleclick.net
 z.moatads.com
 
 
+# [Amazon mobile ads]
+mads.amazon.com
+
+
 # [AdBlock for iOS]
 1phads.com
 201205igp.gameloft.com
