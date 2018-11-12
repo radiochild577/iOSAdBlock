@@ -24,6 +24,11 @@ securepubads.g.doubleclick.net
 z.moatads.com
 
 
+# [NFL app ads]
+sb.scorecardresearch.com
+cws.conviva.com
+
+
 # [Amazon mobile ads]
 mads.amazon.com
 
