@@ -14,6 +14,11 @@ graph.facebook.com
 graph.instagram.com
 
 
+# [Google]
+ssl.google-analytics.com
+
+
+
 # [Yahoo Fantasy mobile]
 ads.yap.yahoo.com
 analytics.yahoo.com
@@ -29,6 +34,9 @@ device-api.urbanairship.com
 analytics.thescore.com
 t.appsflyer.com
 graphql.thescore.com
+api.leanplum.com
+e.crashlytics.com
+events.appsflyer.com
 
 
 # [ESPN Fantasy mobile]
