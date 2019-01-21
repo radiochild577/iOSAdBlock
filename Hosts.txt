@@ -18,7 +18,6 @@ graph.instagram.com
 ssl.google-analytics.com
 
 
-
 # [Yahoo Fantasy mobile]
 ads.yap.yahoo.com
 analytics.yahoo.com
