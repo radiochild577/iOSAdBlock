@@ -22,6 +22,8 @@ ymad.yql.yahoo.com
 # [theScore ads]
 device-api.urbanairship.com
 analytics.thescore.com
+t.appsflyer.com
+graphql.thescore.com
 
 
 # [ESPN Fantasy ads]
