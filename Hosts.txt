@@ -9,7 +9,12 @@ ocsp.apple.com
 world-gen.g.aaplimg.com
 
 
-# [Yahoo Fantasy ads]
+# [Facebook]
+graph.facebook.com
+graph.instagram.com
+
+
+# [Yahoo Fantasy mobile]
 ads.yap.yahoo.com
 analytics.yahoo.com
 beap.gemini.yahoo.com
@@ -19,24 +24,24 @@ s.gycs.b.yahoodns.net
 ymad.yql.yahoo.com
 
 
-# [theScore ads]
+# [theScore mobile]
 device-api.urbanairship.com
 analytics.thescore.com
 t.appsflyer.com
 graphql.thescore.com
 
 
-# [ESPN Fantasy ads]
+# [ESPN Fantasy mobile]
 securepubads.g.doubleclick.net
 z.moatads.com
 
 
-# [NFL app ads]
+# [NFL mobile]
 sb.scorecardresearch.com
 cws.conviva.com
 
 
-# [Amazon mobile ads]
+# [Amazon mobile]
 mads.amazon.com
 
 
