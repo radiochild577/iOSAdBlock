@@ -19,6 +19,11 @@ s.gycs.b.yahoodns.net
 ymad.yql.yahoo.com
 
 
+# [theScore ads]
+device-api.urbanairship.com
+analytics.thescore.com
+
+
 # [ESPN Fantasy ads]
 securepubads.g.doubleclick.net
 z.moatads.com
