@@ -1529,3 +1529,7 @@ zdbb.net
 zemanta.com
 zkcdn.net
 zprk.io
+
+# [pi-hole additions]
+liberty.logs.roku.com
+scribe.logs.roku.com
