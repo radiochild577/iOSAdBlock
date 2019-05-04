@@ -1228,3 +1228,7 @@ www2.smartadserver.com
 www3.smartadserver.com
 www4.smartadserver.com
 wwww.adleads.com
+
+
+# [Miscellaneous]
+ad-server.proboards.com
