@@ -2440,3 +2440,8 @@
 :: www4.smartadserver.com
 0.0.0.0 wwww.adleads.com
 :: wwww.adleads.com
+
+
+# [Miscellaneous]
+0.0.0.0 ad-server.proboards.com
+:: ad-server.proboards.com
