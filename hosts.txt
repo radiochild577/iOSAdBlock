@@ -12,9 +12,6 @@ world-gen.g.aaplimg.com
 # [Facebook]
 graph.facebook.com
 graph.instagram.com
-events-endpoint-g-1919267118.us-east-1.elb.amazonaws.com
-events-endpoint-i-1172912053.us-east-1.elb.amazonaws.com
-events-endpoint-j-660082941.us-east-1.elb.amazonaws.com
 
 
 # [Google]
@@ -37,7 +34,6 @@ analytics.thescore.com
 t.appsflyer.com
 graphql.thescore.com
 api.leanplum.com
-e.crashlytics.com
 events.appsflyer.com
 
 
@@ -53,6 +49,11 @@ cws.conviva.com
 
 # [Amazon mobile]
 mads.amazon.com
+
+
+# [Miscellaneous]
+ad-server.proboards.com
+ads.proboards.com
 
 
 # [AdBlock for iOS]
@@ -1228,7 +1229,3 @@ www2.smartadserver.com
 www3.smartadserver.com
 www4.smartadserver.com
 wwww.adleads.com
-
-
-# [Miscellaneous]
-ad-server.proboards.com
