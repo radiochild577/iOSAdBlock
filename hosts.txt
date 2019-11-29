@@ -2,6 +2,9 @@
 adservice.google.com
 rayjump.com
 supersonicads-a.akamaihd.net
+fastly.net
+tubemogul.com
+
 
 
 # [appDB Protection]
