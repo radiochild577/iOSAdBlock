@@ -17,6 +17,7 @@
 
 
 # [Block iOS updates/revokes]
+0 ocsp.apple.com
 0 csp.apple.com
 0 gdmf.apple.com
 0 mesu.apple.com
