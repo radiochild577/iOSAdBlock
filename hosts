@@ -17,10 +17,10 @@
 
 
 # [Block iOS updates/revokes]
-0 ocsp.apple.com
 0 csp.apple.com
 0 gdmf.apple.com
 0 mesu.apple.com
+0 ocsp.apple.com
 0 ocsp.digicert.com
 0 ocsp.int-x3.letsencrypt.org
 0 ocsp.usertrust.com
