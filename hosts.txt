@@ -16,16 +16,18 @@
 0 tubemogul.com
 
 
-# [appDB Protection]
+# [Block iOS updates/revokes]
+0 csp.apple.com
+0 gdmf.apple.com
+0 mesu.apple.com
+0 ocsp.digicert.com
+0 ocsp.int-x3.letsencrypt.org
+0 ocsp.usertrust.com
+0 ppq.apple.com
+0 valid.apple.com
+0 world-gen.g.aaplimg.com
 0 5.2.76.189
 0 2a04:52c0:101:1cd::d3c8
-0 ocsp.apple.com
-0 world-gen.g.aaplimg.com
-0 mesu.apple.com
-0 ocsp.usertrust.com
-0 ocsp.digicert.com
-0 valid.apple.com
-0 ppq.apple.com
 
 
 # [Facebook]
