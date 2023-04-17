@@ -1253,3 +1253,5 @@
 0 www3.smartadserver.com
 0 www4.smartadserver.com
 0 wwww.adleads.com
+
+||substackcdn.com/min/main.bundle.js$script,domain=codebeautify.org
