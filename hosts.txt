@@ -1255,3 +1255,4 @@
 0 wwww.adleads.com
 
 ||substackcdn.com/min/main.bundle.js$script,domain=codebeautify.org
+0 substackcdn.com/min/main.bundle.js$script,domain=codebeautify.org
