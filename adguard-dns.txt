@@ -1,3 +1,5 @@
+!# v-1.0
+
 !## RE-WRITES ##
 dfs1.ia.ua.edu$dnsrewrite=10.199.250.50
 dfs2.ia.ua.edu$dnsrewrite=10.199.250.51
