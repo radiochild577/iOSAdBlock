@@ -763,6 +763,7 @@ on3.com##div[class^="HalfOff"]
 on3.com##div[class^="MobileMPU_ad"]
 on3.com##div[class^="MPU_ad"]
 on3.com##div[class^="NetworkFooter_aboutSection"]
+on3.com##div[class^="NetworkFooter_container"]
 on3.com##div[class^="NetworkFooter_inner__"] div[class^="NetworkFooter_copyright__"]
 on3.com##div[class^="NetworkFooter_menu_"] > div[class^="NetworkFooter_"]:not(div[class^="NetworkFooter_logo_"])
 on3.com##div[class^="NetworkFooter_menu__"] div[class^="NetworkFooter_badges__"]
