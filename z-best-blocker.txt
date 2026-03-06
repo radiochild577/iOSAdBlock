@@ -1,6 +1,6 @@
-[Baller Blockin]
-! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/Baller-Blockin.txt
-! Title: Baller Blockin
+[z-best-blocker]
+! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
+! Title: z-best-blocker
 ! Version: 2026.03.06
 
 247sports.com###article-header
