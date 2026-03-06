@@ -150,7 +150,7 @@ al.com##.sharebar
 al.com##.sharebarBeta
 al.com##.skimlinks
 al.com##:is(p.article__paragraph--left):has(b + a)
-al.com##+js(no-fetch-if
+al.com##+js(no-fetch-if, method:POST)
 al.com##amp-social-share
 al.com##body > div[style*="display: initial; visibility: initial"]
 al.com##body[class^="body__al"] > div[style*="visibility: initial"]
@@ -159,7 +159,6 @@ al.com##div[class^="author-bio"]
 al.com##div[class^="revenue-display"]
 al.com##div[id^="inarticle-"]
 al.com##iframe[src^="https://accounts.google.com/";]
-al.com##method:POST)
 al.com##p[class^="article__paragraph"]:has( > a > b)
 al.com##p[class^="article__paragraph"]:has(a):has(b)
 al.com##script[id^="fusion-"]
@@ -503,8 +502,6 @@ fantasysports.yahoo.com##div[id^="react-playernotes-LREC"]
 fantasysports.yahoo.com##div[id^="sb_rel_react-playernotes-LREC"]
 fantasysports.yahoo.com##div[id^="yui_"].yui3-overlay-modal:has(section#monalixa-overlay)
 fantasysports.yahoo.com##form[id="add-drop-players-form"] > section.No-m:has(header)
-fantasysports.yahoo.com##header[style[id="yspcontentheader"][class*="-no-mtop"]
-fantasysports.yahoo.com##header[style="yspcontentheader"] > div[class="Tst-smart-ad"]
 fantasysports.yahoo.com##html body.jar
 fantasysports.yahoo.com##section[id*="-promo"]
 fantasysports.yahoo.com##table.ad_slug_table
@@ -736,7 +733,6 @@ newsweek.com##div[class^="BreakingBar_breakingBar"]
 newsweek.com##div[class^="GooglePreferredSourceBanner"]
 newsweek.com##div[class^="RecommendedForYou"]
 newsweek.com##p[class^="Paragraph_blockParagraph"]:has(>strong)
-nypost.com##
 nypost.com###menu-mobile-footer-links
 nypost.com###nypost-openweb-conversation
 nypost.com##.ad
@@ -852,7 +848,7 @@ on3.com##div[id^="mobile_adhesion"]
 on3.com##div[id^="mobile_mpu_"]
 on3.com##h2[id*="not-a-member"]
 on3.com##h2[id*="not-a-member"] ~ p
-on3.com##iv[class^="ExcoPlayer_container"]:has(div[style*="fixed"])
+on3.com##div[class^="ExcoPlayer_container"]:has(div[style*="fixed"])
 on3.com##link[rel="preload"][href^="/_next/"]
 on3.com##mula-smartscroll
 on3.com##nav[class^="TrendingMenu_block"]
@@ -943,7 +939,6 @@ pewterreport.com##div[class^="adthrive-"] ~ div[class^="img_"]
 pewterreport.com##div[class^="fusion-social"]
 pewterreport.com##div[class^="gbbbldx"]
 pewterreport.com##div[data-google-query-id]
-rivals.com##
 rivals.com##.copyright-section
 rivals.com##.cta-header-banner
 rivals.com##.ds_cpp_inner
@@ -1111,7 +1106,6 @@ si.com##iframe#rufous-sandbox
 si.com##iframe[id^="google_ads_iframe"]
 si.com##iframe[name="__pb_locator__"]
 si.com##section[class^="sectionStyle_"] > hr
-sportico.com##
 sportico.com###adm-mobile-bottom-sticky-ad
 sportico.com###pmc-atlasmg-adhesion-bar
 sportico.com##.ad-text
