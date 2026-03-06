@@ -72,30 +72,6 @@
 247sports.com##h2[class="p1 aligncenter"]
 247sports.com##html .nimda
 247sports.com##p > strong:is(:last-child)
-953thebear.com###container .bottom-components
-953thebear.com###site-footer .links.clearfix
-953thebear.com###site-footer .social-links
-953thebear.com###site-menu-wrapper .tsm-ad.tsm-ad-320
-953thebear.com##.bottom-components .tsm-ad.tsm-ad-320
-953thebear.com##.carbon-overlay.newsletter-overlay.brandedapp-overlay .carbon-overlay-content
-953thebear.com##.comments-wrapper .comments
-953thebear.com##.content-footer.outgrow #ts_blogroll-afterpost
-953thebear.com##.content-footer.outgrow .comments-wrapper
-953thebear.com##.content-footer.outgrow .tags-lines
-953thebear.com##.content-wrap .content-footer.outgrow
-953thebear.com##.fade-enter-done .carbon-overlay.newsletter-overlay.brandedapp-overlay
-953thebear.com##.in-view-sentinel-wrapper .photogallery-wrapper.no-bottom-bling.no-right-bling.blog-photogallery.photogallery-wrapper-1
-953thebear.com##.logo-nav-and-stuff .listen-live-cto.cto
-953thebear.com##.logo-nav-and-stuff .listen-live-ticker.has-marquee
-953thebear.com##.photogallery-item .frameme.broken-image
-953thebear.com##.photogallery-item .item-meta
-953thebear.com##.pod-content .branded-app-shortcode-inarticle
-953thebear.com##.pod-content .incontent-newsletter
-953thebear.com##.pod-content .in-view-sentinel-wrapper
-953thebear.com##.social-links .social
-953thebear.com##.social-share.bignsexy.sticky .social-bar.social-icons
-953thebear.com##.tsm-ad.tsm-ad-320 #tsm-ad-leaderboard-320a
-953thebear.com##iframe#hindsight-ads-iframe
 abcnews.go.com##div:has(>div[data-testid="prism-ad-wrapper"])
 abcnews.go.com##div:has(>div[data-testid="prism-divider"]):has(>div>section[data-testid="prism-collection"])
 abcnews.go.com##div:has(>div[data-testid="prism-tags"])
@@ -134,6 +110,59 @@ actionnetwork.com##footer div:nth-of-type(3)
 actionnetwork.com##footer div:nth-of-type(4)
 actionnetwork.com##footer div:nth-of-type(6)
 actionnetwork.com##footer div:nth-of-type(7)
+al.com###ad-wrapper__mobile-bottom-adhesion
+al.com###content-blocker-piano
+al.com###credential_picker_container
+al.com###fusion-metadata
+al.com###taboola-below-article-thumbnails
+al.com##.ad
+al.com##.ad--in-article
+al.com##.ad-inner
+al.com##.ad-large-1
+al.com##.ad-observer
+al.com##.ad-small-2
+al.com##.ad--sponsor-content
+al.com##.ad--sponsor-content__title
+al.com##.ad-wrapper__mobile-bottom-adhesion
+al.com##.alert-bar--news-promo
+al.com##.amp-ad-container
+al.com##.article__mmm-caption--youtube
+al.com##.close
+al.com##.content-blocker-piano
+al.com##.entry-content div[class^="Stories-By-Section-Tag"]
+al.com##.entry-content h4[class="article-heading"]
+al.com##.entry-content section
+al.com##.entry-content section[class*="Stories-By-Section-Tag"]
+al.com##.footer__disclaimer
+al.com##.footer__disclaimer-wrapper
+al.com##.footer__nav-mobile
+al.com##.footer__nav-topics
+al.com##.footer_cookies_ad_settings
+al.com##.InContent_Center_Background
+al.com##.InContent_Center_Padding
+al.com##.mobile-bottom-adhesion__wrapper
+al.com##.module__ad-large
+al.com##.module__ad-small
+al.com##.module__ad-wide
+al.com##.rawhtml > form[action*="ewsletter"]
+al.com##.related-articles-container
+al.com##.sharebar
+al.com##.sharebarBeta
+al.com##.skimlinks
+al.com##:is(p.article__paragraph--left):has(b + a)
+al.com##+js(no-fetch-if
+al.com##amp-social-share
+al.com##body > div[style*="display: initial; visibility: initial"]
+al.com##body[class^="body__al"] > div[style*="visibility: initial"]
+al.com##div[class*="module__ad"]
+al.com##div[class^="author-bio"]
+al.com##div[class^="revenue-display"]
+al.com##div[id^="inarticle-"]
+al.com##iframe[src^="https://accounts.google.com/";]
+al.com##method:POST)
+al.com##p[class^="article__paragraph"]:has( > a > b)
+al.com##p[class^="article__paragraph"]:has(a):has(b)
+al.com##script[id^="fusion-"]
 apnews.com###vf-skeleton-container
 apnews.com##.Advertisement
 apnews.com##.Enhancement-item .PageListStandardB
@@ -1489,3 +1518,6 @@ yellowhammernews.com##footer .wp-block-spacer:not(:first-of-type)
 yellowhammernews.com##footer figure ~ .wp-block-group
 yellowhammernews.com##iframe.alignfull
 yellowhammernews.com##iframe[id^="tdb-infinte-post"]
+
+! Townsquare Media sites
+townsquare.media,townsquareblogs.com,cdn.production.townsquareblogs.com,1017lagrande.com,1019therock.com,101theeagle.com,1023thebullfm.com,1025kiss.com,1027kord.com,1033thegoat.com,1035kissfmboise.com,1037theloon.com,1037theriver.com,1039thebreezealbany.com,103gbfrocks.com,103kkcn.com,103wjod.com,1043wowcountry.com,1045theteam.com,1051theblock.com,1057thehawk.com,1063nowfm.com,1063thebuzz.com,1073kissfmtexas.com,1073popcrush.com,1075thepeak.com,1079ishot.com,107jamz.com,1130thetiger.com,1340thehawk.com,1390granitecitysports.com,1420wbec.com,1440wrok.com,1460espnyakima.com,1470kyyw.com,1520theticket.com,560kmon.com,610kona.com,710keel.com,7220sports.com,890kdxu.com,920thejersey.com,925kaar.com,925theranch.com,929nin.com,929thebull.com,929thelake.com,929theticket.com,92moose.fm,930kmpt.com,933eaglecountry.com,943litefm.com,943thepoint.com,943thex.com,945maxcountry.com,949whom.com,94kix.com,953thebear.com,955kmbr.com,95rockfm.com,961theeagle.com,963theblaze.com,965kvki.com,965therock.com,965thewalleye.com,967theeagle.net,969zoofm.com,973espn.com,973kkrc.com,973thedawg.com,975kgkl.com,975koolfm.com,975now.com,979kickfm.com,97rockonline.com,97x.com,97zokonline.com,981thehawk.com,983thesnake.com,987jack.com,987kissfmsanangelo.com,987thebomb.com,991thewhale.com,995theapple.com,999bigskysports.com,999ktdy.com,999thepoint.com,99wfmk.com,allhitskzmk.com,alt1017.com,alternativemissoula.com,awesome98.com,b100quadcities.com,b1027.com,b105country.com,b921hits.com,b93.net,b985.fm,banana1015.com,bigcat921.com,bigcat953.com,bigcountry969.com,bigfrog104.com,bigstack1039.com,billingsmix.com,bozemanskissfm.com,cajunradio.com,caspercowboy.com,catcountry1029.com,catcountry1073.com,catcountryutah.com,catfishtuscaloosa.com,classicrock1051.com,classicrock961.com,club937.com,cnynews.com,cool987fm.com,dakotacountry961.com,danburycountry.com,dave1077.com,davefmutah.com,eagle1023fm.com,espn960sanangelo.com,espnquadcities.com,espnsiouxfalls.com,espnwesterncolorado.com,etsn.fm,foxsports1510.com,fun1043.com,fun107.com,gator995.com,goodtimeoldies1075.com,highway989.com,hot1047.com,hot975fm.com,hot991.com,hudsonvalleycountry.com,hudsonvalleypost.com,i95rock.com,i95rocks.com,irock935.com,jackfmcasper.com,juan925fm.com,juanhudsonvalley.com,k2radio.com,k923.fm,k945.com,k96fm.com,k99.com,k99hits.com,kalamazoocountry.com,katsfm.com,kbat.com,kcrr.com,kdat.com,kdhlradio.com,keanradio.com,kekbfm.com,keyj.com,keyw.com,keyzradio.com,kezj.com,kffm.com,kfilradio.com,kfmx.com,kfox95.com,kfyo.com,kgab.com,kgrzmissoula.com,khak.com,khmoradio.com,kickam1530.com,kicks105.com,kidotalkradio.com,kikn.com,kingfm.com,kiss106evansville.com,kissbinghamton.com,kisscasper.com,kisselpaso.com,kissfm1053.com,kissfm969.com,kissin977.com,kixs.com,kkam.com,kkyr.com,klaq.com,klaw.com,klubtejano.com,kmhk.com,kmmsam.com,knue.com,koel.com,kool1017.com,kool1079.com,kool929fm.com,kool965.com,koolam.com,koolfmabilene.com,kowb1290.com,kpel965.com,kqvt.com,krfofm.com,krforadio.com,krna.com,kroc.com,krocnews.com,krod.com,ksenam.com,ksfa860.com,ksisradio.com,ksub590.com,ktemnews.com,kubcthecanyon.com,kw3.com,kwcdcountry.com,kxkx.com,kxrb.com,kxtl.com,kygl.com,kyssfm.com,lamejor947.com,lansingsportsnetwork.com,laramielive.com,lite987.com,litefm955.com,liteonline.com,live959.com,lonestar923.com,lonestar995fm.com,mega993online.com,minnesotasnewcountry.com,mix1043fm.com,mix106radio.com,mix108.com,mix931fm.com,mix941kmxj.com,mix949.com,mix951.com,mix957gr.com,mix979fm.com,montanatalks.com,mooseradio.com,my1035.com,my1053wjlt.com,myb106.com,mybeachradio.com,mycountry955.com,mykiss1031.com,mykisscountry937.com,mymagic933.com,mymagicgr.com,mymagiclc.com,myq1075.com,newsradio1310.com,newstalk1280.com,newstalk1290.com,newstalk870.am,newstalk940.com,newstalkkgvo.com,newstalkkit.com,nick975.com,nj1015.com,northlandfan.com,pnwag.net,power1029noco.com,power959.com,power96radio.com,powerboise.com,praise933.com,q1057.com,q1065.fm,q1077.com,q961.com,q985.fm,q985online.com,quickcountry.com,radiotexaslive.com,realnewsmontana.com,retro1025.com,river967.com,rivergrandrapids.com,rock1041.com,rock967online.com,seacoastcurrent.com,shark1053.com,shoresportsnetwork.com,sojo1049.com,sportsradio977.com,squatchrocks.com,star939.com,star981.com,supertalk1270.com,talk1067.com,talk1470.com,talkradio960.com,thebullamarillo.com,theeaglerocksny.com,thegame730am.com,thenew961.com,thequake1021.com,theriver979.com,therockofrochester.com,thunder981.com,tide1009.com,townsquarenoco.com,tuscaloosathread.com,us103.com,us1033.com,us1049quadcities.com,us105fm.com,wakeupwyo.com,washingtonstatenews.net,wbckfm.com,wbkr.com,wblk.com,wblm.com,wbsm.com,wbuf.com,wbxxfm.com,wchram.com,wcrz.com,wcyy.com,wdbqam.com,wdea.am,wearebuffalo.net,wfgr.com,wfnt.com,wfpg.com,wgna.com,wgrd.com,wibx950.com,witl.com,wjbq.com,wjimam.com,wjon.com,wkdq.com,wkfr.com,wkmi.com,wmmq.com,wnaw.com,wnbf.com,wobm.com,wokq.com,womiowensboro.com,wour.com,wpdh.com,wpgtalkradio.com,wpst.com,wrkr.com,wrrv.com,wsbs.com,wsrkfm.com,wtbdfm.com,wtug.com,wupe.com,www.awesome923.com,www.kpq.com,wyopreps.com,wyrk.com,wzozfm.com,xlcountry.com,y105fm.com,y105music.com,y95country.com,z100missoula.com,z1073.com,z94.com##:is(#container .bottom-components,#site-footer .links.clearfix,#site-footer .social-links,#site-menu-wrapper .tsm-ad.tsm-ad-320,.bottom-components .tsm-ad.tsm-ad-320,.carbon-overlay.newsletter-overlay.brandedapp-overlay .carbon-overlay-content,.comments-wrapper .comments,.content-footer.outgrow #ts_blogroll-afterpost,.content-footer.outgrow .comments-wrapper,.content-footer.outgrow .tags-lines,.content-wrap .content-footer.outgrow,.fade-enter-done .carbon-overlay.newsletter-overlay.brandedapp-overlay,.in-view-sentinel-wrapper .photogallery-wrapper.no-bottom-bling.no-right-bling.blog-photogallery.photogallery-wrapper-1,.logo-nav-and-stuff .listen-live-cto.cto,.logo-nav-and-stuff .listen-live-ticker.has-marquee,.photogallery-item .frameme.broken-image,.photogallery-item .item-meta,.pod-content .branded-app-shortcode-inarticle,.pod-content .incontent-newsletter,.pod-content .in-view-sentinel-wrapper,.social-links .social,.social-share.bignsexy.sticky .social-bar.social-icons,.tsm-ad.tsm-ad-320 #tsm-ad-leaderboard-320a,iframe#hindsight-ads-iframe,.pod-content .in-view-sentinel-wrapper,#bottom-not-ads,#hindsight-ads-iframe,#ts_blogroll-afterpost,.branded-app-shortcode-inarticle,.carbon-overlay,.clearfix.newsletter-frame,.comments-wrapper,.content-footer.outgrow .post-bottom-sidebar,.cto.listen-live-cto,.details,.lazyload-placeholder.gallery-ad-lazyload-placeholder,.legal,.listen-live-ticker,.nav-social-links,p + p + .in-view-sentinel-wrapper,.photogallery-wrapper-2,.photogallery-wrapper-3,.social,.social-bar,.social-links,.tags-lines,.tsm-ad,.widget-google-ads-widget)
