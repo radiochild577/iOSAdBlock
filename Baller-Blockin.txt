@@ -1,0 +1,1491 @@
+[Baller Blockin]
+! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/Baller-Blockin.txt
+! Title: Baller Blockin
+! Version: 2026.03.06
+
+247sports.com###article-header
+247sports.com###cps-shaman-notifier
+247sports.com###google_ads_top_frame
+247sports.com###networkBar
+247sports.com###omni_skybox_leader_sticky
+247sports.com###page-content #announcement
+247sports.com##.__exco_mobile.__exco_root_container
+247sports.com##.ad-component.ad
+247sports.com##.adhesion-block
+247sports.com##.ad-top-strip
+247sports.com##.advertisement.in-content-ad
+247sports.com##.announcement-bar-link
+247sports.com##.announcement-label
+247sports.com##.article-body .in-content-ad
+247sports.com##.article-body.is-guest .aligncenter
+247sports.com##.article-cnt .seperator-link.tfs::after
+247sports.com##.article-cnt__footer__comments
+247sports.com##.article-list__item-list-item--ad
+247sports.com##.article-list__list-item--ad
+247sports.com##.cbs-link
+247sports.com##.clearfix.network-bar
+247sports.com##.comment-button.action-button
+247sports.com##.comment-footer-button.action-button
+247sports.com##.dfp_ad
+247sports.com##.enroll-comp__body
+247sports.com##.footer-links-list
+247sports.com##.footer-social-list
+247sports.com##.footer-text
+247sports.com##.grecaptcha-badge
+247sports.com##.headline-aside-video
+247sports.com##.headline-body .recirculator-container
+247sports.com##.headline-meta .action-button.comment-button
+247sports.com##.in-article-comments
+247sports.com##.in-content-ad
+247sports.com##.in-content-ad #mobile_mpu_flex_top
+247sports.com##.insearch1.IL_BASE
+247sports.com##.is-docked
+247sports.com##.minutely-video-page
+247sports.com##.newsletter-signup
+247sports.com##.pb-stream
+247sports.com##.playbuzz_blk.pbs
+247sports.com##.promo-card
+247sports.com##.react-loading-skeleton
+247sports.com##.recirculator-container
+247sports.com##.reply-button
+247sports.com##.scout-link
+247sports.com##.scroll-wrapper
+247sports.com##.seperator-links.tfs
+247sports.com##.social
+247sports.com##.social-block
+247sports.com##.social-media-list
+247sports.com##.taboola-block
+247sports.com##.Toastify__toast-container
+247sports.com##.top-ad-block
+247sports.com##.video-dock--fixed
+247sports.com##.video-dock-holder.is-docked
+247sports.com##.vipconsole-comp
+247sports.com##amp-ad
+247sports.com##article.headline-content:not(:first-of-type)
+247sports.com##aside.headline-aside
+247sports.com##aside.headline-aside > div.sticky-div-cnt
+247sports.com##div[class^="taboola"]
+247sports.com##div[id^="ad_is"]
+247sports.com##div[id^="bx-campaign"]
+247sports.com##div[id^="google_ads_"]
+247sports.com##div[style^="display: initial; visibility: initial"]
+247sports.com##h2[class="p1 aligncenter"]
+247sports.com##html .nimda
+247sports.com##p > strong:is(:last-child)
+953thebear.com###container .bottom-components
+953thebear.com###site-footer .links.clearfix
+953thebear.com###site-footer .social-links
+953thebear.com###site-menu-wrapper .tsm-ad.tsm-ad-320
+953thebear.com##.bottom-components .tsm-ad.tsm-ad-320
+953thebear.com##.carbon-overlay.newsletter-overlay.brandedapp-overlay .carbon-overlay-content
+953thebear.com##.comments-wrapper .comments
+953thebear.com##.content-footer.outgrow #ts_blogroll-afterpost
+953thebear.com##.content-footer.outgrow .comments-wrapper
+953thebear.com##.content-footer.outgrow .tags-lines
+953thebear.com##.content-wrap .content-footer.outgrow
+953thebear.com##.fade-enter-done .carbon-overlay.newsletter-overlay.brandedapp-overlay
+953thebear.com##.in-view-sentinel-wrapper .photogallery-wrapper.no-bottom-bling.no-right-bling.blog-photogallery.photogallery-wrapper-1
+953thebear.com##.logo-nav-and-stuff .listen-live-cto.cto
+953thebear.com##.logo-nav-and-stuff .listen-live-ticker.has-marquee
+953thebear.com##.photogallery-item .frameme.broken-image
+953thebear.com##.photogallery-item .item-meta
+953thebear.com##.pod-content .branded-app-shortcode-inarticle
+953thebear.com##.pod-content .incontent-newsletter
+953thebear.com##.pod-content .in-view-sentinel-wrapper
+953thebear.com##.social-links .social
+953thebear.com##.social-share.bignsexy.sticky .social-bar.social-icons
+953thebear.com##.tsm-ad.tsm-ad-320 #tsm-ad-leaderboard-320a
+953thebear.com##iframe#hindsight-ads-iframe
+abcnews.go.com##div:has(>div[data-testid="prism-ad-wrapper"])
+abcnews.go.com##div:has(>div[data-testid="prism-divider"]):has(>div>section[data-testid="prism-collection"])
+abcnews.go.com##div:has(>div[data-testid="prism-tags"])
+abcnews.go.com##div:has(>div>section[class^="MobileContentPromo"])
+abcnews.go.com##footer.footer--shell
+actionnetwork.com##.contentBody__bottom
+actionnetwork.com##.contentBody__sidebar
+actionnetwork.com##.cta-wrapper__child
+actionnetwork.com##.follow-author__button
+actionnetwork.com##.follow-author__button-container
+actionnetwork.com##.footer__short-footer
+actionnetwork.com##.game-header
+actionnetwork.com##.game-header__middle-row
+actionnetwork.com##.game-header__middle-row-table
+actionnetwork.com##.header__banner
+actionnetwork.com##.nav__sub-nav
+actionnetwork.com##.promotion-card
+actionnetwork.com##.promotion-card__container
+actionnetwork.com##.skeleton .skeleton__bonus
+actionnetwork.com##.skeleton .skeleton__logo
+actionnetwork.com##.skeleton .skeleton__terms
+actionnetwork.com##.skeleton__cta .skeleton__cta-container
+actionnetwork.com##.social-icons__item
+actionnetwork.com##.transformed-iframe
+actionnetwork.com##.user-component__trial
+actionnetwork.com##.wp-relatedArticle
+actionnetwork.com##details
+actionnetwork.com##div[data-promo-table="promotion-table"]
+actionnetwork.com##div[data-testid="cta-wrapper"]
+actionnetwork.com##div[data-type="Promo"]
+actionnetwork.com##footer div a
+actionnetwork.com##footer div h4
+actionnetwork.com##footer div:nth-of-type(1)
+actionnetwork.com##footer div:nth-of-type(2)
+actionnetwork.com##footer div:nth-of-type(3)
+actionnetwork.com##footer div:nth-of-type(4)
+actionnetwork.com##footer div:nth-of-type(6)
+actionnetwork.com##footer div:nth-of-type(7)
+apnews.com###vf-skeleton-container
+apnews.com##.Advertisement
+apnews.com##.Enhancement-item .PageListStandardB
+apnews.com##.FooterNavigation-items
+apnews.com##.FreeStar.Advertisement
+apnews.com##.Page-authorInfo .Author
+apnews.com##.Page-byline .Page-authorImage
+apnews.com##.Page-footer-bottom
+apnews.com##.Page-footer-content
+apnews.com##.Page-header-end #mobile-entitlements
+apnews.com##.PageListRightRailA
+apnews.com##.PageListStandardD
+apnews.com##.Page-oneColumn .HtmlModule
+apnews.com##.Page-oneColumn .OneColumnContainer
+apnews.com##.Page-trendingZephr
+apnews.com##.PollModuleRow .HtmlModule
+apnews.com##.vf-skeleton-generic-block
+apnews.com##.viafoura
+appleinsider.com###article-social
+appleinsider.com###load-more #load-more-link
+appleinsider.com###river-load-more #load-more
+appleinsider.com##.ad
+appleinsider.com##.col-lg-3 .uc
+appleinsider.com##.col-lg-9 .col-sm-4.comment-count.visible-xs
+appleinsider.com##.col-lg-9 .main-art.river
+appleinsider.com##.col-sm-12.col-lg-12 .row
+appleinsider.com##.col-sm-4.comment-count.visible-xs .badge
+appleinsider.com##.container #mobile-ad-wrap
+appleinsider.com##.container #river-load-more
+appleinsider.com##.container-fluid.ad-wrap.block-wrap
+appleinsider.com##.main-art.sidebar-article .row
+appleinsider.com##.new-footer
+appleinsider.com##.primis-ad-wrap
+appleinsider.com##.row .block-header.uc
+appleinsider.com##.row .col-lg-3
+appleinsider.com##.row .col-sm-12.inline-disclaimer
+appleinsider.com##.row.main-page .col-lg-3
+appleinsider.com##div.container:nth-child(4)
+athlonsports.com###main-content #customComponent-1
+athlonsports.com###main-content #phximagetilehub-4
+athlonsports.com###main-content #phxoutbrain-5
+athlonsports.com###main-content .m-comments.m-component-stack.mm-component-stack--is-stacked
+athlonsports.com###main-content .not-size-c.not-size-d
+athlonsports.com##.is-placeholder
+athlonsports.com##.l-grid.lm-grid--detail.lm-grid--with-right-rail .m-aside-rail.l-grid--rail.h-isolated-styles.is-sidebar
+athlonsports.com##.l-grid--content-body .m-detail--footer
+athlonsports.com##.l-grid--content-body .m-social.mm-social--below-header
+athlonsports.com##.l-grid--content-body .m-social.mm-social--open-web.mm-social--below-header
+athlonsports.com##.m-content-type-metadata
+athlonsports.com##.m-detail--body .m-embed-card.h-isolated-styles
+athlonsports.com##.m-detail--footer .m-detail--meta
+athlonsports.com##.m-detail--footer .m-social.mm-social--below-content
+athlonsports.com##.m-detail-header--container .is-fallback-player
+athlonsports.com##.m-fixedbottom-ad--container
+athlonsports.com##.m-fixedbottom-ad--slot
+athlonsports.com##.m-footer--container .m-footer--links-cell
+athlonsports.com##.m-footer--container .m-footer--menus
+athlonsports.com##.m-footer--container .m-footer--platform
+athlonsports.com##.m-header-components.mm-header-components--box-shadow #phx-1
+athlonsports.com##.mm-content-type-metadata--below-header
+athlonsports.com##div[id^="#ad-fixed_bottom"]
+atozsports.com##.button.button--secondary
+atozsports.com##.contributors
+atozsports.com##article div[class*="styles_cardGrid"]
+atozsports.com##div[class*="styles_contextualNavigation"]
+atozsports.com##div[class*="styles_siteFooterContainer"] div[class*="styles_siteFooterLower"]
+atozsports.com##div[class*="styles_siteFooterContainer"] li[class*="styles_siteFooterCategories"]
+atozsports.com##div[class*="styles_siteFooterTop"] ul[class*="styles_networksList"]
+atozsports.com##div[id*="ad-"]
+atozsports.com##iframe[id*="totalpoll"]
+awfulannouncing.com###author-box
+awfulannouncing.com###below-posts
+awfulannouncing.com###comment_wrap
+awfulannouncing.com###recent-posts
+awfulannouncing.com###top-ad-section
+awfulannouncing.com##.footer-top
+awfulannouncing.com##.podwgt-preflight
+awfulannouncing.com##.secondary.widget-area
+awfulannouncing.com##.site-info
+awfulannouncing.com##.top-ad-section
+awfulannouncing.com##.widget.csh-widget
+awfulannouncing.com##a.skip-link
+bamahammer.com###body-1 
+bamahammer.com###body-2 
+bamahammer.com###body-3 
+bamahammer.com###body-4 
+bamahammer.com###body-5
+bamahammer.com###didomi-host
+bamahammer.com###didomi-host .notranslate.didomi-screen-xsmall.didomi-mobile
+bamahammer.com###didomi-notice
+bamahammer.com###didomi-notice .didomi-notice__interior-border.didomi-border
+bamahammer.com###div-gpt-ad-mobile-adhesion
+bamahammer.com##.article-content .widget.fs_ads
+bamahammer.com##.article-footer
+bamahammer.com##.auth-avatar
+bamahammer.com##.border-t-2
+bamahammer.com##.bottom-placeholder
+bamahammer.com##.byline .tw-handle
+bamahammer.com##.infinity-comments
+bamahammer.com##.md\:hidden.flex.items-center.relative
+bamahammer.com##.ml-auto
+bamahammer.com##.my-8
+bamahammer.com##.notranslate.didomi-screen-xsmall.didomi-mobile
+bamahammer.com##.player-wrapper.relative.aspect-video.bg-grey.rounded-md.player-wrapper-sm.md\:hidden.block
+bamahammer.com##.post-meta .article-share
+bamahammer.com##.rw-widget-loading
+bamahammer.com##.sportradarWrapper
+bamahammer.com##.voltax-recirculation-widget
+bamahammer.com##div[class^="headerFirstRowItemsContainer"] > div[class^="_"]
+bamahammer.com##div[class^="headerFirstRowItemsContainer"] > div[class^="wrapper_"]
+bamahammer.com##div[class^="style_"] #mm-player-placeholder-smallAndMedium-screens
+bamahammer.com##div[data-target="ad"]
+bamahammer.com##div[data-testid="share-menu-inner"]
+bamahammer.com##div[id^="google_ads_iframe"]
+bamahammer.com##div[id^="inarticle_"]
+bamahammer.com##div[on-document\:scroll]
+bamahammer.com##figure:has(.css-1rwzck)
+bamahammer.com##footer grow
+bamahammer.com##footer nav > ul
+bamahammer.com##footer p
+bamahammer.com##footer[class^="footerWrapper_"] > div[class^="footerContent_"] > div[class^="section_"]
+bamahammer.com##footer[class^="footerWrapper_"] > div[class^="footerContent_"] > div[class^="wrapper_"]
+bamahammer.com##main[class^="style_"] > figure[class^="style_"]
+bamahammer.com##script[type="placeholder"]
+brobible.com###articles-area.articles-area article:nth-of-type(n+2)
+brobible.com###masthead #simple-banner
+brobible.com###tts-shadow-root
+brobible.com##.bro_caffeine_wrap
+brobible.com##.disclaimer-text
+brobible.com##.entry-content #anyclip-post-container
+brobible.com##.entry-content .entry-footer
+brobible.com##.entry-footer .bro-jamx
+brobible.com##.footer-navigation
+brobible.com##.link-icon
+brobible.com##.loading
+brobible.com##.related-topics
+brobible.com##.revcontent
+brobible.com##.smallprint
+brobible.com##.tts-player
+brobible.com##footer.entry-footer
+brobible.com##html > body > div:last-of-type
+brobible.com##noscript
+cbsnews.com###component-taboola-below-article-feed
+cbsnews.com##.component--type-recirculation-collection
+cbsnews.com##.content__body--footer .content__tags
+cbsnews.com##.content__copyright
+cbsnews.com##.FooterCopyright
+cbsnews.com##.FooterLinks-group
+cbssports.com###article .Newsletter-container
+cbssports.com###article-body #article-event-promo
+cbssports.com###branch-amp-journey
+cbssports.com###cbs-site-footer .site-footer-copyright
+cbssports.com###content #mobile-flex-middle
+cbssports.com###content #mobile-flex-middle2
+cbssports.com###content #mobile-flex-top
+cbssports.com###LatestNewsBox
+cbssports.com###mobile-banner-top .i-amphtml-element.i-amphtml-layout-nodisplay.i-amphtml-sticky-ad-layout.i-amphtml-built.i-amphtml-layout
+cbssports.com###mobile-flex-top .i-amphtml-element.i-amphtml-layout-fixed.i-amphtml-layout-size-defined.i-amphtml-layout
+cbssports.com###mobile-mpu-bottom2
+cbssports.com###native-story-ad-0 #mobile_flex_top
+cbssports.com###page-content #reading-list-wrapper
+cbssports.com###page-content .share-wrapper
+cbssports.com###trg-app-install
+cbssports.com##.Article-bodyContent .ArticleShortcode-container
+cbssports.com##.Article-main #LatestNewsBox
+cbssports.com##.Article-seoBoxContent
+cbssports.com##.cps-overlay .cps-banner.cps-container
+cbssports.com##.Footer-content .Footer-copyright
+cbssports.com##.Footer-content .Footer-links
+cbssports.com##.Footer-copyright
+cbssports.com##.Footer-links
+cbssports.com##.FooterLogo:has(a[title^="CBS Sports "])
+cbssports.com##.FooterLogoGroup-secondary
+cbssports.com##.FooterLogoGroup-secondary .FooterLogo
+cbssports.com##.item.up-next
+cbssports.com##.LatestNewsBox
+cbssports.com##.OpenWebCounterContainer
+cbssports.com##.OpenWebCounterContainer #open-web-counter-button
+cbssports.com##.page-marquee-container
+cbssports.com##.page-shell.article-page\a
+cbssports.com##.RecommendedRecirc.recommended-recirc.taboola-recommends.is-article #taboola-below-article-thumbnails
+cbssports.com##.row .Newsletter-container
+cbssports.com##.row .reading-list-mobile-banner-top
+cbssports.com##.row .RecommendedRecirc.recommended-recirc.taboola-recommends.is-article
+cbssports.com##.site-footer-row .site-footer-links
+cbssports.com##.site-footer-row .site-footer-partners
+cbssports.com##.site-footer-row .SocialIconsBar
+cbssports.com##.site-footer-row .social-icons-bar
+cbssports.com##.taboola-recommends
+cbssports.com##.VideoHero.is-miniPinned > .VideoHero-clipContainer
+cbssports.com##a:has(>.ArticleShortcode-container)
+cbssports.com##body > div:has(a[href^="https://getadmiral"])
+cbssports.com##body > div:last-of-type:has(div>h3~button)
+cbssports.com##div[aria-label="CBS Sports Golazo Network"]
+cbssports.com##div[aria-label="Paramount Plus"]
+cbssports.com##div[class^="GlobalSubnav_spacer"]
+cbssports.com##div[id^="article-body-ad"]
+cbssports.com##div[id^="GlobalNavOffset"]
+cbssports.com##div[style^="display: initial; visibility: initial"]
+cbssports.com##header[id="GlobalSubnav"]
+cbssports.com##img[class="Logo--grey"][alt*="Golazo"]
+cbssports.com##img[class="Logo--grey"][alt*="HQ"]
+cbssports.com##section.Article-rail
+clutchpoints.com###EMAIL
+clutchpoints.com###taboola-below-article-thumbnails
+clutchpoints.com###vuukle-comments
+clutchpoints.com###vuukle-emote
+clutchpoints.com##.article-body .widget-wrapper
+clutchpoints.com##.cafemedia-clutchpoints-header
+clutchpoints.com##.caffeine-embed
+clutchpoints.com##.caffeine-embed .caf-container
+clutchpoints.com##.copyright
+clutchpoints.com##.masked-list
+clutchpoints.com##.tag-container
+clutchpoints.com##.tiktok-icon
+clutchpoints.com##[href^="https://news.google.com/";]
+clutchpoints.com##[href="/contact-us"]
+clutchpoints.com##[href="/dmca-copyright-policy"]
+clutchpoints.com##[href="/meet-the-team"]
+clutchpoints.com##[href="/press"]
+clutchpoints.com##[href="/privacy-policy"]
+clutchpoints.com##[href="/terms-of-service"]
+clutchpoints.com##[href="https://twitter.com/clutchpointsapp";]
+clutchpoints.com##[href="https://www.facebook.com/ClutchPoints/";]
+clutchpoints.com##[href="https://www.instagram.com/clutchpoints/";]
+clutchpoints.com##a[href^="https://apple.news/";]
+clutchpoints.com##aside
+clutchpoints.com##form#sib-form
+clutchpoints.com##svg[height="1em"][width="1em"]
+coinjournal.com##.ad-banner
+coinjournal.com##.banner-advert
+coinjournal.com##.breadcrumbs
+coinjournal.com##.inv-banner.news.news--horizontal
+coinjournal.com##.js-article-banner
+coinjournal.com##.js-article-banner.is-visible
+coinjournal.com##.post-article-content .post-meta
+coinjournal.com##.region .container.py-4
+coinjournal.com##.sticky-banner
+coinjournal.com##.sticky-banner.fixed
+coinjournal.com##a.js-load-more-articles
+coinjournal.com##article.js-single-article:nth-of-type(2)
+coinjournal.com##article.js-single-article:nth-of-type(3)
+coinjournal.com##article.js-single-article:nth-of-type(4)
+coinjournal.com##article.js-single-article:nth-of-type(5)
+coinjournal.com##aside
+coinjournal.com##div.footer-disclaimer__content
+coinjournal.com##div.footer-top
+coinjournal.com##div.js-load-more-articles
+darkwebuser.com###after-ad
+darkwebuser.com###antiAdBlock
+darkwebuser.com###before-ad
+darkwebuser.com###post-footer-ads
+darkwebuser.com###related-wrap
+darkwebuser.com###sidebar
+darkwebuser.com###supermag-cookie-ify
+darkwebuser.com##.alert
+darkwebuser.com##.footerbar
+darkwebuser.com##.post-share
+darkwebuser.com##.supermag-pro-blog-post-comments.comments-system-blogger
+darkwebuser.com##.Translate
+darkwebuser.com##div[class^="twt-"]
+darkwebuser.com##div[id^="twt"]
+darkwebuser.com##div[style*="!important;"]
+darkwebuser.com##iframe
+darkwebuser.com##p.image-caption excerpt
+darkwebuser.com##span.entry-comments-link
+decrypt.day##div[class^="modal"]
+decrypt.day##div[class^="modal"][class*="backdrop-blur-sm"]
+decrypt.day##div[class="google-auto-placed"]
+decrypt.day##div[id^="google-anno-"]
+decrypt.day##div[id^="kofi-widget-overlay"]
+decrypt.day##div[id="svelte-announcer"]
+decrypt.day##ins[class^="adsbygoogle"]
+div[class$="ad-container"]
+div[style^="display: initial; visibility: initial"]
+fantasysports.yahoo.com###ad
+fantasysports.yahoo.com###ad_mid_right
+fantasysports.yahoo.com###ad_top_right
+fantasysports.yahoo.com###ads
+fantasysports.yahoo.com###adunit
+fantasysports.yahoo.com###defaultLDRB-9-sizer
+fantasysports.yahoo.com###fantasypromotion
+fantasysports.yahoo.com###ffl-banner
+fantasysports.yahoo.com###gpt-passback
+fantasysports.yahoo.com###home-fantasy-headlines 
+fantasysports.yahoo.com###login-box-ad-fallback
+fantasysports.yahoo.com###player-note-content .player-notes ul > div[id^="yui_"]:has(div[id^="react-playernotes"])
+fantasysports.yahoo.com###static-yahoocup-promo-overlay
+fantasysports.yahoo.com###whatsnew-prize
+fantasysports.yahoo.com###yspcontentheader #yspmh
+fantasysports.yahoo.com###yspcontentmainhero > *[id^="yui"]
+fantasysports.yahoo.com###yspcontentmainhero.Thm-snow > a
+fantasysports.yahoo.com###yspmain > #yspmaincontent > .yui3-overlay-mask
+fantasysports.yahoo.com###yspmaincontent a.Beacon
+fantasysports.yahoo.com###yspmaincontent.Thm-snow > a
+fantasysports.yahoo.com###yspmh
+fantasysports.yahoo.com##.ad
+fantasysports.yahoo.com##.ad.ad-1
+fantasysports.yahoo.com##.ads
+fantasysports.yahoo.com##.CAN_ad
+fantasysports.yahoo.com##.content-ads
+fantasysports.yahoo.com##.df-ad
+fantasysports.yahoo.com##.login-bg-outer
+fantasysports.yahoo.com##.login-bg-outer > .login-bg-inner
+fantasysports.yahoo.com##.login-box-ad-fallback
+fantasysports.yahoo.com##.monalixa
+fantasysports.yahoo.com##.monalixa-beacon
+fantasysports.yahoo.com##.Page-bd::after
+fantasysports.yahoo.com##.Page-bd::before
+fantasysports.yahoo.com##.Page-masthead
+fantasysports.yahoo.com##.player-notes div[id^="yui_"]:has(div[class="darla"])
+fantasysports.yahoo.com##.player-notes iframe
+fantasysports.yahoo.com##.tab-bets
+fantasysports.yahoo.com##.Tst-adlocation-LREC
+fantasysports.yahoo.com##.Tst-smart-ad
+fantasysports.yahoo.com##[id^="wzrd-"] div:has(>button[aria-label^="Follow us"])
+fantasysports.yahoo.com##a[data-slk="Sponsor Image"]
+fantasysports.yahoo.com##a[id="FantasyChatButton"]
+fantasysports.yahoo.com##div#login-ad-rich
+fantasysports.yahoo.com##div:has(> #mid_center-celebratewin)
+fantasysports.yahoo.com##div[aria-label="Advertisement"]
+fantasysports.yahoo.com##div[class*="adlocation"]
+fantasysports.yahoo.com##div[class*="-adlocation"]
+fantasysports.yahoo.com##div[class*="Masthead Relative"]
+fantasysports.yahoo.com##div[class*="Page-masthead"]
+fantasysports.yahoo.com##div[class*="promo"]
+fantasysports.yahoo.com##div[class^="ad-"]
+fantasysports.yahoo.com##div[class^="ad_"]
+fantasysports.yahoo.com##div[data-tst="product-switcher"] > ul > li:not(:first-of-type)
+fantasysports.yahoo.com##div[id*="-Ad"]
+fantasysports.yahoo.com##div[id*="-adlocation"]
+fantasysports.yahoo.com##div[id*="promo"]
+fantasysports.yahoo.com##div[id*="yspad"]
+fantasysports.yahoo.com##div[id^="ad-"]
+fantasysports.yahoo.com##div[id^="ad_"]
+fantasysports.yahoo.com##div[id^="google_ads_iframe"]
+fantasysports.yahoo.com##div[id^="react-playernotes-LREC"]
+fantasysports.yahoo.com##div[id^="sb_rel_react-playernotes-LREC"]
+fantasysports.yahoo.com##div[id^="yui_"].yui3-overlay-modal:has(section#monalixa-overlay)
+fantasysports.yahoo.com##form[id="add-drop-players-form"] > section.No-m:has(header)
+fantasysports.yahoo.com##header[style[id="yspcontentheader"][class*="-no-mtop"]
+fantasysports.yahoo.com##header[style="yspcontentheader"] > div[class="Tst-smart-ad"]
+fantasysports.yahoo.com##html body.jar
+fantasysports.yahoo.com##section[id*="-promo"]
+fantasysports.yahoo.com##table.ad_slug_table
+forbes.com##*[id^="article-stream-10"]
+forbes.com##*[id^="article-stream-11"]
+forbes.com##*[id^="article-stream-2"]
+forbes.com##*[id^="article-stream-3"]
+forbes.com##*[id^="article-stream-4"]
+forbes.com##*[id^="article-stream-5"]
+forbes.com##*[id^="article-stream-6"]
+forbes.com##*[id^="article-stream-7"]
+forbes.com##*[id^="article-stream-8"]
+forbes.com##*[id^="article-stream-9"]
+forbes.com##.ad-unit
+forbes.com##.amp-player-wrapper
+forbes.com##.article-mobile-ad
+forbes.com##.embedly-align
+forbes.com##.footer-ad-labeling
+forbes.com##.footer-links
+forbes.com##.fs-sponsored
+forbes.com##.mobile-article-footer.fs-text-xxs
+forbes.com##.open-web_anchor
+forbes.com##.recirc-module
+forbes.com##.subscribe
+forbes.com##small.copy
+frontofficesports.com##.card-wrapper--sponsored
+frontofficesports.com##.col-desk-12 .footer-meta
+frontofficesports.com##.footer-company-info .mobile-footer-links
+frontofficesports.com##.footer-company-info .text.footer-company-desc
+frontofficesports.com##.footer-cta__left
+frontofficesports.com##.footer-cta__right
+frontofficesports.com##.footer-links__socials
+frontofficesports.com##.footer-main .back-to-top-container
+frontofficesports.com##.footer-meta .address
+frontofficesports.com##.footer-meta .copyright-text
+frontofficesports.com##.fos-popup.newsletter-popup
+frontofficesports.com##.header-banner
+frontofficesports.com##.newsletter-sticky-bar
+frontofficesports.com##.newsletter-sticky-bar.light-grey-bg
+frontofficesports.com##.post-share
+frontofficesports.com##.related-posts
+frontofficesports.com##.ticker-row
+gizmodo.com###connatix-mid-article-thumbnails
+gizmodo.com###dfp-ad-1
+gizmodo.com###leftrail_dynamic_ad_wrapper
+gizmodo.com###secondScroll
+gizmodo.com###sharingfooter
+gizmodo.com###splashy-ad-container-top
+gizmodo.com###taboola-below-article-thumbnails
+gizmodo.com##.ad-container
+gizmodo.com##.ad-mobile
+gizmodo.com##.ad-mobile-dynamic
+gizmodo.com##.ad-splashy-mid
+gizmodo.com##.ad-teads-outstream
+gizmodo.com##.ad-top-banner
+gizmodo.com##.ad-unit
+gizmodo.com##.author-bio__wrapper .author-bio__inner
+gizmodo.com##.connatix-main-container
+gizmodo.com##.contained-ad-container
+gizmodo.com##.contained-ad-shaft
+gizmodo.com##.dfp
+gizmodo.com##.fbc-has-badge
+gizmodo.com##.fbc-UID_3
+gizmodo.com##.fLVUvs
+gizmodo.com##.footer-nav .footer-copyright
+gizmodo.com##.footer-nav .footer-links
+gizmodo.com##.footer-nav .footer-logo.js_site-footer-logo
+gizmodo.com##.footer-nav .footer-social
+gizmodo.com##.footer-social
+gizmodo.com##.GoogleActiveViewElement
+gizmodo.com##.GoogleActiveViewInnerContainer
+gizmodo.com##.instream-native-video
+gizmodo.com##.instream-native-video--mobile
+gizmodo.com##.instream-permalink
+gizmodo.com##.js_ad-dynamic
+gizmodo.com##.js_ad-mobile-dynamic
+gizmodo.com##.js_ad-sticky-footer
+gizmodo.com##.js_ad-top-banner
+gizmodo.com##.js_contained-ad-container
+gizmodo.com##.js_link:nth-of-type(2)
+gizmodo.com##.js_reading-list
+gizmodo.com##.js_related-stories-inset
+gizmodo.com##.js_share-tools
+gizmodo.com##.js_sticky-footer
+gizmodo.com##.main__content.js_main__content #js_discussion-region
+gizmodo.com##.mezzanine
+gizmodo.com##.movable-ad
+gizmodo.com##.newsletter-subscribe
+gizmodo.com##.post-bottom.js_postbottom-waypoint-hook .post-bottom__inner
+gizmodo.com##.post-tools-wrapper.left .reply-to-post--mobile.js_reply-to-post.readonly-hide
+gizmodo.com##.teads-wrapper
+gizmodo.com##.video-html5-playlist
+gizmodo.com##div div.instream-native-video
+gizmodo.com##Hide .newsletter-subscribe-wrapper.newsletter-btn.open .newsletter-subscribe.newsletter-subscribe--email
+knoxnews.com###acm-ad-tag-lawrence_dfp_desktop_arkadium
+knoxnews.com###acm-ad-tag-lawrence_dfp_mobile_arkadium
+knoxnews.com###onetrust-consent-sdk
+knoxnews.com###primary #after-post
+knoxnews.com###primary > .noskim
+knoxnews.com##*[class^="ad-"]
+knoxnews.com##*[id^="ad-"]
+knoxnews.com##.article__author__social
+knoxnews.com##.article__share
+knoxnews.com##.div.listicle-instream-ad-holder
+knoxnews.com##.entry-content.normal-format .noskim
+knoxnews.com##.footer__blog .footer__blog__row:nth-of-type(2)
+knoxnews.com##.footer__contact
+knoxnews.com##.footer__legal__menu
+knoxnews.com##.footer__vip
+knoxnews.com##.gnt_n_bn
+knoxnews.com##.listicle-instream-ad-holder
+knoxnews.com##.mobile-instream-ad-holder-single
+knoxnews.com##.newsletter
+knoxnews.com##.noskim .social-cta.container.column
+knoxnews.com##.story-share-buttons
+knoxnews.com##a[aria-label^="Share"]
+knoxnews.com##article > div:first-of-type:has(button)
+knoxnews.com##aside:has(>a[data-t-l*="play"])
+knoxnews.com##aside:has(>a[href^="/story/"])
+knoxnews.com##aside[aria-label^="Newsletter"]
+knoxnews.com##aside[aria-label="advertisement"]
+knoxnews.com##aside[aria-label="advertisement"] div[id^="~ad-slot"]
+knoxnews.com##aside[data-c-cta="DIG DEEPER"]
+knoxnews.com##div:has(>aside[aria-label="advertisement"])
+knoxnews.com##div[aria-label="About"]
+knoxnews.com##div[aria-label="Our Partners"]
+knoxnews.com##div[aria-label="Our Portfolio"]
+knoxnews.com##div[aria-label="Stay Connected"]
+knoxnews.com##div[aria-label="Support"]
+knoxnews.com##div[data-g-r="base_sc"]
+knoxnews.com##div[data-g-r="lazy"]
+knoxnews.com##div[elementtiming="footer-cr"]
+knoxnews.com##div[id^="~ad-slot"]
+knoxnews.com##div[style^="display: initial; visibility:initial"]
+knoxnews.com##p:has(>em>a[href*="facebook"])
+larrybrownsports.com###content #disqus_thread
+larrybrownsports.com###content #featured
+larrybrownsports.com###content div[id^="ad-"]
+larrybrownsports.com###main .right-column
+larrybrownsports.com##.ad-aligncenter .ad-row
+larrybrownsports.com##.ad-row div[id^="ad-"]
+larrybrownsports.com##.adsanity-inner
+larrybrownsports.com##.adsanity-inner div[id^="div-gpt-ad-"]
+larrybrownsports.com##.content.clearfix .right.nav
+larrybrownsports.com##.header-ad.full-width-ad
+larrybrownsports.com##.meta-comments
+larrybrownsports.com##.ml-form-align-center .ml-form-embedWrapper.embedForm
+larrybrownsports.com##.postmeta .right.socials
+larrybrownsports.com##.right-column .widget.clearfix.adsanity-single
+larrybrownsports.com##div[id^="ad-"] .adsanity-inner
+larrybrownsports.com##div[id^="ml-webforms-popup"]
+larrybrownsports.com##div[id^="related-"]
+liveforlivemusic.com###gform_wrapper_1 #gform_1
+liveforlivemusic.com###social-menu #menu-social-menu
+liveforlivemusic.com##.ad-zone .ad-embed
+liveforlivemusic.com##.between-article-ad
+liveforlivemusic.com##.between-article-ad .row
+liveforlivemusic.com##.scroll-content.loading-content::after
+liveforlivemusic.com##.share-post
+liveforlivemusic.com##.sidebar-wrap
+liveforlivemusic.com##.social-menu
+liveforlivemusic.com##div.collapsed.row
+liveforlivemusic.com##footer div.row
+macrumors.com###content #adUnder_mobile
+macrumors.com###content .newsletter
+macrumors.com###maincontent #comments
+macrumors.com###maincontent h2
+macrumors.com###mc-embedded-subscribe-form
+macrumors.com##*[class^="brand--"] *[class^="utility--"]
+macrumors.com##.slick-inline-search-panel
+macrumors.com##.teaser .teaser_footer
+macrumors.com##.tertiary
+macrumors.com##article > div[class^="footer--"]
+macrumors.com##div[class^="block--"]
+macrumors.com##div[class^="colLinks--"] h2
+macrumors.com##div[class^="colLinks__"]
+macrumors.com##div[class^="colStaff--"] .button
+macrumors.com##div[class^="colStaff--"] div[class^="staffList--"]
+macrumors.com##div[class^="colStaff--"] h2
+macrumors.com##div[class^="colStaff--"] p
+macrumors.com##div[class^="footer--"] div
+macrumors.com##div[class^="footerBottom--"]
+macrumors.com##div[class^="social--"]
+newsmax.com###artPgLeftWrapper .nmSectionHead.nmDefault
+newsmax.com###divArticleRelatedStories
+newsmax.com###divArticleSpecialLinks
+newsmax.com###nmabm
+newsmax.com###nmsbma__container
+newsmax.com###nmSupportNavCont
+newsmax.com###NMTVplayer-schedule
+newsmax.com###nmx_vplayer
+newsmax.com###videoframecontainerheader
+newsmax.com##.articleCopyright
+newsmax.com##.commentlink
+newsmax.com##.disqussHelp
+newsmax.com##.NMTVplayer-footer
+newsmax.com##.queryly_overlay
+newsmax.com##div[id^="dfp-ia"]
+newsweek.com###dfp-ad-bottom-wrapper
+newsweek.com###dfp-ad-sticky
+newsweek.com###dfp-ad-sticky-wrapper
+newsweek.com###vf-skeleton-container
+newsweek.com##.block-fusion-ads
+newsweek.com##.slick-dots,[class^="ArticleFooter_middle"]
+newsweek.com##.slick-initialized
+newsweek.com##.slick-list
+newsweek.com##.slick-slider,[class^="Trending"]
+newsweek.com##.slick-track
+newsweek.com##.sticky-bottom-ad
+newsweek.com##.vf-skeleton-conversations-container
+newsweek.com##[class^="ArticleContentCorrectionBanner_banner"]
+newsweek.com##[class^="ArticleFooter_bottom"]
+newsweek.com##[class^="ArticleFooter_socialLinks"]
+newsweek.com##[class^="AuthorAndActions"]
+newsweek.com##[class^="dfp-"]
+newsweek.com##[class^="FeaturedMedia_"]
+newsweek.com##[class^="Opinion"]
+newsweek.com##[class^="Reccomended"]
+newsweek.com##[class^="Related"],[class^="TopStories_topStories"]
+newsweek.com##[class^="ResponsiveBreadcrumbs_container"]
+newsweek.com##[class^="ToolTip_toolTipWraper"]
+newsweek.com##[class^="Viafoura"]
+newsweek.com##[class^="VideoPlayer_"]
+newsweek.com##[id^="dfp-ad"]
+newsweek.com##div:has(>[class^="FeaturedMedia_container"])
+newsweek.com##div:has(>div[class^="Divider_custom"]>div[role="separator"])
+newsweek.com##div[class^="ArticleHeader_container"] div[class^="ArticleHeader_visible"]
+newsweek.com##div[class^="BreakingBar_breakingBar"]
+newsweek.com##div[class^="GooglePreferredSourceBanner"]
+newsweek.com##div[class^="RecommendedForYou"]
+newsweek.com##p[class^="Paragraph_blockParagraph"]:has(>strong)
+nypost.com##
+nypost.com###menu-mobile-footer-links
+nypost.com###nypost-openweb-conversation
+nypost.com##.ad
+nypost.com##.ad--background
+nypost.com##.ad--container
+nypost.com##.ad--inline
+nypost.com##.article-footer__read-next
+nypost.com##.article-header__meta .article-header__social-icons
+nypost.com##.breaking-news
+nypost.com##.footer-legal
+nypost.com##.inline-module--more
+nypost.com##.inline-module--related-post
+nypost.com##.membership-comments-module
+nypost.com##.membership-reactions-module
+nypost.com##.nyp-slideshow-modal-image.wp-block-image.aligncenter.size-large .credit
+nypost.com##.powered-by-wpcom
+nypost.com##.single__outbrain
+nypost.com##.social-footer
+nypost.com##.social-icons
+nypost.com##.story--next
+nypost.com##.widget-wrapper
+nypost.com##div[id^="zergnet-widget"]
+nytimes.com###storyline-root
+nytimes.com###top-league-content-root
+nytimes.com##a[id^="showcase-link"]
+nytimes.com##div[class*="Article_ArticleBylineSocial"]
+nytimes.com##div[class*="WriterBio"]
+nytimes.com##div[class^="Article_CommentsWrapper"]
+nytimes.com##div[class^="ArticleRelatedTags"]
+nytimes.com##div[class^="Footer"] > div[class^="Grid_container"] > div[class^="Grid_item"] > div
+nytimes.com##div[class^="Footer"] > nav
+nytimes.com##div[class^="MobileNav_LeagueNav"]
+nytimes.com##div[class^="MobileNav_MobileSubscribeDisplay"]
+nytimes.com##div[class^="Puzzle"]
+nytimes.com##div[class^="ToastContainer-module_toaster"]
+nytimes.com##div[id^="dfp-ad"]
+on3.com###h-not-a-member-alabama-fans-join-bol-today
+on3.com###jwplayerSpacing
+on3.com###mpu_top
+on3.com###top .uix_fabBar
+on3.com##.adcontainer
+on3.com##.adhesion
+on3.com##.adhesionAd
+on3.com##.adthrive-ad
+on3.com##.amp-next-page-links
+on3.com##.amp-next-page-links .amp-next-page-link
+on3.com##.cnx-player-wrapper.cnx-size-responsive .cnx-playspace-container.cnx-in-ps-landscape.cnx-pinned.cnx-pinned-top-floating.cnx-in-mobile.cnx-bp-lg-v.cnx-bp-sm-st.cnx-in-hide-ui
+on3.com##.cnx-playspace-container.cnx-in-ps-landscape.cnx-pinned.cnx-pinned-top-floating.cnx-in-mobile.cnx-bp-lg-v.cnx-bp-sm-st.cnx-in-hide-ui div[id^="id_"]
+on3.com##.cnx-playspace-footer
+on3.com##.cnx-size-responsive
+on3.com##.cnx-ui-ps-content.cnx-ui-ps-side-mg .cnx-ui-ps__wrapper.cnx-ui-ps__title--default
+on3.com##.copyright
+on3.com##.i-amphtml-sticky-ad-layout
+on3.com##.infinite-scroll-component > div:nth-of-type(1n+3)
+on3.com##.infinite-scroll-component h4
+on3.com##.jw-float-to-top
+on3.com##.leader
+on3.com##.linklist
+on3.com##.more-link
+on3.com##.related-ad
+on3.com##.relatedBlock
+on3.com##.related-Block
+on3.com##.social
+on3.com##.tp-iframe-wrapper.tp-active
+on3.com##.uix_fabBar
+on3.com##[class^="AlternateArticle_article"]::after
+on3.com##[class^="ExcoPlayer_container"]
+on3.com##[class^="ShareIcons_iconContainer"]
+on3.com##a[class^="Article_seperatorbar"]
+on3.com##a[class^="Article_twitter"]
+on3.com##a[href*="/join/"]
+on3.com##article[class^="Article_article"]::after
+on3.com##button > span[class^="ShareIcons_readInApp"]
+on3.com##button[class*="ShareIcons"]
+on3.com##div:has(> p > a[href^="https://prizepicks"])
+on3.com##div[class$="-ad-block"]
+on3.com##div[class*="_socialLinksContainer"]
+on3.com##div[class^="Article"] > p:has(> strong > a[href*="newsletter"])
+on3.com##div[class^="Article_commentBlock"]
+on3.com##div[class^="Article_header__"] div[class^="Article_shareBlock__"]
+on3.com##div[class^="Article_innerstyles_"] div[class^="ConnatixPlayer_container_"]
+on3.com##div[class^="Article_trending_"]:has(> section[class^="TopHeadlines"])
+on3.com##div[class^="ArticleBarrierWrapper_blocker"]
+on3.com##div[class^="ArticleWrapper_articleWrapper"] > section > div[class^="Feed_articlesContainer"]
+on3.com##div[class^="ArticleWrapper_promo"]
+on3.com##div[class^="ArticleWrapper_trendingWrapper_"]
+on3.com##div[class^="Base_secondary_"]
+on3.com##div[class^="ConnatixPlayer_"]:has(> cnx)
+on3.com##div[class^="HalfOff"]
+on3.com##div[class^="MobileMPU_ad"]
+on3.com##div[class^="MPU_ad"]
+on3.com##div[class^="NetworkFooter_aboutSection"]
+on3.com##div[class^="NetworkFooter_inner__"] div[class^="NetworkFooter_copyright__"]
+on3.com##div[class^="NetworkFooter_menu_"] > div[class^="NetworkFooter_"]:not(div[class^="NetworkFooter_logo_"])
+on3.com##div[class^="NetworkFooter_menu__"] div[class^="NetworkFooter_badges__"]
+on3.com##div[class^="NetworkFooter_menu__"] div[class^="NetworkFooter_links__"]
+on3.com##div[class^="NetworkFooter_social"]
+on3.com##div[class^="NetworkFooter_spiny"]
+on3.com##div[class^="NetworkFooter_supprtSection"]
+on3.com##div[class^="On3PlusRivalsBarrier"]
+on3.com##div[class^="PageWrapper_adhesion"]
+on3.com##div[class^="PianoPromo"]
+on3.com##div[class^="RelatedArticlesList_container"]
+on3.com##div[class^="ShareIcons_container"]
+on3.com##div[class^="SignUp"]
+on3.com##div[class^="SocialCallout_socialCalloutWrapper"]
+on3.com##div[class^="uix_sidebar"] > #forumsContent
+on3.com##div[class="wp-block-my-plugin-prizepicks-ad-block"]
+on3.com##div[data-article="true"]:not(:first-of-type) > article[class*="Article_scrollArticle"]
+on3.com##div[data-article="true"]:not(:first-of-type) > article[class^="Article_article"]
+on3.com##div[id^="id_"] .cnx-playspace-footer
+on3.com##div[id^="mobile_adhesion"]
+on3.com##div[id^="mobile_mpu_"]
+on3.com##h2[id*="not-a-member"]
+on3.com##h2[id*="not-a-member"] ~ p
+on3.com##iv[class^="ExcoPlayer_container"]:has(div[style*="fixed"])
+on3.com##link[rel="preload"][href^="/_next/"]
+on3.com##mula-smartscroll
+on3.com##nav[class^="TrendingMenu_block"]
+on3.com##nav[id="article-slider"]
+on3.com##p:has(> em > a > strong)
+on3.com##p:has(> strong > em > a)
+on3.com##p:last-of-type > strong:has(a)
+on3.com##p[class^="NetworkFooter_copyright"]
+on3.com##script[data-admiral="true"]
+on3.com##script[id="__NEXT_DATA__"]
+on3.com##script[src^="aid="]
+on3.com##section[class^="SideModuleWrapper_moduleContainer"]
+outkick.com##.adhesion-ad
+outkick.com##.author-byline
+outkick.com##.author-dek
+outkick.com##.author-list
+outkick.com##.breadcrumbs
+outkick.com##.item-newsletter
+outkick.com##.jw-flag-floating
+outkick.com##.legal
+outkick.com##.nav-footer
+outkick.com##.nav-legal
+outkick.com##.social-icons
+outkick.com##.sticky-ads
+outkick.com##div[class^="ad-"]
+outkick.com##h3
+outkick.com##h3 ~ p:has(>a[href^="https://www.outkick.com";])
+patch.com##.article-subscribe
+patch.com##.footer__copyright
+patch.com##.footer__section--full
+patch.com##.i-amphtml-sticky-ad-layout
+patch.com##.p-amp-body p:last-of-type
+patch.com##.p-amp-canon-link
+patch.com##.p-amp-dfp
+patch.com##.p-amp-foot.p-amp-center .small
+patch.com##.p-amp-like-reply
+patch.com##.p-amp-recirc
+patch.com##.p-amp-recirc-header
+patch.com##a[title*="App"]
+patch.com##amp-ad
+patch.com##aside.page__side
+patch.com##button[class^="MuiButton"]
+patch.com##div.p-amp-dfp
+patch.com##div[class*="AdBlock"]
+patch.com##div[class^="ContentBlocks_CardDetail__ContentBlock"]:has(>img[src^="https://ad";])
+patch.com##div[class^="js-ad"]
+patch.com##div[class^="styles_HTMLContent"]:has(>hr)
+patch.com##div[class^="styles_LatestArticles__"]
+patch.com##h2.footer__header--ring
+patch.com##hr
+patch.com##i.fa-flag-fal
+patch.com##section.block
+patch.com##section.footer__section
+patentlyapple.com###admodule-inner #PatentlyApple-PapayAds-TOP-Banner
+patentlyapple.com###all-comments .comments-header.font-entryheader
+patentlyapple.com###all-comments .fas.fa-comments
+patentlyapple.com###atp-comments #primary-comment-form
+patentlyapple.com###imgbanner-admodule
+patentlyapple.com##.col-md-12 #footer-inner
+patentlyapple.com##.container #footer
+patentlyapple.com##.left-container-inner #all-comments
+patentlyapple.com##.module-content .cat-more
+patentlyapple.com##.module-custom_html.module .module-content
+patentlyapple.com##.widgets .widgets-inner.bottomwidgets
+patentlyapple.com##.widgets-inner.bottomwidgets .module-categories.module
+pewterreport.com###comments
+pewterreport.com###home .fusion-no-lightbox
+pewterreport.com###wpd-bubble #wpd-bubble-add-message
+pewterreport.com##.awb-sticky.fusion-layout-column > .fusion-content-layout-column
+pewterreport.com##.fa-comments
+pewterreport.com##.fusion-builder-column .fusion-no-lightbox
+pewterreport.com##.fusion-builder-row.fusion-row.fusion-flex-align-items-flex-start .hover-type-none.imageframe-none.fusion-imageframe > .fusion-no-lightbox
+pewterreport.com##.fusion-comments-tb
+pewterreport.com##.fusion-flex-column.fusion-builder-column-28.fusion_builder_column.fusion-layout-column > .fusion-content-layout-column.fusion-flex-justify-content-flex-start.fusion-column-wrapper .fusion-text
+pewterreport.com##.fusion-flex-column.fusion-builder-column-28.fusion_builder_column.fusion-layout-column > .fusion-content-layout-column.fusion-flex-justify-content-flex-start.fusion-column-wrapper .imageframe-none.fusion-imageframe .img-responsive
+pewterreport.com##.fusion-footer .fusion-text
+pewterreport.com##.fusion-fullwidth.fullwidth-box.fusion-builder-row-6.fusion-flex-container.has-pattern-background.has-mask-background.nonhundred-percent-fullwidth.non-hundred-percent-height-scrolling .fusion-builder-row.fusion-row.fusion-flex-align-items-flex-start
+pewterreport.com##.fusion-pagination-tb
+pewterreport.com##.fusion-text-8.fusion-text
+pewterreport.com##.g-2.g
+pewterreport.com##.raptive-content-terms-footer
+pewterreport.com##[class*="-ad-"]
+pewterreport.com##[class^="adthrive"]
+pewterreport.com##[class^="google-ad"]
+pewterreport.com##[id*="-ad-"]
+pewterreport.com##[id^="adthrive"]
+pewterreport.com##div[class^="adthrive-"] ~ div[class^="img_"]
+pewterreport.com##div[class^="fusion-social"]
+pewterreport.com##div[class^="gbbbldx"]
+pewterreport.com##div[data-google-query-id]
+rivals.com##
+rivals.com##.copyright-section
+rivals.com##.cta-header-banner
+rivals.com##.ds_cpp_inner
+rivals.com##.ds_cpp_wrapper
+rivals.com##.footer-link-line
+rivals.com##.ra-container
+rivals.com##.share-links
+rivals.com##.sticky-footer
+rivals.com##.third_party_consent_embed
+rivals.com##.trending
+rivals.com##div[class*="-ads-"]
+rivals.com##div[class^="Ads_horizontalContainer"]
+rivals.com##div[class^="Alert_alert"]
+rivals.com##div[class^="Dashboard_eventTickerContainer"]
+rivals.com##div[class^="Footer_copyrightSection"]
+rivals.com##div[class^="Footer_footerLinks"]
+rivals.com##rv-header-alert
+rivals.com##rv-share-links
+rolltide.com###_story_news_bottom
+rolltide.com###_story_videos_bottom
+rolltide.com###b_container
+rolltide.com###consentManagerMainDialog
+rolltide.com###container .hide-acc.skip-link
+rolltide.com###ctl00_upperRotator .row
+rolltide.com###divSatisfiChat
+rolltide.com###global-top-ad
+rolltide.com###google_ads_iframe
+rolltide.com###mainHeaderWrapper > div:first-child:not(.main-header)
+rolltide.com###quicklinks-section
+rolltide.com###sidearm-adblock
+rolltide.com###sportcountdownmobile .row.row--narrow
+rolltide.com###ssRosterDonation
+rolltide.com###ssRosterNews
+rolltide.com###ssRosterVideos
+rolltide.com###transcend-consent-manager
+rolltide.com##.ad
+rolltide.com##.ad.html-a
+rolltide.com##.ad-leaderboard .dfp-ad
+rolltide.com##.ad-lower-leaderboard
+rolltide.com##.ad-rotator.ad-rotator--lower .row
+rolltide.com##.ad-rotator--lower .ads-container
+rolltide.com##.ads
+rolltide.com##.ads-container
+rolltide.com##.ad-video-leaderboard
+rolltide.com##.article-social-media.noprint
+rolltide.com##.atf__secondary-ad
+rolltide.com##.c-ads
+rolltide.com##.c-advert
+rolltide.com##.c-common-footer.component
+rolltide.com##.c-common-footer--learfield
+rolltide.com##.c-countdown--horizontal .c-countdown__sponsor
+rolltide.com##.c-navigation__ad
+rolltide.com##.c-navigation__social-container
+rolltide.com##.c-nav-mobile__sponsor
+rolltide.com##.common-footer-wrapper
+rolltide.com##.common-top-ad
+rolltide.com##.component.c-sticky-leaderboard
+rolltide.com##.c-shop
+rolltide.com##.c-sticky-leaderboard
+rolltide.com##.c-stories__ad
+rolltide.com##.c-story-page__custom-ad
+rolltide.com##.dfp-2
+rolltide.com##.dfp-ad
+rolltide.com##.dfp-container
+rolltide.com##.empty\:hidden
+rolltide.com##.flex:has(div[id^="_story_videos_bottom"])
+rolltide.com##.flex-justify-center.sidearm_schedule-ticket-text
+rolltide.com##.grecaptcha-badge
+rolltide.com##.hide
+rolltide.com##.main-footer__bottom
+rolltide.com##.main-footer__common
+rolltide.com##.main-footer__common .row
+rolltide.com##.main-header__ad
+rolltide.com##.main-header__notsticky
+rolltide.com##.main-header__top-ad
+rolltide.com##.main-header__top-ad-inner
+rolltide.com##.main-header__top-ad-inner.row.pad
+rolltide.com##.promotion__container
+rolltide.com##.right-column-top-ads
+rolltide.com##.s-advert
+rolltide.com##.s-awards
+rolltide.com##.s-game-card__header-inner-bottom
+rolltide.com##.sidearm-ad-state
+rolltide.com##.sidearm-aria-labelledby-fixed
+rolltide.com##.sidearm-common-promotion
+rolltide.com##.sidearm-story-custom-share-links
+rolltide.com##.sidearm-story-image-align-center
+rolltide.com##.sidearm-story-image-align-right
+rolltide.com##.sidearm-story-template-share
+rolltide.com##.single-ad.ad
+rolltide.com##.s-paciolan
+rolltide.com##.s-parallax
+rolltide.com##.s-people
+rolltide.com##.sportfile-content > p > iframe[src^="http://tunein.com"]
+rolltide.com##.s-sponsors
+rolltide.com##.s-stories-module--wrapper
+rolltide.com##.stickybar
+rolltide.com##.s-videos-module--wrapper
+rolltide.com##.ua-story .ua-story__header
+rolltide.com##.ua-story .ua-story__header-bg
+rolltide.com##.ua-story__ad
+rolltide.com##.ua-story__ad--lower
+rolltide.com##.ua-story__related-video
+rolltide.com##.ua-story__sidebar
+rolltide.com##ads-component
+rolltide.com##app-game-dfp-ad
+rolltide.com##body > div:last-of-type:not(#app)
+rolltide.com##body > div[class][aria-label="Ad Blocker Detected"]
+rolltide.com##button.satisfi_chat-button
+rolltide.com##div[class*="-ads-"]
+rolltide.com##div[class*="-advert-"]
+rolltide.com##div[class*="-promotion"]
+rolltide.com##div[class^="lg:sidearm-rail"]:has(#_story_news_rail)
+rolltide.com##div[class^="s-share"]
+rolltide.com##div[class="my-4 print:hidden lg:my-8"]
+rolltide.com##div[pos="outstream"]
+rolltide.com##footer > .pb-2 > a
+rolltide.com##next-event-component
+rolltide.com##p:has(a):has(picture):has(source[srcset*="_ad"])
+rolltide.com##script[src*="cdn.transcend.io"]
+rolltide.com##tr.s-table-body__row--ad
+rolltide.com##ul.s-common-footer__links
+si.com###bottom-placeholder
+si.com###div-sticky-bottom
+si.com###main-article .viewablity-block .article-content ~ div.flex:has(a[href^="/author/"])
+si.com###main-article .viewablity-block .article-content ~ div:has(a[href="https://www.si.com";])
+si.com###voltax-mp-video
+si.com##.mm-content-embed > p
+si.com##.mm-slot-content
+si.com##.mplayer-video
+si.com##.placeholderFiniteScroll
+si.com##.player-wrapper
+si.com##.umb
+si.com##.userway_p1
+si.com##.uwy
+si.com##button#accessibilityWidget
+si.com##button[class^="twitterButton"]
+si.com##div:has(>a.font-group-tiny)
+si.com##div:has(>a[data-vars-action="Breadcrumbs clicked"])
+si.com##div:has(>hr.border-borderGrey)
+si.com##div[class^="authorSocial_"]
+si.com##div[class^="contentContainer_"] > .viewablity-block
+si.com##div[class^="inStoryContainer_"]
+si.com##div[class^="socialContainer"]
+si.com##div[class="mm-slot-content"]
+si.com##div[data-gpid*="tout_"]
+si.com##div[data-target="ad"]
+si.com##div[id^="bottom-placeholder-"]
+si.com##div[id^="div-gpt-ad"]
+si.com##div[id^="google_ads_iframe"]
+si.com##figure:has(.mplayer-video)
+si.com##figure:has(>blockquote.mm-content-embed)
+si.com##footer div[class^="linksWrapper_"]
+si.com##footer div[class^="separator_"]
+si.com##footer div[class^="wrapper_"]
+si.com##footer nav
+si.com##footer p
+si.com##h2[class^="tagStyle_"]
+si.com##h2[class^="tagStyle_"] ~ div
+si.com##h3[q\:key="0"]
+si.com##h3[q\:key="0"] ~ ul > li:has(a[target="_blank"])
+si.com##header > div[class^="wrapper"][class*="tagStyle"]:has(>ul)
+si.com##hr ~ h3[id^="inline-text"]
+si.com##iframe#rufous-sandbox
+si.com##iframe[id^="google_ads_iframe"]
+si.com##iframe[name="__pb_locator__"]
+si.com##section[class^="sectionStyle_"] > hr
+sportico.com##
+sportico.com###adm-mobile-bottom-sticky-ad
+sportico.com###pmc-atlasmg-adhesion-bar
+sportico.com##.ad-text
+sportico.com##.article-tags
+sportico.com##.boomerang
+sportico.com##.c-heading
+sportico.com##.footer-social
+sportico.com##.lrv-u-border-t-1
+sportico.com##.lrv-u-margin-lr-auto.a-children-border--brand-secondary
+sportico.com##.lrv-u-margin-t-1.c-tagline
+sportico.com##.newswire
+sportico.com##.o-email-capture-form
+sportico.com##.o-nav:nth-of-type(2)
+sportico.com##.o-nav:nth-of-type(3)
+sportico.com##.o-nav:nth-of-type(4)
+sportico.com##.pmc-adm-boomerang-pub-div
+sportico.com##.pmc-footer
+sportico.com##.pmc-pp-tou--notice
+sportico.com##.social-share
+sportico.com##.trending-stories-widget
+sportico.com##aside
+sportico.com##div[class*="adm"]
+sportico.com##div[data-is-adhesion-ad="1"]
+sportico.com##div[id^="img_"]:has(>div[id^="img_"]>div[id^="img_"]>iframe[aria-label="Advertisement"])
+sportico.com##div[style^="display: initial; visibility: initial"]
+sportico.com##iframe[aria-label="Advertisement"]
+sports.yahoo.com###feature-bar
+sports.yahoo.com###happeningNow
+sports.yahoo.com###link-package-module
+sports.yahoo.com###ybar-navigation > .flex
+sports.yahoo.com##.article-footer
+sports.yahoo.com##.bottom-wrapper
+sports.yahoo.com##.comments-wrapper
+sports.yahoo.com##.content-trending
+sports.yahoo.com##.footer-copyright
+sports.yahoo.com##.footer-links
+sports.yahoo.com##.share-wrap
+sports.yahoo.com##.story-full > .content-start:nth-of-type(1n+2)
+sports.yahoo.com##.text-fade-right
+sports.yahoo.com##div[class^="GoogleBtn_btn"]
+sports.yahoo.com##div[class^="SubNavigation_subnavLeft"]
+sports.yahoo.com##div[id^="sda-"]
+sports.yahoo.com##section.consent .content-iframe
+sports.yahoo.com##ul.ft-links
+sportsbusinessjournal.com###copytoclipboardpopup .copytoclipboardpopupbody
+sportsbusinessjournal.com###evg-exit-intent-popup
+sportsbusinessjournal.com##.b-standard-article-layout__section .issue-navigation
+sportsbusinessjournal.com##.b-standard-article-layout__section .section-title.underlined
+sportsbusinessjournal.com##.c-grid.b-triple-chain__children-grid .c-stack.b-triple-chain__child-item
+sportsbusinessjournal.com##.container .row.story-column-footer
+sportsbusinessjournal.com##.container .sponsored
+sportsbusinessjournal.com##.content-holder .sidebar
+sportsbusinessjournal.com##.c-stack.b-double-chain__child-item .c-stack.b-share-bar.sbj-share-bar
+sportsbusinessjournal.com##.c-stack.b-single-chain__children-stack > div[id^="arcad-feature-"]
+sportsbusinessjournal.com##.footer .subscription-bar
+sportsbusinessjournal.com##.footer__top-wrapper .footer-top-nav
+sportsbusinessjournal.com##.footer-main-nav__wrapper .footer-main-nav__left
+sportsbusinessjournal.com##.footer-main-nav__wrapper .main-nav__bottom
+sportsbusinessjournal.com##.main #copytoclipboardpopup
+sportsbusinessjournal.com##.nav-col .nav-col__category
+sportsbusinessjournal.com##.paywall-footer-container .paywall-footer-top-bar
+sportsbusinessjournal.com##.related-story-card
+sportsbusinessjournal.com##.row.story-column-footer .podcasts
+sportsbusinessjournal.com##.row.story-column-footer .sbj-tv
+sportsbusinessjournal.com##.sidebar .clone-news
+sportsbusinessjournal.com##.sidebar .sbj-tv
+sportsbusinessjournal.com##.sponsored
+sportsbusinessjournal.com##.sponsored .row
+sportsbusinessjournal.com##.topics .sponsored
+sportsbusinessjournal.com##.wrapper .paywall-footer-container
+sportsbusinessjournal.com##.wrapper > .container
+tdalabamamag.com###adthrive-auto-injected-container
+tdalabamamag.com###adthrive-ccpa-link
+tdalabamamag.com###bbcustom-infinite-loading
+tdalabamamag.com###bbcustom-infinite-posts-container
+tdalabamamag.com###ccpaTag
+tdalabamamag.com###mvp-author-box-wrap
+tdalabamamag.com###mvp-content-main a:has(>img[src*="tdalabama"])
+tdalabamamag.com###mvp-foot-top
+tdalabamamag.com###mvp-leader-wrap
+tdalabamamag.com###mvp-mob-soc-wrap
+tdalabamamag.com###mvp-more-post-wrap
+tdalabamamag.com###mvp-side-wrap
+tdalabamamag.com##.mailmunch-forms-after-post
+tdalabamamag.com##.mvp-fly-but-click
+tdalabamamag.com##.mvp-fly-fade
+tdalabamamag.com##.mvp-post-cat
+tdalabamamag.com##.mvp-post-tags
+tdalabamamag.com##.mvp-twit-but
+tdalabamamag.com##.posts-nav-link
+tdalabamamag.com##.raptive-content-terms-footer
+tdalabamamag.com##.raptive-content-terms-footer-link
+tdalabamamag.com##.raptive-content-terms-modal
+tdalabamamag.com##.sabox-authors
+tdalabamamag.com##div:has(>a[href^="subscription"])
+tdalabamamag.com##div[class^="adthrive"]
+tdalabamamag.com##div[class^="kargo"]
+tdalabamamag.com##div[data-google-query-id]
+tdalabamamag.com##div[id^="AdThrive"]
+tdalabamamag.com##div[id^="c1s-video-container"]
+tdalabamamag.com##div[id^="google_ads_iframe"],.mvp-foot-soc-list
+tdalabamamag.com##div[id^="img_"]:not(header div)
+tdalabamamag.com##footer
+tdalabamamag.com##iframe[src^="https://playlist.megaphone.fm"]
+tdalabamamag.com##section[id^="custom_html-"]
+thebump.com## p[class="medical-disclaimer"]
+thebump.com###branch-banner-iframe
+thebump.com##.ad-height
+thebump.com##.dividingLine
+thebump.com##.download-card
+thebump.com##.editorial-box
+thebump.com##.hasSignUpBanner > .sign-up-banner
+thebump.com##.header-share
+thebump.com##.in-article-ad
+thebump.com##.join-button
+thebump.com##.leaderBoardAdWrapper
+thebump.com##.related-article
+thebump.com##.relatedVideoPrompt
+thebump.com##.right-rail .content
+thebump.com##.save-article-icon-wrapper
+thebump.com##.share
+thebump.com##.share-btn,.action-box
+thebump.com##.sign-up-banner
+thebump.com##.sign-up-in-bottom-container
+thebump.com##.sign-up-module 
+thebump.com##.sign-up-section
+thebump.com##.space-box
+thebump.com##.sponsor-ad-container
+thebump.com##.StagesCarouselFullScreen.mbm.isMargin
+thebump.com##.title
+thebump.com##.top-social-share
+thebump.com##a.shareBtn
+thebump.com##div[class^="NewLabel__StyledLabel"]
+thebump.com##div[class^="style__StyleFeedbackWidget"]
+thebump.com##div[class^="styles__StyledInlineSignUpContainer"]
+thebump.com##div[class^="Tooltip_"]
+thebump.com##div[style="min-height:526px"]
+thebump.com##footer
+thebump.com##p.list-link-item
+thebump.com##p.list-link-title
+thecrimsonwhite.com##.innerbackground #sno_teaserbar
+thecrimsonwhite.com##.sno-side-icons.icon-standard.icon-hover-standard
+thecrimsonwhite.com##.sno-story-cat-blocks
+thecrimsonwhite.com##.sno-story-related-content
+thecrimsonwhite.com##.sno-story-social-icons
+theverge.com##.adblock-allowlist-messaging__article-wrapper .adblock-allowlist-messaging__iframe
+theverge.com##.duet--article--article-byline
+theverge.com##.duet--article--comments-button
+theverge.com##.duet--article--comments-link
+theverge.com##.duet--article--date-and-comments
+theverge.com##.duet--article--more-stories
+theverge.com##.duet--article--share-buttons
+theverge.com##.duet--page-layout--standard-article .mx-auto.block.lg\:hidden
+theverge.com##.l-header .adblock-allowlist-messaging__article-wrapper
+theverge.com##.mx-auto.max-w-container-lg .flex.flex-col.lg\:flex-row
+tide1009.com###bottom-not-ads
+tide1009.com###hindsight-ads-iframe
+tide1009.com###ts_blogroll-afterpost
+tide1009.com##.branded-app-shortcode-inarticle
+tide1009.com##.carbon-overlay
+tide1009.com##.clearfix.newsletter-frame
+tide1009.com##.comments-wrapper
+tide1009.com##.content-footer.outgrow .post-bottom-sidebar
+tide1009.com##.cto.listen-live-cto
+tide1009.com##.details
+tide1009.com##.lazyload-placeholder.gallery-ad-lazyload-placeholder
+tide1009.com##.legal
+tide1009.com##.listen-live-ticker
+tide1009.com##.nav-social-links
+tide1009.com##.photogallery-wrapper-2
+tide1009.com##.photogallery-wrapper-3
+tide1009.com##.social
+tide1009.com##.social-bar
+tide1009.com##.social-links
+tide1009.com##.tags-lines
+tide1009.com##.tsm-ad
+tide1009.com##.widget-google-ads-widget
+tide1009.com##p + p + .in-view-sentinel-wrapper
+tiderinsider.com###top-addiv
+tiderinsider.com##[id^="google_ads_iframe"]
+tiderinsider.com##adcode
+tidesports.com##*[class*="gnt_x"]
+tidesports.com##.modal-fade-screen
+tidesports.com##.sign-up-banner[class^="jsx-"]
+tidesports.com##a[aria-label*="always working"]
+tidesports.com##a[aria-label^="Share"]
+tidesports.com##a[rel="sponsored"]
+tidesports.com##article > div[class^="gnt_"]:last-of-type
+tidesports.com##aside[aria-label^="Video"]
+tidesports.com##aside[aria-label="advertisement"]
+tidesports.com##aside[data-g-r="lazy"]
+tidesports.com##button[aria-label="Share natively"]
+tidesports.com##div > aside[aria-label="advertisement"]
+tidesports.com##div:has(> [class*="tbl"])
+tidesports.com##div:has(> a[data-t-l^=":contest"])
+tidesports.com##div:has(> div > a[data-t-l*="table"][data-t-l*="stack"])
+tidesports.com##div[aria-label^="Extra,"]
+tidesports.com##div[aria-label="More Stories"]
+tidesports.com##div[aria-label="Must Read"]
+tidesports.com##div[aria-label="Watch Now"]
+tidesports.com##div[aria-live="assertive"]
+tidesports.com##div[class="gnt_flp"]:has(div[aria-label="Featured Weekly Ad"])
+tidesports.com##div[elementtiming="footer-cr"]
+tidesports.com##div[id^="ad-slot"]
+tidesports.com##footer div:has([aria-label="Support"])
+tidesports.com##footer div[aria-label="About"]
+tidesports.com##footer div[aria-label="Our Partners"]
+tidesports.com##footer div[aria-label="Stay Connected"]
+tidesports.com##footer div[aria-label="Support"]
+tidesports.com##main > div:has(a[aria-label*="always working"])
+tidesports.com##main > div:last-of-type
+tidesports.com##p:has(a[data-t-l*="click"])
+tmz.com###disqus_thread
+tmz.com###tag-cloud-section
+tmz.com##.comments
+tmz.com##a[class*="google-preferred-link"]
+tuscaloosanews.com##*[class*="gnt_x"]
+tuscaloosanews.com##.modal-fade-screen
+tuscaloosanews.com##.sign-up-banner[class^="jsx-"]
+tuscaloosanews.com##[aria-label^="Trending"]
+tuscaloosanews.com##[data-c-cta^="DIG DEEPER"]
+tuscaloosanews.com##a[aria-label*="always working"]
+tuscaloosanews.com##a[aria-label^="Share"]
+tuscaloosanews.com##a[data-u-sr="anon reg"]
+tuscaloosanews.com##a[elementtiming="nav-submsg"]
+tuscaloosanews.com##a[href^="https://subscribe"]
+tuscaloosanews.com##a[rel="sponsored"]
+tuscaloosanews.com##article > div[class^="gnt_"]:last-of-type
+tuscaloosanews.com##aside
+tuscaloosanews.com##aside[aria-label^="Video"]
+tuscaloosanews.com##aside[aria-label="advertisement"]
+tuscaloosanews.com##aside[data-g-r="lazy"]
+tuscaloosanews.com##button[aria-label="Share natively"]
+tuscaloosanews.com##div > aside[aria-label="advertisement"]
+tuscaloosanews.com##div:has(> [class*="tbl"])
+tuscaloosanews.com##div:has(> a[data-t-l^=":contest"])
+tuscaloosanews.com##div:has(> div > a[data-t-l*="table"][data-t-l*="stack"])
+tuscaloosanews.com##div[aria-label^="Extra,"]
+tuscaloosanews.com##div[aria-label="More Stories"]
+tuscaloosanews.com##div[aria-label="Must Read"]
+tuscaloosanews.com##div[aria-label="Watch Now"]
+tuscaloosanews.com##div[aria-live="assertive"]
+tuscaloosanews.com##div[class="gnt_flp"]:has(div[aria-label="Featured Weekly Ad"])
+tuscaloosanews.com##div[data-g-r="lazy"]
+tuscaloosanews.com##div[elementtiming="footer-cr"]
+tuscaloosanews.com##div[id^="ad-slot"]
+tuscaloosanews.com##footer > div
+tuscaloosanews.com##footer div:has([aria-label="Support"])
+tuscaloosanews.com##footer div[aria-label="About"]
+tuscaloosanews.com##footer div[aria-label="Our Partners"]
+tuscaloosanews.com##footer div[aria-label="Stay Connected"]
+tuscaloosanews.com##footer div[aria-label="Support"]
+tuscaloosanews.com##header a[href^="https://login"]
+tuscaloosanews.com##header a[href^="https://puzzles"]
+tuscaloosanews.com##header a[href^="https://subscribe"]
+tuscaloosanews.com##main > div:has(a[aria-label*="always working"])
+tuscaloosanews.com##main > div:last-of-type
+tuscaloosanews.com##p:has(> strong ~ a[target="_blank"])
+tuscaloosanews.com##p:has(a[data-t-l*="click"])
+tuscaloosathread.com###bottom-not-ads
+tuscaloosathread.com###hindsight-ads-iframe
+tuscaloosathread.com###ts_blogroll-afterpost
+tuscaloosathread.com##.branded-app-shortcode-inarticle
+tuscaloosathread.com##.carbon-overlay
+tuscaloosathread.com##.clearfix.newsletter-frame
+tuscaloosathread.com##.comments-wrapper
+tuscaloosathread.com##.content-footer.outgrow .post-bottom-sidebar
+tuscaloosathread.com##.cto.listen-live-cto
+tuscaloosathread.com##.details
+tuscaloosathread.com##.lazyload-placeholder.gallery-ad-lazyload-placeholder
+tuscaloosathread.com##.legal
+tuscaloosathread.com##.listen-live-ticker
+tuscaloosathread.com##.nav-social-links
+tuscaloosathread.com##.photogallery-wrapper-2
+tuscaloosathread.com##.photogallery-wrapper-3
+tuscaloosathread.com##.social
+tuscaloosathread.com##.social-bar
+tuscaloosathread.com##.social-links
+tuscaloosathread.com##.tags-lines
+tuscaloosathread.com##.tsm-ad
+tuscaloosathread.com##.widget-google-ads-widget
+tuscaloosathread.com##p + p + .in-view-sentinel-wrapper
+usatoday.com###acm-ad-tag-lawrence_dfp_desktop_arkadium
+usatoday.com###acm-ad-tag-lawrence_dfp_mobile_arkadium
+usatoday.com###onetrust-consent-sdk
+usatoday.com###primary #after-post
+usatoday.com###primary > .noskim
+usatoday.com##*[class^="ad-"]
+usatoday.com##*[id^="ad-"]
+usatoday.com##.article__author__social
+usatoday.com##.article__share
+usatoday.com##.div.listicle-instream-ad-holder
+usatoday.com##.entry-content.normal-format .noskim
+usatoday.com##.footer__blog .footer__blog__row:nth-of-type(2)
+usatoday.com##.footer__contact
+usatoday.com##.footer__legal__menu
+usatoday.com##.footer__vip
+usatoday.com##.listicle-instream-ad-holder
+usatoday.com##.mobile-instream-ad-holder-single
+usatoday.com##.newsletter
+usatoday.com##.noskim .social-cta.container.column
+usatoday.com##.story-share-buttons
+usatoday.com##article > div:first-of-type:has(button)
+usatoday.com##aside:has(>a[data-t-l*="play"])
+usatoday.com##aside:has(>a[href^="/story/"])
+usatoday.com##aside[aria-label="advertisement"]
+usatoday.com##aside[aria-label="advertisement"] div[id^="~ad-slot"]
+usatoday.com##aside[data-c-cta="DIG DEEPER"]
+usatoday.com##div:has(>aside[aria-label="advertisement"])
+usatoday.com##div[aria-label="About"]
+usatoday.com##div[aria-label="Our Portfolio"]
+usatoday.com##div[aria-label="Stay Connected"]
+usatoday.com##div[aria-label="Support"]
+usatoday.com##div[elementtiming="footer-cr"]
+usatoday.com##div[id^="~ad-slot"]
+usatoday.com##div[style^="display: initial; visibility:initial"]
+usatoday.com##p:has(>em>a[href*="facebook"])
+wired.com##.ad
+wired.com##.ad--footer
+wired.com##.ad-height-hold
+wired.com##.ad--mid-content
+wired.com##.content-header__social-share
+wired.com##.contributors
+wired.com##.full-bleed-ad
+wired.com##.linkstack
+wired.com##.newsletter-subscribe-form
+wired.com##.row-mid-content-ad
+wired.com##.social-icons
+wired.com##.social-icons__list
+wired.com##.social-icons--footer
+wired.com##.social-icons--standard
+wired.com##button[class^="NavigationHeadingButton"]
+wired.com##div[class^="ad-stickyhero"]
+wired.com##div[class^="AdWrapper"]
+wired.com##div[class^="Container"] figure[class^="VideoFigure"]
+wired.com##div[class^="ContentFooterTagCloud"]
+wired.com##div[class^="NavigationDivider"]
+wired.com##div[class^="NavigationListWrapper"]
+wired.com##div[class^="NewsletterSubscribeFormWrapper"]
+wired.com##div[class^="PaywallBar"]
+wired.com##div[class^="SiteFooterAbout"]
+wired.com##div[class^="SiteFooterAboutText"]
+wired.com##div[class^="SiteFooterCollectionContainer"]
+wired.com##div[class^="SiteFooterNavigationContactVertical"]
+wired.com##div[class^="SiteFooterNoticesContainerWrapper"]
+wired.com##div[class^="SiteFooterNoticesWrapper"]
+wired.com##div[class^="SiteFooterSocialIcons"]
+wired.com##div[class^="SocialIconsList"]
+wired.com##div[class^="SocialIconsWrapper"]
+wired.com##div[class^="StickyHeroAdWrapper"]
+wired.com##div[class^="SummaryCollectionGridContent"]
+wired.com##div[class^="TagCloudWrapper"]
+wired.com##nav[aria-label="More From WIRED"]
+wired.com##nav[class^="SiteFooterNavigationVertical"]
+wired.com##p[class^="SiteFooterLegaleseText"]
+wvtm13.com###alerts-container .alerts--control
+wvtm13.com##.ad-label
+wvtm13.com##.ad-leaderboard
+wvtm13.com##.ad-rectangle
+wvtm13.com##.footer-copyright-disclaimer
+wvtm13.com##.footer-inner .footer-copyright
+wvtm13.com##.footer-inner .footer-legal-items.columns
+wvtm13.com##.footer-links .footer-menu
+wvtm13.com##.footer-station .footer-hearst-tv-logo
+wvtm13.com##.footer-station .footer-social
+wvtm13.com##.newsletter-signup
+wvtm13.com##.next-story--divider
+wvtm13.com##.no-cream
+wvtm13.com##.noskim
+wvtm13.com##.related-embed.cream-inline.data-id\=
+wvtm13.com##.site-content #nowcast-header
+yea-alabama.com##.alignwide.has-mb.flex.flex-wrap.items-center.space-y-8.pb-16.xl\:flex-nowrap.xl\:justify-between.xl\:space-y-0.print\:hidden .flex.w-full.items-center.justify-center.xl\:ml-6.xl\:w-2\/12.xl\:justify-end
+yea-alabama.com##.block-wrapper.bg-brand-primary-dark.pb-6.pt-16.text-white.print\:bg-white .has-mb.grid.gap-2.text-center.print\:text-black
+yea-alabama.com##.e-content.block-wrapper div[id^="block_"]
+yea-alabama.com##.flex.w-full.items-center.xl\:justify-center .x-nav-footer.mx-auto
+yea-alabama.com##.more-topics__container
+yea-alabama.com##.x-share
+yellowhammernews.com###copyright
+yellowhammernews.com###footer-content
+yellowhammernews.com###footer-widgets
+yellowhammernews.com###header-social
+yellowhammernews.com###speechify-root
+yellowhammernews.com###spot-top
+yellowhammernews.com###wp--skip-link--target .fw-loading-spinner
+yellowhammernews.com##.ads-header.group
+yellowhammernews.com##.fw-ad
+yellowhammernews.com##.fw-article-sidebar
+yellowhammernews.com##.fw-header__section--radio
+yellowhammernews.com##.fw-recent-news
+yellowhammernews.com##.fw-social-share
+yellowhammernews.com##.sidebar
+yellowhammernews.com##.td_separator_center
+yellowhammernews.com##.td-footer-wrap
+yellowhammernews.com##.td-header-desktop-wrap > .tdc-zone > .tdc_zone > div[id^="tdi_"].stretch_row:not([class*="is-sticky"])
+yellowhammernews.com##.td-pb-span12
+yellowhammernews.com##.td-scroll-up-visible
+yellowhammernews.com##.wpbfsb-schema-org
+yellowhammernews.com##.wp-block-social-links
+yellowhammernews.com##div:has(>p.fw-section-title)
+yellowhammernews.com##div[class^="td-loader"]
+yellowhammernews.com##div[class^="wp-block-ad"]
+yellowhammernews.com##div[class="tdb-loader"]
+yellowhammernews.com##footer .wp-block-spacer:not(:first-of-type)
+yellowhammernews.com##footer figure ~ .wp-block-group
+yellowhammernews.com##iframe.alignfull
+yellowhammernews.com##iframe[id^="tdb-infinte-post"]
