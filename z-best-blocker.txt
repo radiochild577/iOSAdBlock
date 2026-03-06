@@ -3,6 +3,11 @@
 ! Title: z-best-blocker
 ! Version: 2026.03.06
 
+! === GLOBAL RULES ===
+div[class$="ad-container"]
+div[style^="display: initial; visibility: initial"]
+
+! === SITE-SPECIFIC RULES ===
 247sports.com###article-header
 247sports.com###cps-shaman-notifier
 247sports.com###google_ads_top_frame
@@ -33,11 +38,8 @@
 247sports.com##.footer-text
 247sports.com##.grecaptcha-badge
 247sports.com##.headline-aside-video
-247sports.com##.headline-body .recirculator-container
-247sports.com##.headline-meta .action-button.comment-button
 247sports.com##.in-article-comments
 247sports.com##.in-content-ad
-247sports.com##.in-content-ad #mobile_mpu_flex_top
 247sports.com##.insearch1.IL_BASE
 247sports.com##.is-docked
 247sports.com##.minutely-video-page
@@ -58,17 +60,14 @@
 247sports.com##.Toastify__toast-container
 247sports.com##.top-ad-block
 247sports.com##.video-dock--fixed
-247sports.com##.video-dock-holder.is-docked
 247sports.com##.vipconsole-comp
 247sports.com##amp-ad
 247sports.com##article.headline-content:not(:first-of-type)
 247sports.com##aside.headline-aside
-247sports.com##aside.headline-aside > div.sticky-div-cnt
 247sports.com##div[class^="taboola"]
 247sports.com##div[id^="ad_is"]
 247sports.com##div[id^="bx-campaign"]
 247sports.com##div[id^="google_ads_"]
-247sports.com##div[style^="display: initial; visibility: initial"]
 247sports.com##h2[class="p1 aligncenter"]
 247sports.com##html .nimda
 247sports.com##p > strong:is(:last-child)
@@ -122,7 +121,6 @@ al.com##.ad-large-1
 al.com##.ad-observer
 al.com##.ad-small-2
 al.com##.ad--sponsor-content
-al.com##.ad--sponsor-content__title
 al.com##.ad-wrapper__mobile-bottom-adhesion
 al.com##.alert-bar--news-promo
 al.com##.amp-ad-container
@@ -158,7 +156,7 @@ al.com##div[class*="module__ad"]
 al.com##div[class^="author-bio"]
 al.com##div[class^="revenue-display"]
 al.com##div[id^="inarticle-"]
-al.com##iframe[src^="https://accounts.google.com/";]
+al.com##iframe[src^="https://accounts.google.com/"]
 al.com##p[class^="article__paragraph"]:has( > a > b)
 al.com##p[class^="article__paragraph"]:has(a):has(b)
 al.com##script[id^="fusion-"]
@@ -244,10 +242,10 @@ awfulannouncing.com##.site-info
 awfulannouncing.com##.top-ad-section
 awfulannouncing.com##.widget.csh-widget
 awfulannouncing.com##a.skip-link
-bamahammer.com###body-1 
-bamahammer.com###body-2 
-bamahammer.com###body-3 
-bamahammer.com###body-4 
+bamahammer.com###body-1
+bamahammer.com###body-2
+bamahammer.com###body-3
+bamahammer.com###body-4
 bamahammer.com###body-5
 bamahammer.com###didomi-host
 bamahammer.com###didomi-host .notranslate.didomi-screen-xsmall.didomi-mobile
@@ -329,19 +327,15 @@ cbssports.com##.Article-bodyContent .ArticleShortcode-container
 cbssports.com##.Article-main #LatestNewsBox
 cbssports.com##.Article-seoBoxContent
 cbssports.com##.cps-overlay .cps-banner.cps-container
-cbssports.com##.Footer-content .Footer-copyright
-cbssports.com##.Footer-content .Footer-links
 cbssports.com##.Footer-copyright
 cbssports.com##.Footer-links
 cbssports.com##.FooterLogo:has(a[title^="CBS Sports "])
 cbssports.com##.FooterLogoGroup-secondary
-cbssports.com##.FooterLogoGroup-secondary .FooterLogo
 cbssports.com##.item.up-next
 cbssports.com##.LatestNewsBox
 cbssports.com##.OpenWebCounterContainer
-cbssports.com##.OpenWebCounterContainer #open-web-counter-button
 cbssports.com##.page-marquee-container
-cbssports.com##.page-shell.article-page\a
+cbssports.com##.page-shell.article-page
 cbssports.com##.RecommendedRecirc.recommended-recirc.taboola-recommends.is-article #taboola-below-article-thumbnails
 cbssports.com##.row .Newsletter-container
 cbssports.com##.row .reading-list-mobile-banner-top
@@ -360,7 +354,6 @@ cbssports.com##div[aria-label="Paramount Plus"]
 cbssports.com##div[class^="GlobalSubnav_spacer"]
 cbssports.com##div[id^="article-body-ad"]
 cbssports.com##div[id^="GlobalNavOffset"]
-cbssports.com##div[style^="display: initial; visibility: initial"]
 cbssports.com##header[id="GlobalSubnav"]
 cbssports.com##img[class="Logo--grey"][alt*="Golazo"]
 cbssports.com##img[class="Logo--grey"][alt*="HQ"]
@@ -377,17 +370,17 @@ clutchpoints.com##.copyright
 clutchpoints.com##.masked-list
 clutchpoints.com##.tag-container
 clutchpoints.com##.tiktok-icon
-clutchpoints.com##[href^="https://news.google.com/";]
+clutchpoints.com##[href^="https://news.google.com/"]
 clutchpoints.com##[href="/contact-us"]
 clutchpoints.com##[href="/dmca-copyright-policy"]
 clutchpoints.com##[href="/meet-the-team"]
 clutchpoints.com##[href="/press"]
 clutchpoints.com##[href="/privacy-policy"]
 clutchpoints.com##[href="/terms-of-service"]
-clutchpoints.com##[href="https://twitter.com/clutchpointsapp";]
-clutchpoints.com##[href="https://www.facebook.com/ClutchPoints/";]
-clutchpoints.com##[href="https://www.instagram.com/clutchpoints/";]
-clutchpoints.com##a[href^="https://apple.news/";]
+clutchpoints.com##[href="https://twitter.com/clutchpointsapp"]
+clutchpoints.com##[href="https://www.facebook.com/ClutchPoints/"]
+clutchpoints.com##[href="https://www.instagram.com/clutchpoints/"]
+clutchpoints.com##a[href^="https://apple.news/"]
 clutchpoints.com##aside
 clutchpoints.com##form#sib-form
 clutchpoints.com##svg[height="1em"][width="1em"]
@@ -402,10 +395,7 @@ coinjournal.com##.region .container.py-4
 coinjournal.com##.sticky-banner
 coinjournal.com##.sticky-banner.fixed
 coinjournal.com##a.js-load-more-articles
-coinjournal.com##article.js-single-article:nth-of-type(2)
-coinjournal.com##article.js-single-article:nth-of-type(3)
-coinjournal.com##article.js-single-article:nth-of-type(4)
-coinjournal.com##article.js-single-article:nth-of-type(5)
+coinjournal.com##article.js-single-article:nth-of-type(n+2)
 coinjournal.com##aside
 coinjournal.com##div.footer-disclaimer__content
 coinjournal.com##div.footer-top
@@ -435,8 +425,6 @@ decrypt.day##div[id^="google-anno-"]
 decrypt.day##div[id^="kofi-widget-overlay"]
 decrypt.day##div[id="svelte-announcer"]
 decrypt.day##ins[class^="adsbygoogle"]
-div[class$="ad-container"]
-div[style^="display: initial; visibility: initial"]
 fantasysports.yahoo.com###ad
 fantasysports.yahoo.com###ad_mid_right
 fantasysports.yahoo.com###ad_top_right
@@ -446,7 +434,7 @@ fantasysports.yahoo.com###defaultLDRB-9-sizer
 fantasysports.yahoo.com###fantasypromotion
 fantasysports.yahoo.com###ffl-banner
 fantasysports.yahoo.com###gpt-passback
-fantasysports.yahoo.com###home-fantasy-headlines 
+fantasysports.yahoo.com###home-fantasy-headlines
 fantasysports.yahoo.com###login-box-ad-fallback
 fantasysports.yahoo.com###player-note-content .player-notes ul > div[id^="yui_"]:has(div[id^="react-playernotes"])
 fantasysports.yahoo.com###static-yahoocup-promo-overlay
@@ -505,16 +493,7 @@ fantasysports.yahoo.com##form[id="add-drop-players-form"] > section.No-m:has(hea
 fantasysports.yahoo.com##html body.jar
 fantasysports.yahoo.com##section[id*="-promo"]
 fantasysports.yahoo.com##table.ad_slug_table
-forbes.com##*[id^="article-stream-10"]
-forbes.com##*[id^="article-stream-11"]
-forbes.com##*[id^="article-stream-2"]
-forbes.com##*[id^="article-stream-3"]
-forbes.com##*[id^="article-stream-4"]
-forbes.com##*[id^="article-stream-5"]
-forbes.com##*[id^="article-stream-6"]
-forbes.com##*[id^="article-stream-7"]
-forbes.com##*[id^="article-stream-8"]
-forbes.com##*[id^="article-stream-9"]
+forbes.com##*[id^="article-stream-"]:not([id="article-stream-1"])
 forbes.com##.ad-unit
 forbes.com##.amp-player-wrapper
 forbes.com##.article-mobile-ad
@@ -596,47 +575,6 @@ gizmodo.com##.teads-wrapper
 gizmodo.com##.video-html5-playlist
 gizmodo.com##div div.instream-native-video
 gizmodo.com##Hide .newsletter-subscribe-wrapper.newsletter-btn.open .newsletter-subscribe.newsletter-subscribe--email
-knoxnews.com###acm-ad-tag-lawrence_dfp_desktop_arkadium
-knoxnews.com###acm-ad-tag-lawrence_dfp_mobile_arkadium
-knoxnews.com###onetrust-consent-sdk
-knoxnews.com###primary #after-post
-knoxnews.com###primary > .noskim
-knoxnews.com##*[class^="ad-"]
-knoxnews.com##*[id^="ad-"]
-knoxnews.com##.article__author__social
-knoxnews.com##.article__share
-knoxnews.com##.div.listicle-instream-ad-holder
-knoxnews.com##.entry-content.normal-format .noskim
-knoxnews.com##.footer__blog .footer__blog__row:nth-of-type(2)
-knoxnews.com##.footer__contact
-knoxnews.com##.footer__legal__menu
-knoxnews.com##.footer__vip
-knoxnews.com##.gnt_n_bn
-knoxnews.com##.listicle-instream-ad-holder
-knoxnews.com##.mobile-instream-ad-holder-single
-knoxnews.com##.newsletter
-knoxnews.com##.noskim .social-cta.container.column
-knoxnews.com##.story-share-buttons
-knoxnews.com##a[aria-label^="Share"]
-knoxnews.com##article > div:first-of-type:has(button)
-knoxnews.com##aside:has(>a[data-t-l*="play"])
-knoxnews.com##aside:has(>a[href^="/story/"])
-knoxnews.com##aside[aria-label^="Newsletter"]
-knoxnews.com##aside[aria-label="advertisement"]
-knoxnews.com##aside[aria-label="advertisement"] div[id^="~ad-slot"]
-knoxnews.com##aside[data-c-cta="DIG DEEPER"]
-knoxnews.com##div:has(>aside[aria-label="advertisement"])
-knoxnews.com##div[aria-label="About"]
-knoxnews.com##div[aria-label="Our Partners"]
-knoxnews.com##div[aria-label="Our Portfolio"]
-knoxnews.com##div[aria-label="Stay Connected"]
-knoxnews.com##div[aria-label="Support"]
-knoxnews.com##div[data-g-r="base_sc"]
-knoxnews.com##div[data-g-r="lazy"]
-knoxnews.com##div[elementtiming="footer-cr"]
-knoxnews.com##div[id^="~ad-slot"]
-knoxnews.com##div[style^="display: initial; visibility:initial"]
-knoxnews.com##p:has(>em>a[href*="facebook"])
 larrybrownsports.com###content #disqus_thread
 larrybrownsports.com###content #featured
 larrybrownsports.com###content div[id^="ad-"]
@@ -874,8 +812,8 @@ outkick.com##.nav-legal
 outkick.com##.social-icons
 outkick.com##.sticky-ads
 outkick.com##div[class^="ad-"]
-outkick.com##h3
-outkick.com##h3 ~ p:has(>a[href^="https://www.outkick.com";])
+! outkick.com##h3 ^ WARNING: blocks ALL h3 elements on outkick.com — likely hides article headings; consider a more specific selector
+outkick.com##h3 ~ p:has(>a[href^="https://www.outkick.com"])
 patch.com##.article-subscribe
 patch.com##.footer__copyright
 patch.com##.footer__section--full
@@ -893,7 +831,7 @@ patch.com##aside.page__side
 patch.com##button[class^="MuiButton"]
 patch.com##div.p-amp-dfp
 patch.com##div[class*="AdBlock"]
-patch.com##div[class^="ContentBlocks_CardDetail__ContentBlock"]:has(>img[src^="https://ad";])
+patch.com##div[class^="ContentBlocks_CardDetail__ContentBlock"]:has(>img[src^="https://ad"])
 patch.com##div[class^="js-ad"]
 patch.com##div[class^="styles_HTMLContent"]:has(>hr)
 patch.com##div[class^="styles_LatestArticles__"]
@@ -1064,7 +1002,7 @@ rolltide.com##ul.s-common-footer__links
 si.com###bottom-placeholder
 si.com###div-sticky-bottom
 si.com###main-article .viewablity-block .article-content ~ div.flex:has(a[href^="/author/"])
-si.com###main-article .viewablity-block .article-content ~ div:has(a[href="https://www.si.com";])
+si.com###main-article .viewablity-block .article-content ~ div:has(a[href="https://www.si.com"])
 si.com###voltax-mp-video
 si.com##.mm-content-embed > p
 si.com##.mm-slot-content
@@ -1118,9 +1056,7 @@ sportico.com##.lrv-u-margin-lr-auto.a-children-border--brand-secondary
 sportico.com##.lrv-u-margin-t-1.c-tagline
 sportico.com##.newswire
 sportico.com##.o-email-capture-form
-sportico.com##.o-nav:nth-of-type(2)
-sportico.com##.o-nav:nth-of-type(3)
-sportico.com##.o-nav:nth-of-type(4)
+sportico.com##.o-nav:nth-of-type(n+2)
 sportico.com##.pmc-adm-boomerang-pub-div
 sportico.com##.pmc-footer
 sportico.com##.pmc-pp-tou--notice
@@ -1130,7 +1066,6 @@ sportico.com##aside
 sportico.com##div[class*="adm"]
 sportico.com##div[data-is-adhesion-ad="1"]
 sportico.com##div[id^="img_"]:has(>div[id^="img_"]>div[id^="img_"]>iframe[aria-label="Advertisement"])
-sportico.com##div[style^="display: initial; visibility: initial"]
 sportico.com##iframe[aria-label="Advertisement"]
 sports.yahoo.com###feature-bar
 sports.yahoo.com###happeningNow
@@ -1230,12 +1165,12 @@ thebump.com##.share
 thebump.com##.share-btn,.action-box
 thebump.com##.sign-up-banner
 thebump.com##.sign-up-in-bottom-container
-thebump.com##.sign-up-module 
+thebump.com##.sign-up-module
 thebump.com##.sign-up-section
 thebump.com##.space-box
 thebump.com##.sponsor-ad-container
 thebump.com##.StagesCarouselFullScreen.mbm.isMargin
-thebump.com##.title
+! thebump.com##.title ^ NOTE: .title is a very generic class — verify this isn't hiding article titles before keeping
 thebump.com##.top-social-share
 thebump.com##a.shareBtn
 thebump.com##div[class^="NewLabel__StyledLabel"]
@@ -1261,168 +1196,96 @@ theverge.com##.duet--article--share-buttons
 theverge.com##.duet--page-layout--standard-article .mx-auto.block.lg\:hidden
 theverge.com##.l-header .adblock-allowlist-messaging__article-wrapper
 theverge.com##.mx-auto.max-w-container-lg .flex.flex-col.lg\:flex-row
-tide1009.com###bottom-not-ads
-tide1009.com###hindsight-ads-iframe
-tide1009.com###ts_blogroll-afterpost
-tide1009.com##.branded-app-shortcode-inarticle
-tide1009.com##.carbon-overlay
-tide1009.com##.clearfix.newsletter-frame
-tide1009.com##.comments-wrapper
-tide1009.com##.content-footer.outgrow .post-bottom-sidebar
-tide1009.com##.cto.listen-live-cto
-tide1009.com##.details
-tide1009.com##.lazyload-placeholder.gallery-ad-lazyload-placeholder
-tide1009.com##.legal
-tide1009.com##.listen-live-ticker
-tide1009.com##.nav-social-links
-tide1009.com##.photogallery-wrapper-2
-tide1009.com##.photogallery-wrapper-3
-tide1009.com##.social
-tide1009.com##.social-bar
-tide1009.com##.social-links
-tide1009.com##.tags-lines
-tide1009.com##.tsm-ad
-tide1009.com##.widget-google-ads-widget
-tide1009.com##p + p + .in-view-sentinel-wrapper
 tiderinsider.com###top-addiv
 tiderinsider.com##[id^="google_ads_iframe"]
 tiderinsider.com##adcode
-tidesports.com##*[class*="gnt_x"]
-tidesports.com##.modal-fade-screen
-tidesports.com##.sign-up-banner[class^="jsx-"]
-tidesports.com##a[aria-label*="always working"]
-tidesports.com##a[aria-label^="Share"]
-tidesports.com##a[rel="sponsored"]
-tidesports.com##article > div[class^="gnt_"]:last-of-type
-tidesports.com##aside[aria-label^="Video"]
-tidesports.com##aside[aria-label="advertisement"]
-tidesports.com##aside[data-g-r="lazy"]
-tidesports.com##button[aria-label="Share natively"]
-tidesports.com##div > aside[aria-label="advertisement"]
-tidesports.com##div:has(> [class*="tbl"])
-tidesports.com##div:has(> a[data-t-l^=":contest"])
-tidesports.com##div:has(> div > a[data-t-l*="table"][data-t-l*="stack"])
-tidesports.com##div[aria-label^="Extra,"]
-tidesports.com##div[aria-label="More Stories"]
-tidesports.com##div[aria-label="Must Read"]
-tidesports.com##div[aria-label="Watch Now"]
-tidesports.com##div[aria-live="assertive"]
-tidesports.com##div[class="gnt_flp"]:has(div[aria-label="Featured Weekly Ad"])
-tidesports.com##div[elementtiming="footer-cr"]
-tidesports.com##div[id^="ad-slot"]
-tidesports.com##footer div:has([aria-label="Support"])
-tidesports.com##footer div[aria-label="About"]
-tidesports.com##footer div[aria-label="Our Partners"]
-tidesports.com##footer div[aria-label="Stay Connected"]
-tidesports.com##footer div[aria-label="Support"]
-tidesports.com##main > div:has(a[aria-label*="always working"])
-tidesports.com##main > div:last-of-type
-tidesports.com##p:has(a[data-t-l*="click"])
 tmz.com###disqus_thread
 tmz.com###tag-cloud-section
 tmz.com##.comments
 tmz.com##a[class*="google-preferred-link"]
-tuscaloosanews.com##*[class*="gnt_x"]
-tuscaloosanews.com##.modal-fade-screen
-tuscaloosanews.com##.sign-up-banner[class^="jsx-"]
+tuscaloosanews.com,tidesports.com##*[class*="gnt_x"]
+tuscaloosanews.com,tidesports.com##.modal-fade-screen
+tuscaloosanews.com,tidesports.com##.sign-up-banner[class^="jsx-"]
+tuscaloosanews.com,tidesports.com##a[aria-label*="always working"]
+tuscaloosanews.com,tidesports.com##a[aria-label^="Share"]
+tuscaloosanews.com,tidesports.com##a[rel="sponsored"]
+tuscaloosanews.com,tidesports.com##article > div[class^="gnt_"]:last-of-type
+tuscaloosanews.com,tidesports.com##aside[aria-label^="Video"]
+tuscaloosanews.com,tidesports.com##aside[aria-label="advertisement"]
+tuscaloosanews.com,tidesports.com##aside[data-g-r="lazy"]
+tuscaloosanews.com,tidesports.com##button[aria-label="Share natively"]
+tuscaloosanews.com,tidesports.com##div > aside[aria-label="advertisement"]
+tuscaloosanews.com,tidesports.com##div:has(> [class*="tbl"])
+tuscaloosanews.com,tidesports.com##div:has(> a[data-t-l^=":contest"])
+tuscaloosanews.com,tidesports.com##div:has(> div > a[data-t-l*="table"][data-t-l*="stack"])
+tuscaloosanews.com,tidesports.com##div[aria-label^="Extra,"]
+tuscaloosanews.com,tidesports.com##div[aria-label="More Stories"]
+tuscaloosanews.com,tidesports.com##div[aria-label="Must Read"]
+tuscaloosanews.com,tidesports.com##div[aria-label="Watch Now"]
+tuscaloosanews.com,tidesports.com##div[aria-live="assertive"]
+tuscaloosanews.com,tidesports.com##div[class="gnt_flp"]:has(div[aria-label="Featured Weekly Ad"])
+tuscaloosanews.com,tidesports.com##div[elementtiming="footer-cr"]
+tuscaloosanews.com,tidesports.com##div[id^="ad-slot"]
+tuscaloosanews.com,tidesports.com##footer div:has([aria-label="Support"])
+tuscaloosanews.com,tidesports.com##footer div[aria-label="About"]
+tuscaloosanews.com,tidesports.com##footer div[aria-label="Our Partners"]
+tuscaloosanews.com,tidesports.com##footer div[aria-label="Stay Connected"]
+tuscaloosanews.com,tidesports.com##footer div[aria-label="Support"]
+tuscaloosanews.com,tidesports.com##main > div:has(a[aria-label*="always working"])
+tuscaloosanews.com,tidesports.com##main > div:last-of-type
+tuscaloosanews.com,tidesports.com##p:has(a[data-t-l*="click"])
 tuscaloosanews.com##[aria-label^="Trending"]
 tuscaloosanews.com##[data-c-cta^="DIG DEEPER"]
-tuscaloosanews.com##a[aria-label*="always working"]
-tuscaloosanews.com##a[aria-label^="Share"]
 tuscaloosanews.com##a[data-u-sr="anon reg"]
 tuscaloosanews.com##a[elementtiming="nav-submsg"]
 tuscaloosanews.com##a[href^="https://subscribe"]
-tuscaloosanews.com##a[rel="sponsored"]
-tuscaloosanews.com##article > div[class^="gnt_"]:last-of-type
 tuscaloosanews.com##aside
-tuscaloosanews.com##aside[aria-label^="Video"]
-tuscaloosanews.com##aside[aria-label="advertisement"]
-tuscaloosanews.com##aside[data-g-r="lazy"]
-tuscaloosanews.com##button[aria-label="Share natively"]
-tuscaloosanews.com##div > aside[aria-label="advertisement"]
-tuscaloosanews.com##div:has(> [class*="tbl"])
-tuscaloosanews.com##div:has(> a[data-t-l^=":contest"])
-tuscaloosanews.com##div:has(> div > a[data-t-l*="table"][data-t-l*="stack"])
-tuscaloosanews.com##div[aria-label^="Extra,"]
-tuscaloosanews.com##div[aria-label="More Stories"]
-tuscaloosanews.com##div[aria-label="Must Read"]
-tuscaloosanews.com##div[aria-label="Watch Now"]
-tuscaloosanews.com##div[aria-live="assertive"]
-tuscaloosanews.com##div[class="gnt_flp"]:has(div[aria-label="Featured Weekly Ad"])
 tuscaloosanews.com##div[data-g-r="lazy"]
-tuscaloosanews.com##div[elementtiming="footer-cr"]
-tuscaloosanews.com##div[id^="ad-slot"]
 tuscaloosanews.com##footer > div
-tuscaloosanews.com##footer div:has([aria-label="Support"])
-tuscaloosanews.com##footer div[aria-label="About"]
-tuscaloosanews.com##footer div[aria-label="Our Partners"]
-tuscaloosanews.com##footer div[aria-label="Stay Connected"]
-tuscaloosanews.com##footer div[aria-label="Support"]
 tuscaloosanews.com##header a[href^="https://login"]
 tuscaloosanews.com##header a[href^="https://puzzles"]
 tuscaloosanews.com##header a[href^="https://subscribe"]
-tuscaloosanews.com##main > div:has(a[aria-label*="always working"])
-tuscaloosanews.com##main > div:last-of-type
 tuscaloosanews.com##p:has(> strong ~ a[target="_blank"])
-tuscaloosanews.com##p:has(a[data-t-l*="click"])
-tuscaloosathread.com###bottom-not-ads
-tuscaloosathread.com###hindsight-ads-iframe
-tuscaloosathread.com###ts_blogroll-afterpost
-tuscaloosathread.com##.branded-app-shortcode-inarticle
-tuscaloosathread.com##.carbon-overlay
-tuscaloosathread.com##.clearfix.newsletter-frame
-tuscaloosathread.com##.comments-wrapper
-tuscaloosathread.com##.content-footer.outgrow .post-bottom-sidebar
-tuscaloosathread.com##.cto.listen-live-cto
-tuscaloosathread.com##.details
-tuscaloosathread.com##.lazyload-placeholder.gallery-ad-lazyload-placeholder
-tuscaloosathread.com##.legal
-tuscaloosathread.com##.listen-live-ticker
-tuscaloosathread.com##.nav-social-links
-tuscaloosathread.com##.photogallery-wrapper-2
-tuscaloosathread.com##.photogallery-wrapper-3
-tuscaloosathread.com##.social
-tuscaloosathread.com##.social-bar
-tuscaloosathread.com##.social-links
-tuscaloosathread.com##.tags-lines
-tuscaloosathread.com##.tsm-ad
-tuscaloosathread.com##.widget-google-ads-widget
-tuscaloosathread.com##p + p + .in-view-sentinel-wrapper
-usatoday.com###acm-ad-tag-lawrence_dfp_desktop_arkadium
-usatoday.com###acm-ad-tag-lawrence_dfp_mobile_arkadium
-usatoday.com###onetrust-consent-sdk
-usatoday.com###primary #after-post
-usatoday.com###primary > .noskim
-usatoday.com##*[class^="ad-"]
-usatoday.com##*[id^="ad-"]
-usatoday.com##.article__author__social
-usatoday.com##.article__share
-usatoday.com##.div.listicle-instream-ad-holder
-usatoday.com##.entry-content.normal-format .noskim
-usatoday.com##.footer__blog .footer__blog__row:nth-of-type(2)
-usatoday.com##.footer__contact
-usatoday.com##.footer__legal__menu
-usatoday.com##.footer__vip
-usatoday.com##.listicle-instream-ad-holder
-usatoday.com##.mobile-instream-ad-holder-single
-usatoday.com##.newsletter
-usatoday.com##.noskim .social-cta.container.column
-usatoday.com##.story-share-buttons
-usatoday.com##article > div:first-of-type:has(button)
-usatoday.com##aside:has(>a[data-t-l*="play"])
-usatoday.com##aside:has(>a[href^="/story/"])
-usatoday.com##aside[aria-label="advertisement"]
-usatoday.com##aside[aria-label="advertisement"] div[id^="~ad-slot"]
-usatoday.com##aside[data-c-cta="DIG DEEPER"]
-usatoday.com##div:has(>aside[aria-label="advertisement"])
-usatoday.com##div[aria-label="About"]
-usatoday.com##div[aria-label="Our Portfolio"]
-usatoday.com##div[aria-label="Stay Connected"]
-usatoday.com##div[aria-label="Support"]
-usatoday.com##div[elementtiming="footer-cr"]
-usatoday.com##div[id^="~ad-slot"]
-usatoday.com##div[style^="display: initial; visibility:initial"]
-usatoday.com##p:has(>em>a[href*="facebook"])
+usatoday.com,knoxnews.com###acm-ad-tag-lawrence_dfp_desktop_arkadium
+usatoday.com,knoxnews.com###acm-ad-tag-lawrence_dfp_mobile_arkadium
+usatoday.com,knoxnews.com###onetrust-consent-sdk
+usatoday.com,knoxnews.com###primary #after-post
+usatoday.com,knoxnews.com###primary > .noskim
+usatoday.com,knoxnews.com##*[class^="ad-"]
+usatoday.com,knoxnews.com##*[id^="ad-"]
+usatoday.com,knoxnews.com##.article__author__social
+usatoday.com,knoxnews.com##.article__share
+usatoday.com,knoxnews.com##.entry-content.normal-format .noskim
+usatoday.com,knoxnews.com##.footer__blog .footer__blog__row:nth-of-type(2)
+usatoday.com,knoxnews.com##.footer__contact
+usatoday.com,knoxnews.com##.footer__legal__menu
+usatoday.com,knoxnews.com##.footer__vip
+usatoday.com,knoxnews.com##.listicle-instream-ad-holder
+usatoday.com,knoxnews.com##.mobile-instream-ad-holder-single
+usatoday.com,knoxnews.com##.newsletter
+usatoday.com,knoxnews.com##.noskim .social-cta.container.column
+usatoday.com,knoxnews.com##.story-share-buttons
+usatoday.com,knoxnews.com##article > div:first-of-type:has(button)
+usatoday.com,knoxnews.com##aside:has(>a[data-t-l*="play"])
+usatoday.com,knoxnews.com##aside:has(>a[href^="/story/"])
+usatoday.com,knoxnews.com##aside[aria-label="advertisement"]
+usatoday.com,knoxnews.com##aside[aria-label="advertisement"] div[id^="~ad-slot"]
+usatoday.com,knoxnews.com##aside[data-c-cta="DIG DEEPER"]
+usatoday.com,knoxnews.com##div:has(>aside[aria-label="advertisement"])
+usatoday.com,knoxnews.com##div[aria-label="About"]
+usatoday.com,knoxnews.com##div[aria-label="Our Portfolio"]
+usatoday.com,knoxnews.com##div[aria-label="Stay Connected"]
+usatoday.com,knoxnews.com##div[aria-label="Support"]
+usatoday.com,knoxnews.com##div[elementtiming="footer-cr"]
+usatoday.com,knoxnews.com##div[id^="~ad-slot"]
+usatoday.com,knoxnews.com##div[style^="display: initial; visibility:initial"]
+usatoday.com,knoxnews.com##p:has(>em>a[href*="facebook"])
+usatoday.com,knoxnews.com##.gnt_n_bn
+usatoday.com,knoxnews.com##a[aria-label^="Share"]
+usatoday.com,knoxnews.com##aside[aria-label^="Newsletter"]
+usatoday.com,knoxnews.com##div[aria-label="Our Partners"]
+usatoday.com,knoxnews.com##div[data-g-r="base_sc"]
+usatoday.com,knoxnews.com##div[data-g-r="lazy"]
 wired.com##.ad
 wired.com##.ad--footer
 wired.com##.ad-height-hold
@@ -1513,5 +1376,5 @@ yellowhammernews.com##footer figure ~ .wp-block-group
 yellowhammernews.com##iframe.alignfull
 yellowhammernews.com##iframe[id^="tdb-infinte-post"]
 
-! Townsquare Media sites
+! === TOWNSQUARE-MEDIA SITE RULES ===
 townsquare.media,townsquareblogs.com,cdn.production.townsquareblogs.com,1017lagrande.com,1019therock.com,101theeagle.com,1023thebullfm.com,1025kiss.com,1027kord.com,1033thegoat.com,1035kissfmboise.com,1037theloon.com,1037theriver.com,1039thebreezealbany.com,103gbfrocks.com,103kkcn.com,103wjod.com,1043wowcountry.com,1045theteam.com,1051theblock.com,1057thehawk.com,1063nowfm.com,1063thebuzz.com,1073kissfmtexas.com,1073popcrush.com,1075thepeak.com,1079ishot.com,107jamz.com,1130thetiger.com,1340thehawk.com,1390granitecitysports.com,1420wbec.com,1440wrok.com,1460espnyakima.com,1470kyyw.com,1520theticket.com,560kmon.com,610kona.com,710keel.com,7220sports.com,890kdxu.com,920thejersey.com,925kaar.com,925theranch.com,929nin.com,929thebull.com,929thelake.com,929theticket.com,92moose.fm,930kmpt.com,933eaglecountry.com,943litefm.com,943thepoint.com,943thex.com,945maxcountry.com,949whom.com,94kix.com,953thebear.com,955kmbr.com,95rockfm.com,961theeagle.com,963theblaze.com,965kvki.com,965therock.com,965thewalleye.com,967theeagle.net,969zoofm.com,973espn.com,973kkrc.com,973thedawg.com,975kgkl.com,975koolfm.com,975now.com,979kickfm.com,97rockonline.com,97x.com,97zokonline.com,981thehawk.com,983thesnake.com,987jack.com,987kissfmsanangelo.com,987thebomb.com,991thewhale.com,995theapple.com,999bigskysports.com,999ktdy.com,999thepoint.com,99wfmk.com,allhitskzmk.com,alt1017.com,alternativemissoula.com,awesome98.com,b100quadcities.com,b1027.com,b105country.com,b921hits.com,b93.net,b985.fm,banana1015.com,bigcat921.com,bigcat953.com,bigcountry969.com,bigfrog104.com,bigstack1039.com,billingsmix.com,bozemanskissfm.com,cajunradio.com,caspercowboy.com,catcountry1029.com,catcountry1073.com,catcountryutah.com,catfishtuscaloosa.com,classicrock1051.com,classicrock961.com,club937.com,cnynews.com,cool987fm.com,dakotacountry961.com,danburycountry.com,dave1077.com,davefmutah.com,eagle1023fm.com,espn960sanangelo.com,espnquadcities.com,espnsiouxfalls.com,espnwesterncolorado.com,etsn.fm,foxsports1510.com,fun1043.com,fun107.com,gator995.com,goodtimeoldies1075.com,highway989.com,hot1047.com,hot975fm.com,hot991.com,hudsonvalleycountry.com,hudsonvalleypost.com,i95rock.com,i95rocks.com,irock935.com,jackfmcasper.com,juan925fm.com,juanhudsonvalley.com,k2radio.com,k923.fm,k945.com,k96fm.com,k99.com,k99hits.com,kalamazoocountry.com,katsfm.com,kbat.com,kcrr.com,kdat.com,kdhlradio.com,keanradio.com,kekbfm.com,keyj.com,keyw.com,keyzradio.com,kezj.com,kffm.com,kfilradio.com,kfmx.com,kfox95.com,kfyo.com,kgab.com,kgrzmissoula.com,khak.com,khmoradio.com,kickam1530.com,kicks105.com,kidotalkradio.com,kikn.com,kingfm.com,kiss106evansville.com,kissbinghamton.com,kisscasper.com,kisselpaso.com,kissfm1053.com,kissfm969.com,kissin977.com,kixs.com,kkam.com,kkyr.com,klaq.com,klaw.com,klubtejano.com,kmhk.com,kmmsam.com,knue.com,koel.com,kool1017.com,kool1079.com,kool929fm.com,kool965.com,koolam.com,koolfmabilene.com,kowb1290.com,kpel965.com,kqvt.com,krfofm.com,krforadio.com,krna.com,kroc.com,krocnews.com,krod.com,ksenam.com,ksfa860.com,ksisradio.com,ksub590.com,ktemnews.com,kubcthecanyon.com,kw3.com,kwcdcountry.com,kxkx.com,kxrb.com,kxtl.com,kygl.com,kyssfm.com,lamejor947.com,lansingsportsnetwork.com,laramielive.com,lite987.com,litefm955.com,liteonline.com,live959.com,lonestar923.com,lonestar995fm.com,mega993online.com,minnesotasnewcountry.com,mix1043fm.com,mix106radio.com,mix108.com,mix931fm.com,mix941kmxj.com,mix949.com,mix951.com,mix957gr.com,mix979fm.com,montanatalks.com,mooseradio.com,my1035.com,my1053wjlt.com,myb106.com,mybeachradio.com,mycountry955.com,mykiss1031.com,mykisscountry937.com,mymagic933.com,mymagicgr.com,mymagiclc.com,myq1075.com,newsradio1310.com,newstalk1280.com,newstalk1290.com,newstalk870.am,newstalk940.com,newstalkkgvo.com,newstalkkit.com,nick975.com,nj1015.com,northlandfan.com,pnwag.net,power1029noco.com,power959.com,power96radio.com,powerboise.com,praise933.com,q1057.com,q1065.fm,q1077.com,q961.com,q985.fm,q985online.com,quickcountry.com,radiotexaslive.com,realnewsmontana.com,retro1025.com,river967.com,rivergrandrapids.com,rock1041.com,rock967online.com,seacoastcurrent.com,shark1053.com,shoresportsnetwork.com,sojo1049.com,sportsradio977.com,squatchrocks.com,star939.com,star981.com,supertalk1270.com,talk1067.com,talk1470.com,talkradio960.com,thebullamarillo.com,theeaglerocksny.com,thegame730am.com,thenew961.com,thequake1021.com,theriver979.com,therockofrochester.com,thunder981.com,tide1009.com,townsquarenoco.com,tuscaloosathread.com,us103.com,us1033.com,us1049quadcities.com,us105fm.com,wakeupwyo.com,washingtonstatenews.net,wbckfm.com,wbkr.com,wblk.com,wblm.com,wbsm.com,wbuf.com,wbxxfm.com,wchram.com,wcrz.com,wcyy.com,wdbqam.com,wdea.am,wearebuffalo.net,wfgr.com,wfnt.com,wfpg.com,wgna.com,wgrd.com,wibx950.com,witl.com,wjbq.com,wjimam.com,wjon.com,wkdq.com,wkfr.com,wkmi.com,wmmq.com,wnaw.com,wnbf.com,wobm.com,wokq.com,womiowensboro.com,wour.com,wpdh.com,wpgtalkradio.com,wpst.com,wrkr.com,wrrv.com,wsbs.com,wsrkfm.com,wtbdfm.com,wtug.com,wupe.com,www.awesome923.com,www.kpq.com,wyopreps.com,wyrk.com,wzozfm.com,xlcountry.com,y105fm.com,y105music.com,y95country.com,z100missoula.com,z1073.com,z94.com##:is(#container .bottom-components,#site-footer .links.clearfix,#site-footer .social-links,#site-menu-wrapper .tsm-ad.tsm-ad-320,.bottom-components .tsm-ad.tsm-ad-320,.carbon-overlay.newsletter-overlay.brandedapp-overlay .carbon-overlay-content,.comments-wrapper .comments,.content-footer.outgrow #ts_blogroll-afterpost,.content-footer.outgrow .comments-wrapper,.content-footer.outgrow .tags-lines,.content-wrap .content-footer.outgrow,.fade-enter-done .carbon-overlay.newsletter-overlay.brandedapp-overlay,.in-view-sentinel-wrapper .photogallery-wrapper.no-bottom-bling.no-right-bling.blog-photogallery.photogallery-wrapper-1,.logo-nav-and-stuff .listen-live-cto.cto,.logo-nav-and-stuff .listen-live-ticker.has-marquee,.photogallery-item .frameme.broken-image,.photogallery-item .item-meta,.pod-content .branded-app-shortcode-inarticle,.pod-content .incontent-newsletter,.pod-content .in-view-sentinel-wrapper,.social-links .social,.social-share.bignsexy.sticky .social-bar.social-icons,.tsm-ad.tsm-ad-320 #tsm-ad-leaderboard-320a,iframe#hindsight-ads-iframe,.pod-content .in-view-sentinel-wrapper,#bottom-not-ads,#hindsight-ads-iframe,#ts_blogroll-afterpost,.branded-app-shortcode-inarticle,.carbon-overlay,.clearfix.newsletter-frame,.comments-wrapper,.content-footer.outgrow .post-bottom-sidebar,.cto.listen-live-cto,.details,.lazyload-placeholder.gallery-ad-lazyload-placeholder,.legal,.listen-live-ticker,.nav-social-links,p + p + .in-view-sentinel-wrapper,.photogallery-wrapper-2,.photogallery-wrapper-3,.social,.social-bar,.social-links,.tags-lines,.tsm-ad,.widget-google-ads-widget)
