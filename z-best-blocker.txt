@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.03.06
+! Version: 2026.03.09
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -124,6 +124,7 @@ al.com##.ad--sponsor-content
 al.com##.ad-wrapper__mobile-bottom-adhesion
 al.com##.alert-bar--news-promo
 al.com##.amp-ad-container
+al.com##.ampexcoVideoPlayer
 al.com##.article__mmm-caption--youtube
 al.com##.close
 al.com##.content-blocker-piano
