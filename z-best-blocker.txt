@@ -324,6 +324,7 @@ cbssports.com###native-story-ad-0 #mobile_flex_top
 cbssports.com###page-content #reading-list-wrapper
 cbssports.com###page-content .share-wrapper
 cbssports.com###trg-app-install
+cbssports.com##.Article-bannerTop
 cbssports.com##.Article-bodyContent .ArticleShortcode-container
 cbssports.com##.Article-main #LatestNewsBox
 cbssports.com##.Article-seoBoxContent
@@ -345,6 +346,7 @@ cbssports.com##.site-footer-row .site-footer-links
 cbssports.com##.site-footer-row .site-footer-partners
 cbssports.com##.site-footer-row .SocialIconsBar
 cbssports.com##.site-footer-row .social-icons-bar
+cbssports.com##.SportsAd
 cbssports.com##.taboola-recommends
 cbssports.com##.VideoHero.is-miniPinned > .VideoHero-clipContainer
 cbssports.com##a:has(>.ArticleShortcode-container)
@@ -352,6 +354,7 @@ cbssports.com##body > div:has(a[href^="https://getadmiral"])
 cbssports.com##body > div:last-of-type:has(div>h3~button)
 cbssports.com##div[aria-label="CBS Sports Golazo Network"]
 cbssports.com##div[aria-label="Paramount Plus"]
+cbssports.com##div[class*="SportsAd"]
 cbssports.com##div[class^="GlobalSubnav_spacer"]
 cbssports.com##div[id^="article-body-ad"]
 cbssports.com##div[id^="GlobalNavOffset"]
