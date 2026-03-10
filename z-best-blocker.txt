@@ -426,6 +426,7 @@ decrypt.day##div[id^="google-anno-"]
 decrypt.day##div[id^="kofi-widget-overlay"]
 decrypt.day##div[id="svelte-announcer"]
 decrypt.day##ins[class^="adsbygoogle"]
+docs.google.com##div:has(>div[class*="-promotion"])
 fantasysports.yahoo.com###ad
 fantasysports.yahoo.com###ad_mid_right
 fantasysports.yahoo.com###ad_top_right
