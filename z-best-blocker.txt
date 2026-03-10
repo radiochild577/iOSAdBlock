@@ -1097,6 +1097,7 @@ sportsbusinessjournal.com###copytoclipboardpopup .copytoclipboardpopupbody
 sportsbusinessjournal.com###evg-exit-intent-popup
 sportsbusinessjournal.com##.b-standard-article-layout__section .issue-navigation
 sportsbusinessjournal.com##.b-standard-article-layout__section .section-title.underlined
+sportsbusinessjournal.com##.breaking-news-container
 sportsbusinessjournal.com##.c-grid.b-triple-chain__children-grid .c-stack.b-triple-chain__child-item
 sportsbusinessjournal.com##.container .row.story-column-footer
 sportsbusinessjournal.com##.container .sponsored
