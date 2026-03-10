@@ -10,6 +10,7 @@ div[style^="display: initial; visibility: initial"]
 ! === SITE-SPECIFIC RULES ===
 247sports.com###article-header
 247sports.com###cps-shaman-notifier
+247sports.com###embedVideoContainer_undefined
 247sports.com###google_ads_top_frame
 247sports.com###networkBar
 247sports.com###omni_skybox_leader_sticky
