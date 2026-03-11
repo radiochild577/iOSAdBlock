@@ -291,6 +291,11 @@ batterypower.com##ul.duet--article--share-buttons
 batterypower.com###comments
 batterypower.com##.duet--layout--article-recirc
 batterypower.com##footer ul
+batterypower.com##footer p
+batterypower.com##div > p:has(>a[href="https://www.voxmedia.com/ethics-statement"]
+batterypower.com##.duet--layout--entry-body-container ~ div
+batterypower.com##span > span:has(>a.duet--article--comments-link)
+batterypower.com##span:has(>a.duet--article--comments-link)
 brobible.com###articles-area.articles-area article:nth-of-type(n+2)
 brobible.com###masthead #simple-banner
 brobible.com###tts-shadow-root
