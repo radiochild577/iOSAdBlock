@@ -286,6 +286,11 @@ bamahammer.com##footer[class^="footerWrapper_"] > div[class^="footerContent_"] >
 bamahammer.com##footer[class^="footerWrapper_"] > div[class^="footerContent_"] > div[class^="wrapper_"]
 bamahammer.com##main[class^="style_"] > figure[class^="style_"]
 bamahammer.com##script[type="placeholder"]
+batterypower.com##a.duet--article--comments-link
+batterypower.com##ul.duet--article--share-buttons
+batterypower.com###comments
+batterypower.com##.duet--layout--article-recirc
+batterypower.com##footer ul
 brobible.com###articles-area.articles-area article:nth-of-type(n+2)
 brobible.com###masthead #simple-banner
 brobible.com###tts-shadow-root
