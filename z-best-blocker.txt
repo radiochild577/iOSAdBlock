@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.03.12.6
+! Version: 2026.03.12.7
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -1041,10 +1041,12 @@ si.com##.mm-slot-content
 si.com##.mplayer-video
 si.com##.placeholderFiniteScroll
 si.com##.player-wrapper
+si.com##.rw-widget
 si.com##.umb
 si.com##.userway_p1
 si.com##.uwy
 si.com##.voltax-recirculation-widget
+si.com##article#main-article:nth-of-type(n+2)
 si.com##button#accessibilityWidget
 si.com##button[class^="twitterButton"]
 si.com##div:has(>a.font-group-tiny)
@@ -1055,6 +1057,7 @@ si.com##div[class^="contentContainer_"] > .viewablity-block
 si.com##div[class^="inStoryContainer_"]
 si.com##div[class^="socialContainer"]
 si.com##div[class="mm-slot-content"]
+si.com##div[data-experiment="article-bottom-recirc|control"]
 si.com##div[data-gpid*="tout_"]
 si.com##div[data-target="ad"]
 si.com##div[id^="bottom-placeholder-"]
@@ -1077,6 +1080,7 @@ si.com##iframe#rufous-sandbox
 si.com##iframe[id^="google_ads_iframe"]
 si.com##iframe[name="__pb_locator__"]
 si.com##p.font-group-tiny
+si.com##p:has(>a[href="https://www.si.com/college/alabama/newsletter"])
 si.com##section[class^="sectionStyle_"] > hr
 sportico.com###adm-mobile-bottom-sticky-ad
 sportico.com###pmc-atlasmg-adhesion-bar
