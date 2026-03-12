@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.03.12.7
+! Version: 2026.03.12.8
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -1046,6 +1046,7 @@ si.com##.umb
 si.com##.userway_p1
 si.com##.uwy
 si.com##.voltax-recirculation-widget
+si.com##:not(#body-0) > div > #article-body article#main-article
 si.com##article#main-article:nth-of-type(n+2)
 si.com##button#accessibilityWidget
 si.com##button[class^="twitterButton"]
