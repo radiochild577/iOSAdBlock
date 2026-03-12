@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.03.12.10
+! Version: 2026.03.12.11
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -1061,6 +1061,7 @@ si.com##div[class^="authorSocial_"]
 si.com##div[class^="contentContainer_"] > .viewablity-block
 si.com##div[class^="inStoryContainer_"]
 si.com##div[class^="socialContainer"]
+si.com##div[class*="border-"][on-document\:scroll=""]
 si.com##div[class="mm-slot-content"]
 si.com##div[data-experiment="article-bottom-recirc|control"]
 si.com##div[data-gpid*="tout_"]
