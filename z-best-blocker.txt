@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.03.12.4
+! Version: 2026.03.12.5
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -1075,6 +1075,7 @@ si.com##hr ~ h3[id^="inline-text"]
 si.com##iframe#rufous-sandbox
 si.com##iframe[id^="google_ads_iframe"]
 si.com##iframe[name="__pb_locator__"]
+si.com##p.font-group-tiny
 si.com##section[class^="sectionStyle_"] > hr
 sportico.com###adm-mobile-bottom-sticky-ad
 sportico.com###pmc-atlasmg-adhesion-bar
