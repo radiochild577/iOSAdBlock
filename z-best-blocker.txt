@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.03.13
+! Version: 2026.03.13.1
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -445,8 +445,6 @@ decrypt.day##ins[class^="adsbygoogle"]
 docs.google.com##div:has(>div[class*="-promotion"])
 espn.com##article:nth-of-type(n+2)
 espn.com##aside
-facebook.com##div:has(>div[role="progressbar"]:first-child) div[id="scrollview"] ~ div:has(form[id="login_popup_cta_form"])
-facebook.com##div:has(>div[role="progressbar"]) div[id="scrollview"] div:has(form[id="login_popup_cta_form"]) { display:none !important }
 fantasysports.yahoo.com###ad
 fantasysports.yahoo.com###ad_mid_right
 fantasysports.yahoo.com###ad_top_right
