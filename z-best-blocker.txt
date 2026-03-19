@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.03.19.2
+! Version: 2026.03.19.3
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -331,6 +331,7 @@ cbs42.com##.site-footer__network-nav-container
 cbs42.com##.site-footer__copyright--container
 cbs42.com##.article-footer
 cbs42.com##.civic-science-article-container
+cbs42.com##.live-now-button-mobile
 cbsnews.com###component-taboola-below-article-feed
 cbsnews.com##.component--type-recirculation-collection
 cbsnews.com##.content__body--footer .content__tags
