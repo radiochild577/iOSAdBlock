@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.03.23.6
+! Version: 2026.03.23.7
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -948,6 +948,21 @@ pewterreport.com##div[class^="adthrive-"] ~ div[class^="img_"]
 pewterreport.com##div[class^="fusion-social"]
 pewterreport.com##div[class^="gbbbldx"]
 pewterreport.com##div[data-google-query-id]
+reuters.com##a[data-testid="nav-subscribe-link"]
+reuters.com##div[class^="article-module__read-next"]
+reuters.com##div[class^="regular-article-layout-module__related"]
+reuters.com##div[data-testid="ArticleBodyRow"]
+reuters.com##div[data-testid="AuthorBio"]
+reuters.com##div[data-testid="RefinitivPromoBar"]
+reuters.com##div[data-testid="RegularArticleLayoutRightRail"]
+reuters.com##div[data-testid="ToolbarContainer"]
+reuters.com##nav[data-testid="Tags"]
+reuters.com##p[class*="article-body-module__trust-badge"]
+reuters.com##p[data-testid="DisclaimerLink"]
+reuters.com##section[class^="site-footer-module__quick-links"]
+reuters.com##section[class^="site-footer-module__company"]
+reuters.com##section[class^="site-footer-module__product"]
+reuters.com##section[data-testid="LinkGroup"]
 rivals.com##.copyright-section
 rivals.com##.cta-header-banner
 rivals.com##.ds_cpp_inner
