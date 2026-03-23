@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.03.23
+! Version: 2026.03.23.1
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -753,7 +753,6 @@ nypost.com##.social-footer
 nypost.com##.social-icons
 nypost.com##.story--next
 nypost.com##.tag-list
-nypost.com##.widget-wrapper
 nypost.com##.zergnet-widget
 nypost.com##div[class^="cnx-float"]
 nypost.com##div[class^="cnx-pinned"]
