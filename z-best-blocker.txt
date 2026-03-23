@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.03.23.1
+! Version: 2026.03.23.2
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -726,7 +726,6 @@ newsweek.com##div[class^="BreakingBar_breakingBar"]
 newsweek.com##div[class^="GooglePreferredSourceBanner"]
 newsweek.com##div[class^="RecommendedForYou"]
 newsweek.com##p[class^="Paragraph_blockParagraph"]:has(>strong)
-nypost.com##aside
 nypost.com###membership-dropdown-wrapper
 nypost.com###menu-mobile-footer-links
 nypost.com###nypost-openweb-conversation
@@ -738,13 +737,14 @@ nypost.com##.article-footer__read-next
 nypost.com##.article-header__social-icons
 nypost.com##.breaking-news
 nypost.com##.comments-inline-cta
+nypost.com##.credit
 nypost.com##.footer-legal
 nypost.com##.footer-links-list
 nypost.com##.inline-module--more
 nypost.com##.inline-module--related-post
 nypost.com##.membership-comments-module
 nypost.com##.membership-reactions-module
-nypost.com##.nyp-slideshow-modal-image.wp-block-image.aligncenter.size-large .credit
+nypost.com##.nyp-video-player
 nypost.com##.powered-by-wpcom
 nypost.com##.recirc
 nypost.com##.single__outbrain
@@ -754,6 +754,7 @@ nypost.com##.social-icons
 nypost.com##.story--next
 nypost.com##.tag-list
 nypost.com##.zergnet-widget
+nypost.com##aside
 nypost.com##div[class^="cnx-float"]
 nypost.com##div[class^="cnx-pinned"]
 nypost.com##div[class^="inline-module--more"]
