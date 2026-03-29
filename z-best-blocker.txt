@@ -300,8 +300,8 @@ batterypower.com##span > span:has(>a.duet--article--comments-link)
 batterypower.com##span:has(>a.duet--article--comments-link)
 batterypower.com##div:has(>div[data-concert="desktop_leaderboard_variable"])
 batterypower.com##.duet--layout--rail
-#batterypower.com##.duet--layout--entry-body
-batterypower.com##.duet--layout--entry-body-container:has(>div>.lcwall0)
+batterypower.com###content > .duet--layout--entry-body
+batterypower.com##.lcwall0)
 brobible.com###articles-area.articles-area article:nth-of-type(n+2)
 brobible.com###masthead #simple-banner
 brobible.com###tts-shadow-root
