@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.03.29
+! Version: 2026.03.29.1
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -300,7 +300,7 @@ batterypower.com##span > span:has(>a.duet--article--comments-link)
 batterypower.com##span:has(>a.duet--article--comments-link)
 batterypower.com##div:has(>div[data-concert="desktop_leaderboard_variable"])
 batterypower.com##.duet--layout--rail
-batterypower.com##.duet--layout--entry-body-container
+batterypower.com##.duet--layout--entry-body
 brobible.com###articles-area.articles-area article:nth-of-type(n+2)
 brobible.com###masthead #simple-banner
 brobible.com###tts-shadow-root
