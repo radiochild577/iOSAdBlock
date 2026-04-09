@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.04.08.1
+! Version: 2026.04.08.2
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -1190,7 +1190,7 @@ sports.yahoo.com##div[id^="sda-"]
 sports.yahoo.com##section.consent .content-iframe
 sports.yahoo.com##ul.ft-links
 sports.yahoo.com##p:has(>strong>a[data-ylk*="SUBSCRIBE"])
-sports.yahoo.com##div:has(>aside[class*="-aside"]
+sports.yahoo.com##div:has(>aside[class*="-aside"])
 sports.yahoo.com##.evp-docked-mode
 sportsbusinessjournal.com###copytoclipboardpopup .copytoclipboardpopupbody
 sportsbusinessjournal.com###evg-exit-intent-popup
@@ -1278,7 +1278,6 @@ thebump.com##.sign-up-section
 thebump.com##.space-box
 thebump.com##.sponsor-ad-container
 thebump.com##.StagesCarouselFullScreen.mbm.isMargin
-! thebump.com##.title ^ NOTE: .title is a very generic class — verify this isn't hiding article titles before keeping
 thebump.com##.top-social-share
 thebump.com##a.shareBtn
 thebump.com##div[class^="NewLabel__StyledLabel"]
