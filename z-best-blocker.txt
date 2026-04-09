@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.04.02
+! Version: 2026.04.08
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -1169,6 +1169,8 @@ sportico.com##div[class*="adm"]
 sportico.com##div[data-is-adhesion-ad="1"]
 sportico.com##div[id^="img_"]:has(>div[id^="img_"]>div[id^="img_"]>iframe[aria-label="Advertisement"])
 sportico.com##iframe[aria-label="Advertisement"]
+sportico.com##footer nav ul > li > a.c-link.lrv-a-unstyle-link
+sportico.com##a[href="https://cloud.email.sportico.com/signup/]
 sports.yahoo.com###feature-bar
 sports.yahoo.com###happeningNow
 sports.yahoo.com###link-package-module
@@ -1188,6 +1190,8 @@ sports.yahoo.com##div[id^="sda-"]
 sports.yahoo.com##section.consent .content-iframe
 sports.yahoo.com##ul.ft-links
 sports.yahoo.com##p:has(>strong>a[data-ylk*="SUBSCRIBE"])
+sports.yahoo.com##div:has(>aside[class*="-aside"]
+sports.yahoo.com##.evp-docked-mode
 sportsbusinessjournal.com###copytoclipboardpopup .copytoclipboardpopupbody
 sportsbusinessjournal.com###evg-exit-intent-popup
 sportsbusinessjournal.com##.b-standard-article-layout__section .issue-navigation
