@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.04.10
+! Version: 2026.04.12
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -74,6 +74,24 @@ div[style^="display:initial"][style*="visibility:initial"]
 247sports.com##h2[class="p1 aligncenter"]
 247sports.com##html .nimda
 247sports.com##p > strong:is(:last-child)
+abc3340.com##div[class*="storyTopAdContainer"]
+abc3340.com##div[class^="StoryControls"]
+abc3340.com##div[class^="TopicsBar"]
+abc3340.com##div[class^="MidArticleAdUnit"]
+abc3340.com##div[class^="TaboolaMoreToExplore"]
+abc3340.com##div[id^="js-openWebConversation-Container"]
+abc3340.com##div[class^="RightRailPanelAd"]
+abc3340.com###stay-connected
+abc3340.com##div[class^="Footer_footerPage"]
+abc3340.com##button[class^="UserWayButton"]
+abc3340.com##p[class^="Footer_copyright"]
+abc3340.com##div[id^="js-Story-Byline"]
+abc3340.com##div[class^="TeasersBlockSidebar"]
+abc3340.com##div[class^="StickyTwoColumn_rightColumn"]
+abc3340.com##div[class^="ProgressBar_progressBarContainer"]
+abc3340.com##div[class^="InfiniteScroll_trigger"]
+abc3340.com##div[class^="InfiniteScroll_container"] > :not(:first-child)
+abc3340.com##ul[class^="SocialLinks"]
 abcnews.go.com##div:has(>div[data-testid="prism-ad-wrapper"])
 abcnews.go.com##div:has(>div[data-testid="prism-divider"]):has(>div>section[data-testid="prism-collection"])
 abcnews.go.com##div:has(>div[data-testid="prism-tags"])
