@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.04.14.3
+! Version: 2026.04.16
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -589,6 +589,7 @@ frontofficesports.com##.footerv2__company-col
 frontofficesports.com##.menu-footer-company-container
 frontofficesports.com##footer .col-desk-12
 frontofficesports.com##.footerv2__meta
+frontofficesports.com##.single-video-up-next
 gizmodo.com###connatix-mid-article-thumbnails
 gizmodo.com###dfp-ad-1
 gizmodo.com###leftrail_dynamic_ad_wrapper
