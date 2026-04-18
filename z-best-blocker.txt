@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.04.16
+! Version: 2026.04.17
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -307,6 +307,7 @@ bamahammer.com##footer[class^="footerWrapper_"] > div[class^="footerContent_"] >
 bamahammer.com##footer[class^="footerWrapper_"] > div[class^="footerContent_"] > div[class^="wrapper_"]
 bamahammer.com##main[class^="style_"] > figure[class^="style_"]
 bamahammer.com##script[type="placeholder"]
+bamahammer.com##div[data-testid="google-news-widget]
 batterypower.com##a.duet--article--comments-link
 batterypower.com##ul.duet--article--share-buttons
 batterypower.com###comments
