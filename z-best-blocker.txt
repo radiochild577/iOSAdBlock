@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.05.07
+! Version: 2026.05.12
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -1198,7 +1198,6 @@ si.com##p:has(>a[href="https://www.si.com/college/alabama/newsletter"])
 si.com##section[class^="sectionStyle_"] > hr
 si.com##div[data-testid="google-news-widget"]
 sportico.com###adm-mobile-bottom-sticky-ad
-sportico.com###pmc-atlasmg-adhesion-bar
 sportico.com##.ad-text
 sportico.com##.article-tags
 sportico.com##.boomerang
@@ -1222,6 +1221,11 @@ sportico.com##div[id^="img_"]:has(>div[id^="img_"]>div[id^="img_"]>iframe[aria-l
 sportico.com##iframe[aria-label="Advertisement"]
 sportico.com##footer nav ul > li > a.c-link.lrv-a-unstyle-link
 sportico.com##a[href="https://cloud.email.sportico.com/signup/"]
+sportico.com##div[id^="pmc-atlasmg-ad"]
+sportico.com##div[class^="pmc-atlasmg-ad"]
+sportico.com###skm-ad-bottom
+sportico.com###pmc-atlasmg-adhesion-close
+sportico.com##div[id^="google_ads_iframe"]
 sports.yahoo.com###feature-bar
 sports.yahoo.com###happeningNow
 sports.yahoo.com###link-package-module
