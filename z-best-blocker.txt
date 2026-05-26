@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.05.26.1
+! Version: 2026.05.26.2
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -1519,7 +1519,7 @@ yea-alabama.com##.flex.w-full.items-center.xl\:justify-center .x-nav-footer.mx-a
 yea-alabama.com##.more-topics__container
 yea-alabama.com##.x-share
 yea-alabama.com###app-content div:has(>div>div[tabindex="0"]) ~ div:has(div[dir="auto"]):is(:last-child) > div
-yea-alabama.com##div[id="1"][style^="transform"] div:has(>div>div[tabindex="0"]) ~ div:has(div[dir="auto"]):is(:last-child) > div:has(>div[dir="auto"])
+yea-alabama.com##div[style^="transform"] div:has(>div>div[tabindex="0"]) ~ div:has(div[dir="auto"]):is(:last-child) > div:has(>div[dir="auto"])
 yea-alabama.com##div:has(>#app-content) ~ div
 yellowhammernews.com###copyright
 yellowhammernews.com###footer-content
