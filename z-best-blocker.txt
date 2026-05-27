@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.05.27.1
+! Version: 2026.05.27.2
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -929,7 +929,9 @@ on3.com##footer div[class^="NetworkFooter_container"]
 on3.com###bpc_archive
 on3.com##span:has(>a[href^="https://x.com/"])
 on3.com##div[data-scroll-state="hidden"]
-||api.sail-track.com
+||on3.com^$domain=api.sail-track.com
+||on3.com^$domain=ak.sail-horizon.com
+@@||on3.com^$domain=amazon-adsystem.com
 outkick.com##.adhesion-ad
 outkick.com##.author-byline
 outkick.com##.author-dek
