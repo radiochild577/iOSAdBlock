@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.06.06.3
+! Version: 2026.06.06.4
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -1363,7 +1363,6 @@ thespun.com##div[id^="ad-header"]
 thespun.com##div[id^="ad-below_content"]
 thespun.com##div[class^="styles_siteFooterLower"]
 thespun.com##div[class^="styles_headerAdSlot"]
-thespun.com##div[class^="styles_heroMediaTools"]
 theverge.com##.adblock-allowlist-messaging__article-wrapper .adblock-allowlist-messaging__iframe
 theverge.com##.duet--article--article-byline
 theverge.com##.duet--article--comments-button
