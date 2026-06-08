@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.06.06.7
+! Version: 2026.06.08
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -651,7 +651,8 @@ gizmodo.com##.post-tools-wrapper.left .reply-to-post--mobile.js_reply-to-post.re
 gizmodo.com##.teads-wrapper
 gizmodo.com##.video-html5-playlist
 gizmodo.com##div div.instream-native-video
-gizmodo.com##Hide .newsletter-subscribe-wrapper.newsletter-btn.open .newsletter-subscribe.newsletter-subscribe--email
+gizmodo.com##.newsletter-subscribe-wrapper.newsletter-btn.open .newsletter-subscribe.newsletter-subscribe--email
+golfgenius.com##a#contact_bubble
 larrybrownsports.com###content #disqus_thread
 larrybrownsports.com###content #featured
 larrybrownsports.com###content div[id^="ad-"]
