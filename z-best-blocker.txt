@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.06.17.1
+! Version: 2026.06.17.2
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -192,9 +192,9 @@ al.com##.viafoura-wrapper
 al.com##.footer__divider
 al.com##.viafoura
 al.com###excoExperiment
+alreporter.com##div[id^="zox-lead-top"]
 alreporter.com##div[class*="post-soc"]
 alreporter.com##div:has(>div[class*="post-ad"])
-alreporter.com##aside
 alreporter.com##div[id^="article_contact"]
 alreporter.com##div[class^="zox-post-body"]
 alreporter.com##div[class^="zox-post-side"]
