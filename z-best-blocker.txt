@@ -1,12 +1,15 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.06.22.2
+! Version: 2026.06.22.3
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
 # div[style^="display:initial; visibility:initial"]
 div[style^="display:initial"][style*="visibility:initial"]
+
+! === SCORECARD RESEARCH (ComScore) ===
+||sb.scorecardresearch.com
 
 ! === SITE-SPECIFIC RULES ===
 247sports.com###article-header
