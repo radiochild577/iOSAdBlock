@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.06.17.7
+! Version: 2026.06.22
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -727,6 +727,10 @@ nbcnews.com##.article-social-share-bottom
 nbcnews.com##.body-bottom-recommended
 nbcnews.com##footer nav.links
 nbcnews.com##footer .copy
+ncaa.org###transcend-consent-manager
+ncaa.org##.sidearm-story-template-share
+ncaa.org##ul.c-footer__icons li a.c-footer__icons-link
+ncaa.org##aside
 newsmax.com###artPgLeftWrapper .nmSectionHead.nmDefault
 newsmax.com###divArticleRelatedStories
 newsmax.com###divArticleSpecialLinks
@@ -948,6 +952,12 @@ on3.com##+js(aeld, scroll)
 on3.com##+js(aeld, wheel)
 on3.com##+js(aeld, touchmove)
 on3.com##+js(aeld, resize)
+on3.com##div[class^="ArticleShell_tocCell__"]
+on3.com##div[class^="Article_fsShare"]:has(>button[aria-label="Share article"])
+on3.com##span[class^="Article_likeProof"]
+on3.com##a[class^="Article_fsTwitterPill"]
+on3.com##section[class^="ReadNextGrid"]
+on3.com##section[class^="TrailingHeadlines"]
 outkick.com##.adhesion-ad
 outkick.com##.author-byline
 outkick.com##.author-dek
