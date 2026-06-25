@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.06.25.1
+! Version: 2026.06.25.2
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -1417,17 +1417,6 @@ thespun.com##+js(abort-on-property-read, googletag)
 thespun.com##+js(abort-on-property-read, scrollTracker)
 thespun.com##script:contains(location)
 thespun.com##script:contains(scroll)
-thespun.com##[id*="google_ads"]
-thespun.com##[id*="div-gpt"]
-thespun.com##[class*="ad-container"]
-thespun.com##[class*="ad-slot"]
-||thespun.com^$script,third-party
-||googlesyndication.com^$domain=trending.thespun.com
-||outbrain.com^$domain=trending.thespun.com
-||taboola.com^$domain=trending.thespun.com
-||revcontent.com^$domain=trending.thespun.com
-/*track*/$script,domain=thespun.com
-/*pixel*/$script,domain=thespun.com
 theverge.com##.adblock-allowlist-messaging__article-wrapper .adblock-allowlist-messaging__iframe
 theverge.com##.duet--article--article-byline
 theverge.com##.duet--article--comments-button
