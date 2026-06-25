@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.06.22.3
+! Version: 2026.06.25
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -580,6 +580,11 @@ fantasysports.yahoo.com##form[id="add-drop-players-form"] > section.No-m:has(hea
 fantasysports.yahoo.com##html body.jar
 fantasysports.yahoo.com##section[id*="-promo"]
 fantasysports.yahoo.com##table.ad_slug_table
+footballscoop.com##.mainBody ~ section:has(.lazyLoaded)
+footballscoop.com##div:has(>.lazyLoaded)
+footballscoop.com##.flex > div:has(>aside)
+footballscoop.com##.nativeBuffer
+footballscoop.com##.commentSlide
 forbes.com##*[id^="article-stream-"]:not([id="article-stream-1"])
 forbes.com##.ad-unit
 forbes.com##.amp-player-wrapper
@@ -1389,13 +1394,13 @@ thecrimsonwhite.com##.sno-side-icons.icon-standard.icon-hover-standard
 thecrimsonwhite.com##.sno-story-cat-blocks
 thecrimsonwhite.com##.sno-story-related-content
 thecrimsonwhite.com##.sno-story-social-icons
-thespun.com##.ad-slot
-thespun.com##div[id^="ad-header"]
-thespun.com##.exco-player-wrapper
-thespun.com##div[id^="ad-header"]
-thespun.com##div[id^="ad-below_content"]
-thespun.com##div[class^="styles_siteFooterLower"]
-thespun.com##div[class^="styles_headerAdSlot"]
+thespun.com##a[class*="is-skip-link"]
+thespun.com##body > div[id*="ad-"]
+thespun.com##.header-ad-slot
+thespun.com##main > div[class^="styles_contextualNavigation"]
+thespun.com##main article .article-content > div:not([class*="video"])
+thespun.com###credential_picker_container
+thespun.com##body > script
 thespun.com##div[class^="styles_heroMediaTools"]
 thespun.com##.hero-media-tools
 thespun.com##nav[aria-label="Categories Menu"]
