@@ -1,12 +1,21 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.06.25.4
+! Version: 2026.06.25.5
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
 # div[style^="display:initial; visibility:initial"]
 div[style^="display:initial"][style*="visibility:initial"]
+
+! === ADMIRAL BAIT/BEACON/CDN DOMAINS ===
+||succeedscene.com^$script,important
+||funtoyplanet.com^$script,important
+||getadmiral.com^$script,important
+||nebulousgarden.com^$script,important
+||thespun.com/.api/admiral$script,important
+||athlonsports.com/.api/admiral$script,important
+||googletagservices.com/tag/js/gpt.js$script,redirect=noopjs,domain=thespun.com|athlonsports.com
 
 ! === GOOGLE SHOPPING/IMAGES FIX ===
 @@||www.google.com*tbm=shop*
@@ -1419,6 +1428,29 @@ thespun.com##footer > div[class*="Footer"] > div:not([class*="FooterTop"])
 thespun.com##+js(abort-on-property-read, scrollTracker)
 thespun.com##script:contains(location)
 thespun.com##script:contains(scroll)
+thespun.com,athlonsports.com##.sticky-header ~ div:has(~main)
+thespun.com,athlonsports.com##div[class*="styles_differentZones"]
+thespun.com,athlonsports.com##div[class*="xx"]:has(iframe[aria-label="Advertisement"])
+thespun.com,athlonsports.com##+js(set-constant, admiral, noopFunc)
+thespun.com,athlonsports.com##+js(set-constant, admrlLoaded, true)
+thespun.com,athlonsports.com##+js(set-constant, loadAdmiralScript, noopFunc)
+thespun.com,athlonsports.com##+js(set-constant, gnt.x.adm, '')
+thespun.com,athlonsports.com##+js(abort-current-inline-script, document.createElement, /admiral|succeedscene\.com|getadmiral\.com|String\.fromCharCode\(97,/)
+thespun.com,athlonsports.com##+js(abort-current-inline-script, setTimeout, /admiral|succeedscene\.com/)
+thespun.com,athlonsports.com##+js(prevent-element-src-loading, script, /succeedscene\.com|funtoyplanet\.com|getadmiral\.com/)
+thespun.com,athlonsports.com##+js(set-local-storage-item, fs.adb, 1)
+thespun.com,athlonsports.com##+js(set-session-storage-item, fs.adb831, 1)
+thespun.com,athlonsports.com##+js(abort-current-inline-script, document.createElement, googletag)
+thespun.com,athlonsports.com##+js(set-constant, googletag.cmd, emptyArr)
+thespun.com,athlonsports.com##.exco-player-wrapper
+thespun.com,athlonsports.com##.m-video-player
+thespun.com,athlonsports.com||exco.io^$script,domain=thespun.com|athlonsports.com
+thespun.com,athlonsports.com##body > script ~ div:not([class]):not([id]) > style + div[class]
+thespun.com,athlonsports.com##div[class*="admiral"],div[id*="admiral"],.ab-message
+thespun.com,athlonsports.com||taboola.com^$script,domain=thespun.com|athlonsports.com,important
+thespun.com,athlonsports.com||trc.taboola.com^$script,domain=thespun.com|athlonsports.com,important
+thespun.com,athlonsports.com##section[class^="styles_contentSection"] ~ div
+thespun.com,athlonsports.com##footer ~ div
 theverge.com##.adblock-allowlist-messaging__article-wrapper .adblock-allowlist-messaging__iframe
 theverge.com##.duet--article--article-byline
 theverge.com##.duet--article--comments-button
