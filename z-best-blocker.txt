@@ -1,12 +1,18 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.06.25.3
+! Version: 2026.06.25.4
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
 # div[style^="display:initial; visibility:initial"]
 div[style^="display:initial"][style*="visibility:initial"]
+
+! === GOOGLE SHOPPING/IMAGES FIX ===
+@@||www.google.com*tbm=shop*
+@@||www.google.com*udm=28*
+@@||www.google.com*tbm=isch*
+@@||www.google.com*udm=2*
 
 ! === SCORECARD RESEARCH (ComScore) ===
 ||sb.scorecardresearch.com
