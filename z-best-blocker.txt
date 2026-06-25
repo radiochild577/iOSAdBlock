@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.06.25
+! Version: 2026.06.25.1
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -584,7 +584,7 @@ footballscoop.com##.mainBody ~ section:has(.lazyLoaded)
 footballscoop.com##div:has(>.lazyLoaded)
 footballscoop.com##.flex > div:has(>aside)
 footballscoop.com##.nativeBuffer
-footballscoop.com##.commentSlide
+footballscoop.com##div[class^="comment"]
 forbes.com##*[id^="article-stream-"]:not([id="article-stream-1"])
 forbes.com##.ad-unit
 forbes.com##.amp-player-wrapper
@@ -1408,6 +1408,26 @@ thespun.com##button[aria-label*="comments"]
 thespun.com###odds-checker-bottom-slot
 thespun.com##div[class^="styles_disclaimerContainer"]
 thespun.com##div[class^="styles_contributors"]
+thespun.com##.sci-topbanner
+thespun.com##footer > div[class*="Footer"] > div:not([class*="FooterTop"])
+thespun.com##+js(aopr, googletag)
+thespun.com##+js(set-constant, googletag.cmd, undefined)
+thespun.com##+js(set-constant, googletag.apiReady, false)
+thespun.com##+js(abort-on-property-read, googletag)
+thespun.com##+js(abort-on-property-read, scrollTracker)
+thespun.com##script:contains(location)
+thespun.com##script:contains(scroll)
+thespun.com##[id*="google_ads"]
+thespun.com##[id*="div-gpt"]
+thespun.com##[class*="ad-container"]
+thespun.com##[class*="ad-slot"]
+||thespun.com^$script,third-party
+||googlesyndication.com^$domain=trending.thespun.com
+||outbrain.com^$domain=trending.thespun.com
+||taboola.com^$domain=trending.thespun.com
+||revcontent.com^$domain=trending.thespun.com
+/*track*/$script,domain=thespun.com
+/*pixel*/$script,domain=thespun.com
 theverge.com##.adblock-allowlist-messaging__article-wrapper .adblock-allowlist-messaging__iframe
 theverge.com##.duet--article--article-byline
 theverge.com##.duet--article--comments-button
