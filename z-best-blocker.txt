@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.06.30.4
+! Version: 2026.06.30.5
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -1295,6 +1295,8 @@ sportico.com###pmc-atlasmg-adhesion-close
 sportico.com##div[id^="google_ads_iframe"]
 sportico.com##div[class*="xx"][style*="border-bottom: 0px;"]
 sportico.com##div[style^="position: fixed; bottom: 0px;"]
+sportico.com##body > #main-wrapper ~ *
+sportico.com###main-wrapper footer ~ *
 sports.yahoo.com###feature-bar
 sports.yahoo.com###happeningNow
 sports.yahoo.com###link-package-module
