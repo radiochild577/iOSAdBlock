@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.06.30
+! Version: 2026.06.30.1
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -404,13 +404,14 @@ cbsnews.com##.content__copyright
 cbsnews.com##.FooterCopyright
 cbsnews.com##.FooterLinks-group
 cbsnews.com##.story__right-rail-video
-cbsnews.com##span[data-component="scroll-listener"]
+! cbsnews.com##span[data-component="scroll-listener"]
 cbsnews.com##aside
 cbsnews.com##.component list recirculation
 cbsnews.com##.component--type-recirculation
 cbsnews.com##nav.Footer-links
 cbsnews.com##.FooterCopyright
-cbsnews.com###component-moneywatch-branded-header
+! cbsnews.com###component-moneywatch-branded-header
+cbsnews.com##div[id$="branded-header"]
 cbssports.com###article .Newsletter-container
 cbssports.com###article-body #article-event-promo
 cbssports.com###branch-amp-journey
