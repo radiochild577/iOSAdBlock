@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.06.30.5
+! Version: 2026.07.03
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -1561,6 +1561,9 @@ usatoday.com,knoxnews.com##aside[aria-label^="Newsletter"]
 usatoday.com,knoxnews.com##div[aria-label="Our Partners"]
 usatoday.com,knoxnews.com##div[data-g-r="base_sc"]
 usatoday.com,knoxnews.com##div[data-g-r="lazy"]
+usatoday.com,knoxnews.com##[aria-label^="Stories"]
+usatoday.com,knoxnews.com##[aria-label="advertisement"]
+usatoday.com,knoxnews.com##.gnt_em.gnt_em__lp
 vice.com##.code-block:has(>div[id^="htlad"])
 vice.com##.wp-block-savage-platform-primis-video
 vice.com##.code-block:has(>#vice_end_of_article)
