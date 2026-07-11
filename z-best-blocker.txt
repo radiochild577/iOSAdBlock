@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.07.09
+! Version: 2026.07.11
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -1478,6 +1478,15 @@ tmz.com###disqus_thread
 tmz.com###tag-cloud-section
 tmz.com##.comments
 tmz.com##a[class*="google-preferred-link"]
+totalprosports.com##.pw-leaderboard
+totalprosports.com##.has-secondary-background-color
+totalprosports.com##.has-md-margin-top.has-md-margin-bottom
+totalprosports.com###disqus_recommendations
+totalprosports.com###disqus_thread
+totalprosports.com##div[data-content-name="mai-more-news-you-like"]
+totalprosports.com##.nav-social-footer
+totalprosports.com##.nav-contact-footer
+totalprosports.com##div[class*="-column"]:has(>p[class*="has-xl-font-size"])
 tuscaloosanews.com,tidesports.com##*[class*="gnt_x"]
 tuscaloosanews.com,tidesports.com##.modal-fade-screen
 tuscaloosanews.com,tidesports.com##.sign-up-banner[class^="jsx-"]
