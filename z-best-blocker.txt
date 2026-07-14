@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.07.11
+! Version: 2026.07.14
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -1621,6 +1621,17 @@ wired.com##div[class^="TagCloudWrapper"]
 wired.com##nav[aria-label="More From WIRED"]
 wired.com##nav[class^="SiteFooterNavigationVertical"]
 wired.com##p[class^="SiteFooterLegaleseText"]
+wsj.com##nav-hat ~ div:has([aria-label="Market Data"])
+wsj.com##div[class*="LoginButtonsWrapper"]
+wsj.com##.article-body-tools
+wsj.com###cx-candybar
+wsj.com##div[data-utility-nav-visible="true"]
+wsj.com##div[data-testid="author-module-wrapper"]
+wsj.com##.article-comments
+wsj.com##div:has(>div[aria-label="What to Read Next"])
+wsj.com##main ~ div:has(>footer)
+wsj.com##.uds-ad-container
+wsj.com##nav-hat
 wvtm13.com###alerts-container .alerts--control
 wvtm13.com##.ad-label
 wvtm13.com##.ad-leaderboard
