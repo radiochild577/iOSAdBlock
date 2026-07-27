@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.07.23
+! Version: 2026.07.27
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -769,6 +769,10 @@ ncaa.org##section:has(>div[class^="related-news"])
 ncaa.org##.footer-nav
 ncaa.org##.footer-top-left > p
 ncaa.org##.sub-footer
+ncaa.org##nav.mobile-footer-nav
+ncaa.org##.mobile-footer-social
+ncaa.org##nav.mobile-footer-sub-nav
+ncaa.org##p.mobile-footer-copyright
 newsmax.com###artPgLeftWrapper .nmSectionHead.nmDefault
 newsmax.com###divArticleRelatedStories
 newsmax.com###divArticleSpecialLinks
