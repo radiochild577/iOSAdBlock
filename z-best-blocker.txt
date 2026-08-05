@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.08.05.1
+! Version: 2026.08.05.2
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -1264,7 +1264,7 @@ si.com##footer nav
 si.com##footer p
 si.com##h2[class^="tagStyle_"]
 si.com##h2[class^="tagStyle_"] ~ div
-si.com##h3[q\:key="0"]
+si.com##h3[q\:key="0"]:not(:has(>strong))
 si.com##h3[q\:key="0"] ~ ul > li:has(a[target="_blank"])
 si.com##header > div[class^="wrapper"][class*="tagStyle"]:has(>ul)
 si.com##hr ~ h3[id^="inline-text"]:not(:has(>strong))
@@ -1275,6 +1275,7 @@ si.com##p.font-group-tiny
 si.com##p:has(>a[href="https://www.si.com/college/alabama/newsletter"])
 si.com##section[class^="sectionStyle_"] > hr
 si.com##div[data-testid="google-news-widget"]
+si.com##.hidden > aside
 sportico.com###adm-mobile-bottom-sticky-ad
 sportico.com##.ad-text
 sportico.com##.article-tags
