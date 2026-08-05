@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.07.27
+! Version: 2026.08.05
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -1267,7 +1267,7 @@ si.com##h2[class^="tagStyle_"] ~ div
 si.com##h3[q\:key="0"]
 si.com##h3[q\:key="0"] ~ ul > li:has(a[target="_blank"])
 si.com##header > div[class^="wrapper"][class*="tagStyle"]:has(>ul)
-si.com##hr ~ h3[id^="inline-text"]
+si.com##hr ~ h3[id^="inline-text"]:not(has(>strong))
 si.com##iframe#rufous-sandbox
 si.com##iframe[id^="google_ads_iframe"]
 si.com##iframe[name="__pb_locator__"]
