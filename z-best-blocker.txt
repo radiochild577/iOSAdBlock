@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.08.05.9
+! Version: 2026.08.05.10
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -1399,7 +1399,7 @@ tdalabamamag.com##.mvp-fly-top
 tdalabamamag.com###mvp-post-trend-wrap
 tdalabamamag.com###mvp-post-trend-down
 tdalabamamag.com###mvp-prev-next-wrap
-tdalabamamag.com##div:has(>iframe[title*="ad"])
+tdalabamamag.com##div:has(>div>iframe[title*="ad"])
 !tdalabamamag.com##dialog.raptive-content-terms-modal ~ div
 !tdalabamamag.com###mvp-content-main p:not([class="p1"]):last-of-type
 !tdalabamamag.com###mvp-content-main div:has(~div[class^="mailmunch-"])
