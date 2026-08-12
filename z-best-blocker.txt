@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.08.11
+! Version: 2026.08.11.0
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -534,8 +534,8 @@ decrypt.day##div[id^="kofi-widget-overlay"]
 decrypt.day##div[id="svelte-announcer"]
 decrypt.day##ins[class^="adsbygoogle"]
 docs.google.com##div:has(>div[class*="-promotion"])
-espn.com##article:nth-of-type(n+2)
-espn.com##aside
+!espn.com##article:nth-of-type(n+2)
+!espn.com##aside
 espn.com##.ad-banner-wrapper
 espn.com##.ad-slot
 espn.com##[id^="ad-slot"]
