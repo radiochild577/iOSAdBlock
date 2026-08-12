@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.08.11.1
+! Version: 2026.08.11.2
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -546,6 +546,7 @@ espn.com##[data-behavior="article_related"]
 espn.com##[class^="inline editorial float"]
 espn.com##.article-legal-footer
 espn.com##.sponsored-links
+espn.com##aside[class^="module-iframe-wrapper"]:has(>iframe[src="https://open.spotify.com"])
 fantasysports.yahoo.com###ad
 fantasysports.yahoo.com###ad_mid_right
 fantasysports.yahoo.com###ad_top_right
