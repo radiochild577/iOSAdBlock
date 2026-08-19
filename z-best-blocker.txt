@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.08.11.3
+! Version: 2026.08.18
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -508,6 +508,8 @@ coinjournal.com##aside
 coinjournal.com##div.footer-disclaimer__content
 coinjournal.com##div.footer-top
 coinjournal.com##div.js-load-more-articles
+cultofmac.com###center-modal-popup
+cultofmac.com##.center-modal-popup
 darkwebuser.com###after-ad
 darkwebuser.com###antiAdBlock
 darkwebuser.com###before-ad
