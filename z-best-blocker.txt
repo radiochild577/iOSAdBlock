@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.08.21
+! Version: 2026.08.21.1
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -926,6 +926,8 @@ nytimes.com##section[aria-labelledby^="more-"]
 nytimes.com##section[data-testid="recirc-package"]
 nytimes.com##div[data-testid="site-index-accordion"]
 nytimes.com##footer[role="contentinfo"]
+nytimes.com##section[aria-labelledby="trending-"]
+nytimes.com##p#article-summary ~ div:has(audio)
 on3.com###h-not-a-member-alabama-fans-join-bol-today
 on3.com###jwplayerSpacing
 on3.com###mpu_top
