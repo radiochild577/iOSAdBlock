@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.08.21.1
+! Version: 2026.08.21.2
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -923,7 +923,7 @@ nytimes.com##div[id^="dfp-ad"]
 nytimes.com##section[role="complementary"]
 nytimes.com##div[data-testid="share-tools-menu"]
 nytimes.com##section[aria-labelledby^="more-"]
-nytimes.com##section[data-testid="recirc-package"]
+nytimes.com##section[data-testid^="recirc"]
 nytimes.com##div[data-testid="site-index-accordion"]
 nytimes.com##footer[role="contentinfo"]
 nytimes.com##section[aria-labelledby="trending-"]
