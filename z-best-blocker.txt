@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.08.31.2
+! Version: 2026.08.31.3
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -1159,6 +1159,7 @@ rolltide.com###consentManagerMainDialog
 rolltide.com###container .hide-acc.skip-link
 rolltide.com###ctl00_upperRotator .row
 rolltide.com###divSatisfiChat
+rolltide.com###GCCTAContainer
 rolltide.com###global-top-ad
 rolltide.com###google_ads_iframe
 rolltide.com###mainHeaderWrapper > div:first-child:not(.main-header)
@@ -1195,15 +1196,17 @@ rolltide.com##.c-shop
 rolltide.com##.c-sticky-leaderboard
 rolltide.com##.c-stories__ad
 rolltide.com##.c-story-page__custom-ad
+! rolltide.com##.dfp (DISABLES PAGE LOAD)
 rolltide.com##.dfp-2
 rolltide.com##.dfp-ad
 rolltide.com##.dfp-container
-! rolltide.com##.empty\:hidden ! BREAKS GAME-CENTER PAGE !
+! rolltide.com##.empty\:hidden (BREAKS GAME-CENTER PAGE)
 rolltide.com##.flex:has(div[id^="_story_videos_bottom"])
 rolltide.com##.flex-justify-center.sidearm_schedule-ticket-text
 rolltide.com##.grecaptcha-badge
 ! rolltide.com##.hidden
 rolltide.com##.hide
+! rolltide.com##.html-ad.ad (DISABLES MAIN HOMEPAGE IMAGE)
 rolltide.com##.main-footer__bottom
 rolltide.com##.main-footer__common
 rolltide.com##.main-footer__common .row
@@ -1258,7 +1261,6 @@ rolltide.com##script[src*="cdn.transcend.io"]
 rolltide.com##tr.s-table-body__row--ad
 rolltide.com##ul.s-common-footer__links
 rolltide.com##img[class*="sponsor-logo"]
-rolltide.com###GCCTAContainer
 si.com###bottom-placeholder
 si.com###div-sticky-bottom
 si.com###main-article .viewablity-block .article-content ~ div.flex:has(a[href^="/author/"])
