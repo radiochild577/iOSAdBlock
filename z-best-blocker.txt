@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.08.31
+! Version: 2026.08.31.1
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -1198,10 +1198,11 @@ rolltide.com##.c-story-page__custom-ad
 rolltide.com##.dfp-2
 rolltide.com##.dfp-ad
 rolltide.com##.dfp-container
-rolltide.com##.empty\:hidden
+! rolltide.com##.empty\:hidden ! BREAKS GAME-CENTER PAGE !
 rolltide.com##.flex:has(div[id^="_story_videos_bottom"])
 rolltide.com##.flex-justify-center.sidearm_schedule-ticket-text
 rolltide.com##.grecaptcha-badge
+! rolltide.com##.hidden
 rolltide.com##.hide
 rolltide.com##.main-footer__bottom
 rolltide.com##.main-footer__common
