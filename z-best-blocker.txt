@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.09.03.1
+! Version: 2026.09.08
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -1089,6 +1089,14 @@ patch.com##section.footer__section
 patch.com##div[class^="MuiBox-root"]:has(a[href*="business/listing"])
 patch.com##p:has(>a[href$="subscribe"])
 patch.com##div[class*="SubscribeBlock"]
+patch.com##div[role="presentation"]:has(div[data-testid^="sentinel"])
+patch.com##div[data-testid^="sentinel"]
+patch.com##.ad
+patch.com##h3.footer__header--ring
+patch.com##.footer__personalinfo
+patch.com##p:has(>em>a[href$="subscribe"])
+patch.com##div:last-of-type p:last-child:has(>em)
+patch.com##div[class$="CardDetail__Footer"]:has(div[class$="ShareDropdown"]>button[id$="share-toggle"])
 patentlyapple.com###admodule-inner #PatentlyApple-PapayAds-TOP-Banner
 patentlyapple.com###all-comments .comments-header.font-entryheader
 patentlyapple.com###all-comments .fas.fa-comments
