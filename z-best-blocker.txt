@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.09.13
+! Version: 2026.09.23
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -649,8 +649,10 @@ forbes.com##.subscribe
 forbes.com##small.copy
 frontofficesports.com##.card-wrapper--sponsored
 frontofficesports.com##.col-desk-12 .footer-meta
+frontofficesports.com##.footerv2__main > :not(.col-tab-3)
+frontofficesports.com##.footer-company-info > :not(a.footer-logo)
+frontofficesports.com##.footerv2__meta
 frontofficesports.com##.footer-company-info .mobile-footer-links
-frontofficesports.com##.footer-company-info .text.footer-company-desc
 frontofficesports.com##.footer-cta__left
 frontofficesports.com##.footer-cta__right
 frontofficesports.com##.footer-links__socials
@@ -671,6 +673,13 @@ frontofficesports.com##.menu-footer-company-container
 frontofficesports.com##footer .col-desk-12
 frontofficesports.com##.footerv2__meta
 frontofficesports.com##.single-video-up-next
+frontofficesports.com##.countdown-timer-wrapper
+frontofficesports.com###frontofficesports_richmedia_leaderboard
+frontofficesports.com###didomi-host
+frontofficesports.com###didomi-notice
+frontofficesports.com##.post-subscribe
+frontofficesports.com##.post-swc
+frontofficesports.com###pmLink
 gizmodo.com###connatix-mid-article-thumbnails
 gizmodo.com###dfp-ad-1
 gizmodo.com###leftrail_dynamic_ad_wrapper
