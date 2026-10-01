@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.09.24
+! Version: 2026.09.30
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -1114,6 +1114,7 @@ patch.com##.footer__personalinfo
 patch.com##p:has(>em>a[href$="subscribe"])
 patch.com##div:last-of-type p:last-child:has(>em)
 patch.com##div[class$="CardDetail__Footer"]:has(div[class$="ShareDropdown"]>button[id$="share-toggle"])
+patch.com##.p-amp-exco-video
 patentlyapple.com###admodule-inner #PatentlyApple-PapayAds-TOP-Banner
 patentlyapple.com###all-comments .comments-header.font-entryheader
 patentlyapple.com###all-comments .fas.fa-comments
