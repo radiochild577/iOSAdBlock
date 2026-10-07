@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.10.05
+! Version: 2026.10.07
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -1414,6 +1414,7 @@ sports.yahoo.com##ul.ft-links
 sports.yahoo.com##p:has(>strong>a[data-ylk*="SUBSCRIBE"])
 sports.yahoo.com##div:has(>aside[class*="-aside"])
 sports.yahoo.com##.evp-docked-mode
+sports.yahoo.com##.content-iframely
 sportsbusinessjournal.com###copytoclipboardpopup .copytoclipboardpopupbody
 sportsbusinessjournal.com###evg-exit-intent-popup
 sportsbusinessjournal.com##.b-standard-article-layout__section .issue-navigation
