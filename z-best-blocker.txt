@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.10.08.6
+! Version: 2026.10.08.7
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -1730,6 +1730,7 @@ x.com##div[data-interaction="app-store-obstruction-backdrop"]
 x.com##div[data-interaction="app-store-obstruction-panel"]
 x.com##div[data-interaction="app-store-obstruction"] > button[aria-label="Dismiss"]
 x.com##div[aria-hidden="true"]
+x.com##aside
 yea-alabama.com###app-header button[aria-label="Go to home"] ~ div > :last-child:has(div[aria-label^="Visit us on"])
 yea-alabama.com##div:has(>#app-content) ~ div
 yea-alabama.com###app-content div:has(>:nth-child(3)) > div:last-child:not([class*="r-"]):has(>div:not(div[tabindex="0"]) > div:is([dir="auto"])):not(:has(span))
