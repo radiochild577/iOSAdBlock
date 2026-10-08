@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.10.08.2
+! Version: 2026.10.08.3
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -1071,6 +1071,9 @@ on3.com##[class*="__restrict"]
 on3.com###blocker
 on3.com##[class*="Barrier"][class*="__block"]
 on3.com##[class*="BarrierWrapper"][class*="__blocker"]
+on3.com##div[class^="TopOfContent-module"]:has(>div[class^="On3PlusRivalsTOC-module"])
+on3.com##div[class^="On3PlusRivalsTOC-module"]
+on3.com##div[class^="TopOfContent-module"]
 outkick.com##.adhesion-ad
 outkick.com##.author-byline
 outkick.com##.author-dek
