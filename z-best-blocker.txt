@@ -27,6 +27,13 @@ div[style^="display:initial"][style*="visibility:initial"]
 ||sb.scorecardresearch.com
 
 ! === SITE-SPECIFIC RULES ===
+1819news.com##ul.main-navigation > li:not(.homepage)
+1819news.com##.article-body > div:has(>.sprig-component)
+1819news.com##.ad-carousel
+1819news.com##div[hx-get="/trending"]
+1819news.com##.newsletter-signup
+1819news.com##.footer-nav-wrapper > ul.grid > li:not(:first-child)
+1819news.com##.article-body > p:has(>span>strong>a[href$="trending_news"])
 247sports.com###article-header
 247sports.com###cps-shaman-notifier
 247sports.com###embedVideoContainer_undefined
