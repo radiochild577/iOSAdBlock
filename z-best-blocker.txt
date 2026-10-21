@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.10.19
+! Version: 2026.10.21
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -118,6 +118,7 @@ abc3340.com##div[class^="InfiniteScroll_trigger"]
 abc3340.com##div[class^="InfiniteScroll_container"] > :not(:first-child)
 abc3340.com##ul[class^="SocialLinks"]
 abc3340.com##div[class^="StoryPage_taboolaDeeperDive"]
+abc3340.com##div[data-testid="sign-in-with-apple-host"]
 abcnews.go.com##div:has(>div[data-testid="prism-ad-wrapper"])
 abcnews.go.com##div:has(>div[data-testid="prism-divider"]):has(>div>section[data-testid="prism-collection"])
 abcnews.go.com##div:has(>div[data-testid="prism-tags"])
