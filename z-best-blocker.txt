@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.10.21
+! Version: 2026.10.23
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -799,6 +799,9 @@ macrumors.com##div[class^="colStaff--"] p
 macrumors.com##div[class^="footer--"] div
 macrumors.com##div[class^="footerBottom--"]
 macrumors.com##div[class^="social--"]
+mariushosting.com###donate
+mariushosting.com##.entry-content > .awac-wrapper
+mariushosting.com##footer > .inside-site-info
 nbcnews.com###hfs-subscribe-link
 nbcnews.com##div[data-testid="news-now"]
 nbcnews.com##div:has(>div[data-testid="decibel-player-wrapper"])
