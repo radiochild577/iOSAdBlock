@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.10.23
+! Version: 2026.10.25
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -1587,6 +1587,7 @@ thespun.com,athlonsports.com||taboola.com^$script,domain=thespun.com|athlonsport
 thespun.com,athlonsports.com||trc.taboola.com^$script,domain=thespun.com|athlonsports.com,important
 thespun.com,athlonsports.com##section[class^="styles_contentSection"] ~ div
 thespun.com,athlonsports.com##footer ~ div
+thespun.com,athlonsports.com##.adzen-placement-wrapper
 theverge.com##.adblock-allowlist-messaging__article-wrapper .adblock-allowlist-messaging__iframe
 theverge.com##.duet--article--article-byline
 theverge.com##.duet--article--comments-button
