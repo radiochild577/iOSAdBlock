@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.10.25
+! Version: 2026.10.28
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -900,6 +900,11 @@ newsweek.com##div[class^="BreakingBar_breakingBar"]
 newsweek.com##div[class^="GooglePreferredSourceBanner"]
 newsweek.com##div[class^="RecommendedForYou"]
 newsweek.com##p[class^="Paragraph_blockParagraph"]:has(>strong)
+nola.com##.tnt-ads-container
+nola.com##.dfp-ad
+nola.com##.tnt-ads
+nola.com###site-footer-container
+nola.com##.hidden-print
 nypost.com###membership-dropdown-wrapper
 nypost.com###menu-mobile-footer-links
 nypost.com###nypost-openweb-conversation
