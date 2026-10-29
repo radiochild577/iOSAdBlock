@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.10.28.1
+! Version: 2026.10.28.2
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -904,6 +904,8 @@ nola.com##.tnt-ads-container
 nola.com##.dfp-ad
 nola.com##.tnt-ads
 nola.com###site-footer-container
+nola.com##div[class^="mobile-spacer"]
+nola.com##.asset-breakout-ads
 nypost.com###membership-dropdown-wrapper
 nypost.com###menu-mobile-footer-links
 nypost.com###nypost-openweb-conversation
