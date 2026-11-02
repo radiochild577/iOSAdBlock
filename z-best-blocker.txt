@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.11.02.2
+! Version: 2026.11.02.3
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -1336,7 +1336,7 @@ rolltide.com###promo-right-rail
 rolltide.com##.site-footer__common
 rolltide.com###main-store-slider
 secrant.com###topl:has(>div[id^="div-gpt-ad"])
-secrant.com##div[id^="boxad"]
+secrant.com##div[class^="boxad"]
 secrant.com##.ArtSec > .Mid_Head
 secrant.com##.ArtSec > .thumb
 secrant.com###footer > :not(:nth-child(4))
