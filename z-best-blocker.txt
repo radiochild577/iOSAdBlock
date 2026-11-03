@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.11.02.4
+! Version: 2026.11.02.5
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -663,6 +663,7 @@ forbes.com##.open-web_anchor
 forbes.com##.recirc-module
 forbes.com##.subscribe
 forbes.com##small.copy
+freeforums.net###ad1
 frontofficesports.com##.card-wrapper--sponsored
 frontofficesports.com##.col-desk-12 .footer-meta
 frontofficesports.com##.footerv2__main > :not(.col-tab-3)
