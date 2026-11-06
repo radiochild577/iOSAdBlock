@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.11.06.1
+! Version: 2026.11.06.2
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -770,7 +770,7 @@ larrybrownsports.com##.right-column .widget.clearfix.adsanity-single
 larrybrownsports.com##div[id^="ad-"] .adsanity-inner
 larrybrownsports.com##div[id^="ml-webforms-popup"]
 larrybrownsports.com##div[id^="related-"]
-larrybrownsports.com##a[href="#comments]
+larrybrownsports.com##a[href="#comments"]
 larrybrownsports.com##.maisdio-modal
 larrybrownsports.com##.maisdio-floating-bar
 larrybrownsports.com##.entry-content > .wp-block-group.alignfull.has-secondary-background-color
@@ -788,6 +788,7 @@ larrybrownsports.com##.mai-ad-unit-sticky-footer
 larrybrownsports.com##footer .mai-columns > .mai-columns-wrap > :not(:first-child)
 larrybrownsports.com##footer .mai-column > a#pmLink
 larrybrownsports.com##ul.wp-block-social-links
+larrybrownsports.com##main.content > .wp-block-group.alignfull.has-secondary-background-color 
 liveforlivemusic.com###gform_wrapper_1 #gform_1
 liveforlivemusic.com###social-menu #menu-social-menu
 liveforlivemusic.com##.ad-zone .ad-embed
