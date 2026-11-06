@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.11.06.2
+! Version: 2026.11.06.3
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -1510,6 +1510,7 @@ sportsbusinessjournal.com##.sponsored .row
 sportsbusinessjournal.com##.topics .sponsored
 sportsbusinessjournal.com##.wrapper .paywall-footer-container
 sportsbusinessjournal.com##.wrapper > .container
+tdalabamamag.com##div[class^="adthrive"]
 tdalabamamag.com###adthrive-auto-injected-container
 tdalabamamag.com###adthrive-ccpa-link
 tdalabamamag.com###bbcustom-infinite-loading
@@ -1544,9 +1545,8 @@ tdalabamamag.com##div[id^="img_"]:not(header div)
 tdalabamamag.com##footer
 tdalabamamag.com##iframe[src^="https://playlist.megaphone.fm"]
 tdalabamamag.com##section[id^="custom_html-"]
-tdalabamamag.com##.mvp-fly-top
-tdalabamamag.com###mvp-post-trend-wrap
-tdalabamamag.com###mvp-post-trend-down
+tdalabamamag.com##.back-to-top
+tdalabamamag.com##.mvp-post-trend-down
 tdalabamamag.com###mvp-prev-next-wrap
 tdalabamamag.com##div:has(>div>iframe[title*="ad"])
 tdalabamamag.com##iframe[title*="ad"]
