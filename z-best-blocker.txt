@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.11.02.5
+! Version: 2026.11.06
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -770,6 +770,24 @@ larrybrownsports.com##.right-column .widget.clearfix.adsanity-single
 larrybrownsports.com##div[id^="ad-"] .adsanity-inner
 larrybrownsports.com##div[id^="ml-webforms-popup"]
 larrybrownsports.com##div[id^="related-"]
+larrybrownsports.com##a[href="#comments]
+larrybrownsports.com##.maisdio-modal
+larrybrownsports.com##.maisdio-floating-bar
+larrybrownsports.com##.entry-content > .wp-block-group.alignfull.has-secondary-background-color
+larrybrownsports.com##article ~ div:has(>span[aria-hidden="true"])
+larrybrownsports.com###comments
+larrybrownsports.com##div[data-content-name="mai_preferred_source"]
+larrybrownsports.com##div[data-content-name="mai-taboola"]
+larrybrownsports.com##div[data-content-name="cta-after-content-engagement-newsletter-form"]
+larrybrownsports.com##div[data-content-name="cta-after-content-engagement-google-news"]
+larrybrownsports.com##div[data-content-name="cta-after-content-engagement-app"]
+larrybrownsports.com##.wp-block-group.alignfull.has-white-background-color > .wp-block-group__inner-container > .mai-columns
+larrybrownsports.com##.mai-ad-unit-container
+larrybrownsports.com##.mai-ad-unit-sticky
+larrybrownsports.com##.mai-ad-unit-sticky-footer
+larrybrownsports.com##footer .mai-columns > .mai-columns-wrap > :not(:first-child)
+larrybrownsports.com##footer .mai-column > a#pmLink
+larrybrownsports.com##ul.wp-block-social-links
 liveforlivemusic.com###gform_wrapper_1 #gform_1
 liveforlivemusic.com###social-menu #menu-social-menu
 liveforlivemusic.com##.ad-zone .ad-embed
@@ -1531,6 +1549,8 @@ tdalabamamag.com###mvp-post-trend-down
 tdalabamamag.com###mvp-prev-next-wrap
 tdalabamamag.com##div:has(>div>iframe[title*="ad"])
 tdalabamamag.com##iframe[title*="ad"]
+tdalabamamag.com##div[id^="cls-video-container"]
+tdalabamamag.com##dialog.raptive-content-terms-modal ~ div:has(>div>iframe[title="3rd party ad content"]
 thebump.com## p[class="medical-disclaimer"]
 thebump.com###branch-banner-iframe
 thebump.com##.ad-height
