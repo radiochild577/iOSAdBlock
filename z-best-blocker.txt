@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.11.16
+! Version: 2026.11.18
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -1185,6 +1185,26 @@ patentlyapple.com##.module-content .cat-more
 patentlyapple.com##.module-custom_html.module .module-content
 patentlyapple.com##.widgets .widgets-inner.bottomwidgets
 patentlyapple.com##.widgets-inner.bottomwidgets .module-categories.module
+people.com###adhesive
+people.com##div:has(>a[href="#comments"])
+people.com##div[data-ad-height]
+people.com##div[data-tracking-id="mntl-sc-block-callout"]
+people.com##div[class*="mntl-sc-block-spotlight"]
+people.com##.click-to-comment
+people.com##.recirc-lead
+people.com##.people-comments
+people.com##.recirc-section
+people.com##.download-app-buttons
+people.com##.newsletter-link-wrapper
+people.com##.mntl-footer_social
+people.com##.mntl-footer_secondary
+people.com##.footer-bottom
+people.com##.mm-video-exco-trending-video-player
+people.com##.mm-ads-leaderboard-header
+people.com##.navigation-links:has(>a.get-the-app-link):has(>a.mntl-header-nav__subscribe-link)
+people.com##div[class*="mm-ads-"]
+people.com##.mntl-footer__secondary
+people.com##.mntl-footer__social
 pewterreport.com###comments
 pewterreport.com###home .fusion-no-lightbox
 pewterreport.com###wpd-bubble #wpd-bubble-add-message
