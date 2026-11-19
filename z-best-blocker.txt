@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.11.18
+! Version: 2026.11.19
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -651,6 +651,7 @@ fantasysports.yahoo.com##form[id="add-drop-players-form"] > section.No-m:has(hea
 fantasysports.yahoo.com##html body.jar
 fantasysports.yahoo.com##section[id*="-promo"]
 fantasysports.yahoo.com##table.ad_slug_table
+fantasysports.yahoo.com##img[alt="Toyota"]
 footballscoop.com##.mainBody ~ section:has(.lazyLoaded)
 footballscoop.com##div:has(>.lazyLoaded)
 footballscoop.com##.flex > div:has(>aside)
