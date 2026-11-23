@@ -1,7 +1,7 @@
 [z-best-blocker]
 ! Homepage: https://raw.githubusercontent.com/radiochild577/iOSAdBlock/refs/heads/master/z-best-blocker.txt
 ! Title: z-best-blocker
-! Version: 2026.11.23
+! Version: 2026.11.23.1
 
 ! === GLOBAL RULES ===
 div[class$="ad-container"]
@@ -220,6 +220,11 @@ al.com##.footer__divider
 al.com##.viafoura
 al.com###excoExperiment
 al.com##amp-ad
+al.com##[aria-label^="Subscribe"]
+al.com##.article__story > .entry-content > ul[data-testid="list"]
+al.com##div:has(>amp-embed#taboola)
+al.com##.footer > :not(.footer__nav)
+al.com##.footer > .footer__nav > .footer__nav-wrapper > :not(.footer__nav-header)
 alabamagolf.org##header > .container > .row .row > .col-12:first-child
 alabamagolf.org##section#sponsors-wrap
 alabamagolf.org##footer .row > :not(.col-12)
