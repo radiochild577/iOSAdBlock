@@ -374,6 +374,7 @@ bamahammer.com##main[class^="style_"] > figure[class^="style_"]
 bamahammer.com##script[type="placeholder"]
 bamahammer.com##div[data-testid="google-news-widget"]
 bamahammer.com##[id^="mm-ad-placeholder"]
+bamahammer.com###article-quiz
 batterypower.com##a.duet--article--comments-link
 batterypower.com##ul.duet--article--share-buttons
 batterypower.com###comments
